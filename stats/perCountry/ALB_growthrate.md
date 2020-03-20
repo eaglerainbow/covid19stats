@@ -3,20 +3,22 @@
 The Growth Rate mentioned below is calculated based on
 * an exponential growth assumption
 * for time difference of past seven (7) days
-* showing the most recent reported value avialable
-* for confirmed (not active!) cases.
+* showing the most recent reported value available.
 
-| Reported On | Growth Rate (Confirmed) |
-|-------------|-------------------------|
-| 2020-03-19 |  32.64 %  | 
-| 2020-03-18 |  64.09 %  | 
-| 2020-03-17 |  74.04 %  | 
-| 2020-03-16 |  467.24 %  | 
-| 2020-03-15 |  None  | 
-| 2020-03-14 |  None  | 
-| 2020-03-13 |  None  | 
-| 2020-03-12 |  None  | 
-| 2020-03-11 |  None  | 
-| 2020-03-10 |  None  | 
-| 2020-03-09 |  None  | 
+The first growth rate indicates the increase of confirmed (infected) cases.
+The second growth rate indicates the increase of recovered (healed) cases.
+
+| Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
+|-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-03-19 | 64 |  32.64 %  | 0 |  None  | 
+| 2020-03-18 | 59 |  64.09 %  | 0 |  None  | 
+| 2020-03-17 | 55 |  74.04 %  | 0 |  None  | 
+| 2020-03-16 | 51 |  467.24 %  | 0 |  None  | 
+| 2020-03-15 | 42 |  None  | 0 |  None  | 
+| 2020-03-14 | 38 |  None  | 0 |  None  | 
+| 2020-03-13 | 33 |  None  | 0 |  None  | 
+| 2020-03-12 | 23 |  None  | 0 |  None  | 
+| 2020-03-11 | 12 |  None  | 0 |  None  | 
+| 2020-03-10 | 10 |  None  | 0 |  None  | 
+| 2020-03-09 | 2 |  None  | 0 |  None  | 
 

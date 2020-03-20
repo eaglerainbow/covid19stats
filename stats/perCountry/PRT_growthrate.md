@@ -3,27 +3,29 @@
 The Growth Rate mentioned below is calculated based on
 * an exponential growth assumption
 * for time difference of past seven (7) days
-* showing the most recent reported value avialable
-* for confirmed (not active!) cases.
+* showing the most recent reported value available.
 
-| Reported On | Growth Rate (Confirmed) |
-|-------------|-------------------------|
-| 2020-03-19 |  63.47 %  | 
-| 2020-03-18 |  49.72 %  | 
-| 2020-03-17 |  64.39 %  | 
-| 2020-03-16 |  70.59 %  | 
-| 2020-03-15 |  61.74 %  | 
-| 2020-03-14 |  71.24 %  | 
-| 2020-03-13 |  83.96 %  | 
-| 2020-03-12 |  96.09 %  | 
-| 2020-03-11 |  153.35 %  | 
-| 2020-03-10 |  435.76 %  | 
-| 2020-03-09 |  390.69 %  | 
-| 2020-03-08 |  None  | 
-| 2020-03-07 |  None  | 
-| 2020-03-06 |  None  | 
-| 2020-03-05 |  None  | 
-| 2020-03-04 |  None  | 
-| 2020-03-03 |  None  | 
-| 2020-03-02 |  None  | 
+The first growth rate indicates the increase of confirmed (infected) cases.
+The second growth rate indicates the increase of recovered (healed) cases.
+
+| Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
+|-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-03-19 | 785 |  63.47 %  | 3 |  None  | 
+| 2020-03-18 | 448 |  49.72 %  | 3 |  None  | 
+| 2020-03-17 | 448 |  64.39 %  | 3 |  None  | 
+| 2020-03-16 | 331 |  70.59 %  | 3 |  None  | 
+| 2020-03-15 | 245 |  61.74 %  | 2 |  None  | 
+| 2020-03-14 | 169 |  71.24 %  | 2 |  None  | 
+| 2020-03-13 | 112 |  83.96 %  | 1 |  None  | 
+| 2020-03-12 | 59 |  96.09 %  | 0 |  None  | 
+| 2020-03-11 | 59 |  153.35 %  | 0 |  None  | 
+| 2020-03-10 | 41 |  435.76 %  | 0 |  None  | 
+| 2020-03-09 | 30 |  390.69 %  | 0 |  None  | 
+| 2020-03-08 | 30 |  None  | 0 |  None  | 
+| 2020-03-07 | 20 |  None  | 0 |  None  | 
+| 2020-03-06 | 13 |  None  | 0 |  None  | 
+| 2020-03-05 | 8 |  None  | 0 |  None  | 
+| 2020-03-04 | 5 |  None  | 0 |  None  | 
+| 2020-03-03 | 2 |  None  | 0 |  None  | 
+| 2020-03-02 | 2 |  None  | 0 |  None  | 
 

@@ -3,29 +3,31 @@
 The Growth Rate mentioned below is calculated based on
 * an exponential growth assumption
 * for time difference of past seven (7) days
-* showing the most recent reported value avialable
-* for confirmed (not active!) cases.
+* showing the most recent reported value available.
 
-| Reported On | Growth Rate (Confirmed) |
-|-------------|-------------------------|
-| 2020-03-19 |  10.11 %  | 
-| 2020-03-18 |  9.79 %  | 
-| 2020-03-17 |  91.45 %  | 
-| 2020-03-16 |  110.51 %  | 
-| 2020-03-15 |  121.34 %  | 
-| 2020-03-14 |  179.89 %  | 
-| 2020-03-13 |  177.40 %  | 
-| 2020-03-12 |  167.78 %  | 
-| 2020-03-11 |  167.78 %  | 
-| 2020-03-10 |  63.32 %  | 
-| 2020-03-09 |  163.09 %  | 
-| 2020-03-08 |  146.50 %  | 
-| 2020-03-07 |  None  | 
-| 2020-03-06 |  None  | 
-| 2020-03-05 |  None  | 
-| 2020-03-04 |  None  | 
-| 2020-03-03 |  None  | 
-| 2020-03-02 |  None  | 
-| 2020-03-01 |  None  | 
-| 2020-02-29 |  None  | 
+The first growth rate indicates the increase of confirmed (infected) cases.
+The second growth rate indicates the increase of recovered (healed) cases.
+
+| Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
+|-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-03-19 | 460 |  10.11 %  | 4 |  None  | 
+| 2020-03-18 | 452 |  9.79 %  | 4 |  None  | 
+| 2020-03-17 | 439 |  91.45 %  | 4 |  None  | 
+| 2020-03-16 | 439 |  110.51 %  | 4 |  None  | 
+| 2020-03-15 | 401 |  121.34 %  | 4 |  None  | 
+| 2020-03-14 | 337 |  179.89 %  | 4 |  None  | 
+| 2020-03-13 | 320 |  177.40 %  | 0 |  None  | 
+| 2020-03-12 | 262 |  167.78 %  | 0 |  None  | 
+| 2020-03-11 | 262 |  167.78 %  | 0 |  None  | 
+| 2020-03-10 | 24 |  63.32 %  | 0 |  None  | 
+| 2020-03-09 | 18 |  163.09 %  | 0 |  None  | 
+| 2020-03-08 | 15 |  146.50 %  | 0 |  None  | 
+| 2020-03-07 | 8 |  None  | 0 |  None  | 
+| 2020-03-06 | 8 |  None  | 0 |  None  | 
+| 2020-03-05 | 8 |  None  | 0 |  None  | 
+| 2020-03-04 | 8 |  None  | 0 |  None  | 
+| 2020-03-03 | 7 |  None  | 0 |  None  | 
+| 2020-03-02 | 3 |  None  | 0 |  None  | 
+| 2020-03-01 | 3 |  None  | 0 |  None  | 
+| 2020-02-29 | 1 |  None  | 0 |  None  | 
 

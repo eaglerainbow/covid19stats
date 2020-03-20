@@ -3,41 +3,43 @@
 The Growth Rate mentioned below is calculated based on
 * an exponential growth assumption
 * for time difference of past seven (7) days
-* showing the most recent reported value avialable
-* for confirmed (not active!) cases.
+* showing the most recent reported value available.
 
-| Reported On | Growth Rate (Confirmed) |
-|-------------|-------------------------|
-| 2020-03-19 |  30.32 %  | 
-| 2020-03-18 |  27.04 %  | 
-| 2020-03-17 |  27.53 %  | 
-| 2020-03-16 |  27.16 %  | 
-| 2020-03-15 |  28.09 %  | 
-| 2020-03-14 |  27.40 %  | 
-| 2020-03-13 |  34.85 %  | 
-| 2020-03-12 |  46.97 %  | 
-| 2020-03-11 |  83.36 %  | 
-| 2020-03-10 |  117.83 %  | 
-| 2020-03-09 |  163.36 %  | 
-| 2020-03-08 |  664.39 %  | 
-| 2020-03-07 |  None  | 
-| 2020-03-06 |  None  | 
-| 2020-03-05 |  None  | 
-| 2020-03-04 |  None  | 
-| 2020-03-03 |  None  | 
-| 2020-03-02 |  None  | 
-| 2020-03-01 |  None  | 
-| 2020-02-16 |  None  | 
-| 2020-02-15 |  None  | 
-| 2020-02-14 |  None  | 
-| 2020-02-13 |  None  | 
-| 2020-02-12 |  None  | 
-| 2020-02-11 |  None  | 
-| 2020-02-10 |  None  | 
-| 2020-02-09 |  None  | 
-| 2020-02-08 |  None  | 
-| 2020-02-07 |  None  | 
-| 2020-02-06 |  None  | 
-| 2020-02-05 |  None  | 
-| 2020-02-04 |  None  | 
+The first growth rate indicates the increase of confirmed (infected) cases.
+The second growth rate indicates the increase of recovered (healed) cases.
+
+| Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
+|-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-03-19 | 1795 |  30.32 %  | 31 |  None  | 
+| 2020-03-18 | 1486 |  27.04 %  | 31 |  None  | 
+| 2020-03-17 | 1243 |  27.53 %  | 1 |  None  | 
+| 2020-03-16 | 1058 |  27.16 %  | 1 |  None  | 
+| 2020-03-15 | 886 |  28.09 %  | 1 |  None  | 
+| 2020-03-14 | 689 |  27.40 %  | 1 |  None  | 
+| 2020-03-13 | 559 |  34.85 %  | 1 |  None  | 
+| 2020-03-12 | 314 |  46.97 %  | 1 |  None  | 
+| 2020-03-11 | 314 |  83.36 %  | 1 |  None  | 
+| 2020-03-10 | 267 |  117.83 %  | 1 |  None  | 
+| 2020-03-09 | 239 |  163.36 %  | 1 |  None  | 
+| 2020-03-08 | 200 |  664.39 %  | 1 |  None  | 
+| 2020-03-07 | 169 |  None  | 1 |  None  | 
+| 2020-03-06 | 109 |  None  | 1 |  None  | 
+| 2020-03-05 | 50 |  None  | 1 |  None  | 
+| 2020-03-04 | 23 |  None  | 1 |  None  | 
+| 2020-03-03 | 13 |  None  | 1 |  None  | 
+| 2020-03-02 | 8 |  None  | 1 |  None  | 
+| 2020-03-01 | 2 |  None  | 1 |  None  | 
+| 2020-02-16 | 1 |  None  | 0 |  None  | 
+| 2020-02-15 | 1 |  None  | 0 |  None  | 
+| 2020-02-14 | 1 |  None  | 0 |  None  | 
+| 2020-02-13 | 1 |  None  | 0 |  None  | 
+| 2020-02-12 | 1 |  None  | 0 |  None  | 
+| 2020-02-11 | 1 |  None  | 0 |  None  | 
+| 2020-02-10 | 1 |  None  | 0 |  None  | 
+| 2020-02-09 | 1 |  None  | 0 |  None  | 
+| 2020-02-08 | 1 |  None  | 0 |  None  | 
+| 2020-02-07 | 1 |  None  | 0 |  None  | 
+| 2020-02-06 | 1 |  None  | 0 |  None  | 
+| 2020-02-05 | 1 |  None  | 0 |  None  | 
+| 2020-02-04 | 1 |  None  | 0 |  None  | 
 
