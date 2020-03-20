@@ -10,5 +10,5 @@ The statistics in this repository is based on
 
 For looking at our figures, please [go here](stats.md).
 
-For looking at our raw data, please [go here](./rawdata/). The main
-data set can be found at [rawdata/daily.json](./rawdata/daily.json).
+For looking at our raw data, please [go here](https://github.com/eaglerainbow/covid19stats/tree/master/rawdata/). The main
+data set can be found at [rawdata/daily.json](https://github.com/eaglerainbow/covid19stats/tree/master/rawdata/daily.json).
