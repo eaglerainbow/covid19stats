@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Czechia 
+# Country Figures: Growth Rate for Czechia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

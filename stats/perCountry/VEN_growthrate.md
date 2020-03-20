@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Venezuela 
+# Country Figures: Growth Rate for Venezuela 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

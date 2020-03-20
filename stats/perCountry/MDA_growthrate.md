@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Moldova 
+# Country Figures: Growth Rate for Moldova 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

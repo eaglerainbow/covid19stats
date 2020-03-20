@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Honduras 
+# Country Figures: Growth Rate for Honduras 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

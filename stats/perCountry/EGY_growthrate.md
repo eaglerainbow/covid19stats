@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Egypt 
+# Country Figures: Growth Rate for Egypt 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

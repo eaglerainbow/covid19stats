@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Pakistan 
+# Country Figures: Growth Rate for Pakistan 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

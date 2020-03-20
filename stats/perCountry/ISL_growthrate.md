@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Iceland 
+# Country Figures: Growth Rate for Iceland 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

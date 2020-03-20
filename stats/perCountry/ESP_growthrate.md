@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Spain 
+# Country Figures: Growth Rate for Spain 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

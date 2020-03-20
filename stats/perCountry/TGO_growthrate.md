@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Togo 
+# Country Figures: Growth Rate for Togo 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

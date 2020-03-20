@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Malaysia 
+# Country Figures: Growth Rate for Malaysia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

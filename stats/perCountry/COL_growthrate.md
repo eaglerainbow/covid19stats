@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Colombia 
+# Country Figures: Growth Rate for Colombia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

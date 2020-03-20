@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Namibia 
+# Country Figures: Growth Rate for Namibia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

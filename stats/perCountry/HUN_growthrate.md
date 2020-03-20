@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Hungary 
+# Country Figures: Growth Rate for Hungary 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

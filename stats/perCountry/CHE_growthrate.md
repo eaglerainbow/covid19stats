@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Switzerland 
+# Country Figures: Growth Rate for Switzerland 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

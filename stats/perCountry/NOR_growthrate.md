@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Norway 
+# Country Figures: Growth Rate for Norway 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

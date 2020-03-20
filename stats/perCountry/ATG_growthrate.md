@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Antiguaand Barbuda 
+# Country Figures: Growth Rate for Antiguaand Barbuda 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

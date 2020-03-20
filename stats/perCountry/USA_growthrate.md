@@ -1,4 +1,4 @@
-# Country Figures: Time Series for US 
+# Country Figures: Growth Rate for US 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

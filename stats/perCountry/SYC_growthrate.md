@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Seychelles 
+# Country Figures: Growth Rate for Seychelles 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

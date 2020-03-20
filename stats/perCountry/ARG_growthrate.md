@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Argentina 
+# Country Figures: Growth Rate for Argentina 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

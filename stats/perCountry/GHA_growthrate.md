@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Ghana 
+# Country Figures: Growth Rate for Ghana 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

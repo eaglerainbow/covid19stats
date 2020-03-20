@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Romania 
+# Country Figures: Growth Rate for Romania 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

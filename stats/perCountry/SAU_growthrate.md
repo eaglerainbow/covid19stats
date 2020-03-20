@@ -1,4 +1,4 @@
-# Country Figures: Time Series for SaudiArabia 
+# Country Figures: Growth Rate for SaudiArabia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

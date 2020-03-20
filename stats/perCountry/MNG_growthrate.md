@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Mongolia 
+# Country Figures: Growth Rate for Mongolia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

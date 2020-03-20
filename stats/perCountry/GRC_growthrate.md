@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Greece 
+# Country Figures: Growth Rate for Greece 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Estonia 
+# Country Figures: Growth Rate for Estonia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

@@ -1,4 +1,4 @@
-# Country Figures: Time Series for FaroeIslands 
+# Country Figures: Growth Rate for FaroeIslands 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

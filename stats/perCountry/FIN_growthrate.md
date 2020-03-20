@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Finland 
+# Country Figures: Growth Rate for Finland 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

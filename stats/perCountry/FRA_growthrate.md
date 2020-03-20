@@ -1,4 +1,4 @@
-# Country Figures: Time Series for France 
+# Country Figures: Growth Rate for France 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

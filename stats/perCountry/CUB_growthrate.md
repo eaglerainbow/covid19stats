@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Cuba 
+# Country Figures: Growth Rate for Cuba 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

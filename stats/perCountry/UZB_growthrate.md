@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Uzbekistan 
+# Country Figures: Growth Rate for Uzbekistan 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

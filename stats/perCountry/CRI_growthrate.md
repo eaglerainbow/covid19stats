@@ -1,4 +1,4 @@
-# Country Figures: Time Series for CostaRica 
+# Country Figures: Growth Rate for CostaRica 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

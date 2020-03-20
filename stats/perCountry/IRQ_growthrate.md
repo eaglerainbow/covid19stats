@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Iraq 
+# Country Figures: Growth Rate for Iraq 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

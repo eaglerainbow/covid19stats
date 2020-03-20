@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Croatia 
+# Country Figures: Growth Rate for Croatia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

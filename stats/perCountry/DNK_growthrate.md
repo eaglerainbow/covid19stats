@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Denmark 
+# Country Figures: Growth Rate for Denmark 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

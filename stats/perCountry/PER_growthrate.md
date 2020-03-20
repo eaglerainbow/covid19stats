@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Peru 
+# Country Figures: Growth Rate for Peru 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

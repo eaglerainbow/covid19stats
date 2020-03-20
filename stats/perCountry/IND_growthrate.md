@@ -1,4 +1,4 @@
-# Country Figures: Time Series for India 
+# Country Figures: Growth Rate for India 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

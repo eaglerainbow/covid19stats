@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Cyprus 
+# Country Figures: Growth Rate for Cyprus 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

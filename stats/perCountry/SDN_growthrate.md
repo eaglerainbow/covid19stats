@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Sudan 
+# Country Figures: Growth Rate for Sudan 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

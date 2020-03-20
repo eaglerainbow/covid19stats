@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Guinea 
+# Country Figures: Growth Rate for Guinea 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

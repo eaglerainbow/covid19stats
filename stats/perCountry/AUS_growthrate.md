@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Australia 
+# Country Figures: Growth Rate for Australia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

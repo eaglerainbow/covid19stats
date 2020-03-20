@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Guatemala 
+# Country Figures: Growth Rate for Guatemala 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

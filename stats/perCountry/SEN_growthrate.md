@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Senegal 
+# Country Figures: Growth Rate for Senegal 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

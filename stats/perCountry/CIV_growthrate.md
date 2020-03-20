@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Coted&#39;Ivoire 
+# Country Figures: Growth Rate for Coted&#39;Ivoire 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

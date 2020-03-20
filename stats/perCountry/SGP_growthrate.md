@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Singapore 
+# Country Figures: Growth Rate for Singapore 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

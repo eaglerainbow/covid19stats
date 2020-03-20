@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Japan 
+# Country Figures: Growth Rate for Japan 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

@@ -1,4 +1,4 @@
-# Country Figures: Time Series for St.Martin 
+# Country Figures: Growth Rate for St.Martin 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

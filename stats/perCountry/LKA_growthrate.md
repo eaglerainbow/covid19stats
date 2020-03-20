@@ -1,4 +1,4 @@
-# Country Figures: Time Series for SriLanka 
+# Country Figures: Growth Rate for SriLanka 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

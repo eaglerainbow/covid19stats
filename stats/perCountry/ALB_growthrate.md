@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Albania 
+# Country Figures: Growth Rate for Albania 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

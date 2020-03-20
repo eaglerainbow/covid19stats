@@ -1,4 +1,4 @@
-# Country Figures: Time Series for CaymanIslands 
+# Country Figures: Growth Rate for CaymanIslands 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

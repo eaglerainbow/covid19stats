@@ -1,4 +1,4 @@
-# Country Figures: Time Series for UnitedArab Emirates 
+# Country Figures: Growth Rate for UnitedArab Emirates 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

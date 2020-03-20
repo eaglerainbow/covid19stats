@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Andorra 
+# Country Figures: Growth Rate for Andorra 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

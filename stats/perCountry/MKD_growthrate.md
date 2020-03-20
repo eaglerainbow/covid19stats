@@ -1,4 +1,4 @@
-# Country Figures: Time Series for NorthMacedonia 
+# Country Figures: Growth Rate for NorthMacedonia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

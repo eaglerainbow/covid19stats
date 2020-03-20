@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Philippines 
+# Country Figures: Growth Rate for Philippines 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

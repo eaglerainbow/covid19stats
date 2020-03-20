@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Qatar 
+# Country Figures: Growth Rate for Qatar 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

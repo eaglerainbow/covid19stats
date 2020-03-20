@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Oman 
+# Country Figures: Growth Rate for Oman 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

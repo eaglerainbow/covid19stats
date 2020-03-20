@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Ethiopia 
+# Country Figures: Growth Rate for Ethiopia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

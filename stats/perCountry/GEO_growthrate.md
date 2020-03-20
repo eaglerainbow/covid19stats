@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Georgia 
+# Country Figures: Growth Rate for Georgia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

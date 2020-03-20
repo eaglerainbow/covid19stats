@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Bulgaria 
+# Country Figures: Growth Rate for Bulgaria 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Maldives 
+# Country Figures: Growth Rate for Maldives 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

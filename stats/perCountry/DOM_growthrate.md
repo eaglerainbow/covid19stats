@@ -1,4 +1,4 @@
-# Country Figures: Time Series for DominicanRepublic 
+# Country Figures: Growth Rate for DominicanRepublic 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

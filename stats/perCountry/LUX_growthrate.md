@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Luxembourg 
+# Country Figures: Growth Rate for Luxembourg 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

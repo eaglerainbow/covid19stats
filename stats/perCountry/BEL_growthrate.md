@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Belgium 
+# Country Figures: Growth Rate for Belgium 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

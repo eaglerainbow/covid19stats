@@ -1,4 +1,4 @@
-# Country Figures: Time Series for NewZealand 
+# Country Figures: Growth Rate for NewZealand 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

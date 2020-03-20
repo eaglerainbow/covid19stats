@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Gibraltar 
+# Country Figures: Growth Rate for Gibraltar 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

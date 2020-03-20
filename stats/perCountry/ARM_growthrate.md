@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Armenia 
+# Country Figures: Growth Rate for Armenia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

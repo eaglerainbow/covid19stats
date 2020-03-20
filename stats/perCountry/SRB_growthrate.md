@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Serbia 
+# Country Figures: Growth Rate for Serbia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

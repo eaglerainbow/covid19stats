@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Curacao 
+# Country Figures: Growth Rate for Curacao 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

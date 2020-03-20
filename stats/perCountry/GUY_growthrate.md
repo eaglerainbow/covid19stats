@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Guyana 
+# Country Figures: Growth Rate for Guyana 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

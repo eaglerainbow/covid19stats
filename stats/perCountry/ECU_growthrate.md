@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Ecuador 
+# Country Figures: Growth Rate for Ecuador 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

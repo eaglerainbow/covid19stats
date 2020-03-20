@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Mauritania 
+# Country Figures: Growth Rate for Mauritania 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

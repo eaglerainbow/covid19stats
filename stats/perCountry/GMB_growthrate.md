@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Gambia 
+# Country Figures: Growth Rate for Gambia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

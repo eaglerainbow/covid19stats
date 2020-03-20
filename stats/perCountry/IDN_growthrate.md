@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Indonesia 
+# Country Figures: Growth Rate for Indonesia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

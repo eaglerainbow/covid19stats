@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Uruguay 
+# Country Figures: Growth Rate for Uruguay 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

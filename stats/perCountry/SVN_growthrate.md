@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Slovenia 
+# Country Figures: Growth Rate for Slovenia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

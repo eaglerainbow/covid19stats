@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Nepal 
+# Country Figures: Growth Rate for Nepal 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Israel 
+# Country Figures: Growth Rate for Israel 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

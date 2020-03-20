@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Bolivia 
+# Country Figures: Growth Rate for Bolivia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

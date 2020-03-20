@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Russia 
+# Country Figures: Growth Rate for Russia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

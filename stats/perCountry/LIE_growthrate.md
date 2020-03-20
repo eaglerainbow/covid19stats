@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Liechtenstein 
+# Country Figures: Growth Rate for Liechtenstein 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

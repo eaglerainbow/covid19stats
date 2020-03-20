@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Slovakia 
+# Country Figures: Growth Rate for Slovakia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

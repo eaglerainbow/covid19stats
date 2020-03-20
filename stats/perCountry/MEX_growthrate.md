@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Mexico 
+# Country Figures: Growth Rate for Mexico 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

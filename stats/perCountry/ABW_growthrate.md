@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Aruba 
+# Country Figures: Growth Rate for Aruba 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

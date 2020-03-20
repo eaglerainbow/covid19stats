@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Kazakhstan 
+# Country Figures: Growth Rate for Kazakhstan 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

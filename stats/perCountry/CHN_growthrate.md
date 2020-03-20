@@ -1,4 +1,4 @@
-# Country Figures: Time Series for China 
+# Country Figures: Growth Rate for China 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

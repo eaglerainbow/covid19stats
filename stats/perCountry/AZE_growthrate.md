@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Azerbaijan 
+# Country Figures: Growth Rate for Azerbaijan 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

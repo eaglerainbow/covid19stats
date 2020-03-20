@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Iran 
+# Country Figures: Growth Rate for Iran 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

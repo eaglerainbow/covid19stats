@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Algeria 
+# Country Figures: Growth Rate for Algeria 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

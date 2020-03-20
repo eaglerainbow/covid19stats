@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Tunisia 
+# Country Figures: Growth Rate for Tunisia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

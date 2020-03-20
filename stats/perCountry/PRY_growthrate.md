@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Paraguay 
+# Country Figures: Growth Rate for Paraguay 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

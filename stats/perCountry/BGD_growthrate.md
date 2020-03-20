@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Bangladesh 
+# Country Figures: Growth Rate for Bangladesh 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

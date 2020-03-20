@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Cameroon 
+# Country Figures: Growth Rate for Cameroon 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

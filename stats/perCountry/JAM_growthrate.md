@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Jamaica 
+# Country Figures: Growth Rate for Jamaica 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

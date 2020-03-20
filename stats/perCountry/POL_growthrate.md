@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Poland 
+# Country Figures: Growth Rate for Poland 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

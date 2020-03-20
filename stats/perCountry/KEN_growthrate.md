@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Kenya 
+# Country Figures: Growth Rate for Kenya 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

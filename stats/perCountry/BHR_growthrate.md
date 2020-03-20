@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Bahrain 
+# Country Figures: Growth Rate for Bahrain 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

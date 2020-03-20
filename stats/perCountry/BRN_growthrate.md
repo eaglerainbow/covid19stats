@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Brunei 
+# Country Figures: Growth Rate for Brunei 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

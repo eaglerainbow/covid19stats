@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Germany 
+# Country Figures: Growth Rate for Germany 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

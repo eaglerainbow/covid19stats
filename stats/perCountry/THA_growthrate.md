@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Thailand 
+# Country Figures: Growth Rate for Thailand 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

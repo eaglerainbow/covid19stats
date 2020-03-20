@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Trinidadand Tobago 
+# Country Figures: Growth Rate for Trinidadand Tobago 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

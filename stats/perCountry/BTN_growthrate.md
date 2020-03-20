@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Bhutan 
+# Country Figures: Growth Rate for Bhutan 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

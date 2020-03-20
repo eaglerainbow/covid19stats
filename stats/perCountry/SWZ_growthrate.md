@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Eswatini 
+# Country Figures: Growth Rate for Eswatini 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

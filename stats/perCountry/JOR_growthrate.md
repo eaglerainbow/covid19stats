@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Jordan 
+# Country Figures: Growth Rate for Jordan 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

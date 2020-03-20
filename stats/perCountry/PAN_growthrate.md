@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Panama 
+# Country Figures: Growth Rate for Panama 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

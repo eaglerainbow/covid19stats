@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Latvia 
+# Country Figures: Growth Rate for Latvia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Lithuania 
+# Country Figures: Growth Rate for Lithuania 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

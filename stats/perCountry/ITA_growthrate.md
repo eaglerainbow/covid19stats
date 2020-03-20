@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Italy 
+# Country Figures: Growth Rate for Italy 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

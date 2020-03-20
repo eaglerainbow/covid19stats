@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Vietnam 
+# Country Figures: Growth Rate for Vietnam 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

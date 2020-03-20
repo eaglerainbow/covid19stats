@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Canada 
+# Country Figures: Growth Rate for Canada 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

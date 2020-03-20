@@ -1,4 +1,4 @@
-# Country Figures: Time Series for SanMarino 
+# Country Figures: Growth Rate for SanMarino 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

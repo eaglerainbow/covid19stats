@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Netherlands 
+# Country Figures: Growth Rate for Netherlands 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

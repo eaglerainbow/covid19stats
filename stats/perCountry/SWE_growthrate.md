@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Sweden 
+# Country Figures: Growth Rate for Sweden 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

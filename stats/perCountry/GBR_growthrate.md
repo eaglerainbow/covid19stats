@@ -1,4 +1,4 @@
-# Country Figures: Time Series for UnitedKingdom 
+# Country Figures: Growth Rate for UnitedKingdom 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

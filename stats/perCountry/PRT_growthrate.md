@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Portugal 
+# Country Figures: Growth Rate for Portugal 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

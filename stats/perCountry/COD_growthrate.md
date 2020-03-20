@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Congo(Kinshasa) 
+# Country Figures: Growth Rate for Congo(Kinshasa) 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

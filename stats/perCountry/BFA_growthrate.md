@@ -1,4 +1,4 @@
-# Country Figures: Time Series for BurkinaFaso 
+# Country Figures: Growth Rate for BurkinaFaso 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

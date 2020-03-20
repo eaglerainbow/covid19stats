@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Korea,South 
+# Country Figures: Growth Rate for Korea,South 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

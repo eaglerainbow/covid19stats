@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Belarus 
+# Country Figures: Growth Rate for Belarus 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

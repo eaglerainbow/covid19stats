@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Bosniaand Herzegovina 
+# Country Figures: Growth Rate for Bosniaand Herzegovina 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

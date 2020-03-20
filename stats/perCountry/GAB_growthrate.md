@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Gabon 
+# Country Figures: Growth Rate for Gabon 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

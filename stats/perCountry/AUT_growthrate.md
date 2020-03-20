@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Austria 
+# Country Figures: Growth Rate for Austria 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

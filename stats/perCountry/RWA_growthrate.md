@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Rwanda 
+# Country Figures: Growth Rate for Rwanda 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

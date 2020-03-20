@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Ireland 
+# Country Figures: Growth Rate for Ireland 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

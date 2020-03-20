@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Turkey 
+# Country Figures: Growth Rate for Turkey 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

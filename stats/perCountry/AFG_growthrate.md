@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Afghanistan 
+# Country Figures: Growth Rate for Afghanistan 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

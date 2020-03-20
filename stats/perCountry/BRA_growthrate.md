@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Brazil 
+# Country Figures: Growth Rate for Brazil 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Monaco 
+# Country Figures: Growth Rate for Monaco 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

@@ -1,4 +1,4 @@
-# Country Figures: Time Series for SouthAfrica 
+# Country Figures: Growth Rate for SouthAfrica 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

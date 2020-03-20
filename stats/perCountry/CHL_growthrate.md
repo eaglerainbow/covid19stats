@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Chile 
+# Country Figures: Growth Rate for Chile 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

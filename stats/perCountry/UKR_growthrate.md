@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Ukraine 
+# Country Figures: Growth Rate for Ukraine 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

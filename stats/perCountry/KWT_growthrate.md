@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Kuwait 
+# Country Figures: Growth Rate for Kuwait 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

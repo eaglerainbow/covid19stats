@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Morocco 
+# Country Figures: Growth Rate for Morocco 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

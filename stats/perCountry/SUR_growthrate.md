@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Suriname 
+# Country Figures: Growth Rate for Suriname 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

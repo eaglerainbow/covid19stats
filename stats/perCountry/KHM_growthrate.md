@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Cambodia 
+# Country Figures: Growth Rate for Cambodia 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

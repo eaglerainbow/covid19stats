@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Nigeria 
+# Country Figures: Growth Rate for Nigeria 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

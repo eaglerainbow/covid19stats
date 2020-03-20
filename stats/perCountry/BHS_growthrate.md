@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Bahamas 
+# Country Figures: Growth Rate for Bahamas 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

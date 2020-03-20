@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Lebanon 
+# Country Figures: Growth Rate for Lebanon 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|

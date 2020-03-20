@@ -1,4 +1,4 @@
-# Country Figures: Time Series for Malta 
+# Country Figures: Growth Rate for Malta 
 
 | Reported On | Growth Rate (Confirmed) |
 |-------------|-------------------------|
