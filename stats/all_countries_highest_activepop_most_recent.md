@@ -2,38 +2,6 @@
 
 | Country | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |---------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
-| [Bahamas,The](./perCountry/None_stat.md) (None) | 3 | 0 | 0 | 3 | 0.00 % | None | None | None |  n/a  | 
-| [Barbados](./perCountry/None_stat.md) (None) | 5 | 0 | 0 | 5 | 0.00 % | 3 | 0 | 3 |  n/a  | 
-| [Benin](./perCountry/None_stat.md) (None) | 2 | 0 | 0 | 2 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [CentralAfrican Republic](./perCountry/None_stat.md) (None) | 1 | 0 | 0 | 1 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Chad](./perCountry/None_stat.md) (None) | 1 | 0 | 0 | 1 | 0.00 % | None | None | None |  n/a  | 
-| [Congo(Brazzaville)](./perCountry/None_stat.md) (None) | 3 | 0 | 0 | 3 | 0.00 % | 2 | 0 | 2 |  n/a  | 
-| [CruiseShip](./perCountry/None_stat.md) (None) | 712 | 7 | 325 | 380 | 0.98 % | 0 | 0 | 0 |  n/a  | 
-| [Djibouti](./perCountry/None_stat.md) (None) | 1 | 0 | 0 | 1 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [ElSalvador](./perCountry/None_stat.md) (None) | 1 | 0 | 0 | 1 | 0.00 % | None | None | None |  n/a  | 
-| [EquatorialGuinea](./perCountry/None_stat.md) (None) | 6 | 0 | 0 | 6 | 0.00 % | 2 | 0 | 2 |  n/a  | 
-| [Fiji](./perCountry/None_stat.md) (None) | 1 | 0 | 0 | 1 | 0.00 % | None | None | None |  n/a  | 
-| [Gambia,The](./perCountry/None_stat.md) (None) | 1 | 0 | 0 | 1 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Greenland](./perCountry/None_stat.md) (None) | 0 | 0 | 0 | 0 | 0.00 % | -1 | 0 | -1 |  n/a  | 
-| [Guam](./perCountry/None_stat.md) (None) | 0 | 0 | 0 | 0 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Guernsey](./perCountry/None_stat.md) (None) | 0 | 0 | 0 | 0 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Jersey](./perCountry/None_stat.md) (None) | 0 | 0 | 0 | 0 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Kosovo](./perCountry/None_stat.md) (None) | 2 | 0 | 0 | 2 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Kyrgyzstan](./perCountry/None_stat.md) (None) | 3 | 0 | 0 | 3 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Liberia](./perCountry/None_stat.md) (None) | 2 | 0 | 0 | 2 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Mauritius](./perCountry/None_stat.md) (None) | 3 | 0 | 0 | 3 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Mayotte](./perCountry/None_stat.md) (None) | 3 | 0 | 0 | 3 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Montenegro](./perCountry/None_stat.md) (None) | 3 | 0 | 0 | 3 | 0.00 % | 2 | 0 | 2 |  n/a  | 
-| [Nicaragua](./perCountry/None_stat.md) (None) | 1 | 0 | 0 | 1 | 0.00 % | None | None | None |  n/a  | 
-| [PuertoRico](./perCountry/None_stat.md) (None) | 0 | 0 | 0 | 0 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Republicof the Congo](./perCountry/None_stat.md) (None) | 0 | 0 | 0 | 0 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [SaintLucia](./perCountry/None_stat.md) (None) | 2 | 0 | 0 | 2 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [SaintVincent and the Grenadines](./perCountry/None_stat.md) (None) | 1 | 0 | 0 | 1 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Somalia](./perCountry/None_stat.md) (None) | 1 | 0 | 0 | 1 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Taiwan](./perCountry/None_stat.md) (None) | 108 | 1 | 26 | 81 | 0.93 % | 8 | 0 | 4 |  n/a  | 
-| [Tanzania](./perCountry/None_stat.md) (None) | 6 | 0 | 0 | 6 | 0.00 % | 3 | 0 | 3 |  n/a  | 
-| [VaticanCity](./perCountry/None_stat.md) (None) | 1 | 0 | 0 | 1 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Zambia](./perCountry/None_stat.md) (None) | 2 | 0 | 0 | 2 | 0.00 % | 0 | 0 | 0 |  n/a  | 
 | [SanMarino](./perCountry/SMR_stat.md) (SMR) | 119 | 11 | 4 | 104 | 9.24 % | 0 | 0 | 0 |  0.308 %  | 
 | [Iceland](./perCountry/ISL_stat.md) (ISL) | 330 | 1 | 5 | 324 | 0.30 % | 80 | 0 | 80 |  0.092 %  | 
 | [Liechtenstein](./perCountry/LIE_stat.md) (LIE) | 28 | 0 | 0 | 28 | 0.00 % | 0 | 0 | 0 |  0.074 %  | 
