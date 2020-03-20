@@ -1,11 +1,11 @@
 # Country Figures: Growth Rate for Lebanon 
 
-The Growth Rate mentioned below is calculated based on
+The growth rates below are calculated based on
 * an exponential growth assumption
-* for time difference of past seven (7) days
-* showing the most recent reported value available.
+* for time difference of past seven (7) days.
 
 The first growth rate indicates the increase of confirmed (infected) cases.
+
 The second growth rate indicates the increase of recovered (healed) cases.
 
 | Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
