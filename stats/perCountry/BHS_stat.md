@@ -1,0 +1,9 @@
+# Country Figures: Time Series for Bahamas 
+
+| Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
+|-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
+| 2020-03-19 | 0 | 0 | 0 | 0 |  None  | -1 | 0 | -1 |  n/a  | 
+| 2020-03-18 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 |  0.000 %  | 
+| 2020-03-17 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 |  0.000 %  | 
+| 2020-03-16 | 1 | 0 | 0 | 1 |  None  | None | None | None |  0.000 %  | 
+

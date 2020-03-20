@@ -1,0 +1,11 @@
+# Country Figures: Time Series for Venezuela 
+
+| Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
+|-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
+| 2020-03-19 | 42 | 0 | 0 | 42 |  None  | 6 | 0 | 6 |  0.000 %  | 
+| 2020-03-18 | 36 | 0 | 0 | 36 |  None  | 3 | 0 | 3 |  0.000 %  | 
+| 2020-03-17 | 33 | 0 | 0 | 33 |  None  | 16 | 0 | 16 |  0.000 %  | 
+| 2020-03-16 | 17 | 0 | 0 | 17 |  None  | 7 | 0 | 7 |  0.000 %  | 
+| 2020-03-15 | 10 | 0 | 0 | 10 |  None  | 8 | 0 | 8 |  0.000 %  | 
+| 2020-03-14 | 2 | 0 | 0 | 2 |  None  | None | None | None |  0.000 %  | 
+
