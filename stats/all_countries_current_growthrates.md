@@ -1,5 +1,11 @@
 # Most Recent Figures: Most Confirmed By Country 
 
+The Growth Rate mentioned below is calculated based on 
+* an exponential growth assumption
+* for time difference of past seven (7) days
+* showing the most recent reported value avialable
+* for confirmed (not active!) cases.
+
 | Country | Confirmed Growth Rate |
 |---------|-----------------------|
 | [SriLanka](./perCountry/LKA_growthrate.md) (LKA) | 490.69 % | 
