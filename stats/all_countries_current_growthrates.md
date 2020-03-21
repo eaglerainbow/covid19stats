@@ -6,6 +6,8 @@ The Growth Rate mentioned below is calculated based on
 * showing the most recent reported value available
 * for confirmed (not active!) cases.
 
+![Diagram: Growth Rate vs. Absolute Confirmed](./all_countries_scatter_growth_vs_confirmed.svg)
+
 | Country | Confirmed Growth Rate |
 |---------|-----------------------|
 | [BurkinaFaso](./perCountry/BFA_growthrate.md) (BFA) | 432.19 % | 
