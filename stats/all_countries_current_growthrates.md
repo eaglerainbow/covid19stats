@@ -1,4 +1,4 @@
-# Most Recent Figures: Most Confirmed By Country 
+# Most Recent Figures: Highest Confirmed Growth Rate by Country
 
 The Growth Rate mentioned below is calculated based on 
 * an exponential growth assumption
