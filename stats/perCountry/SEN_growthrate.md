@@ -8,6 +8,11 @@ The first growth rate indicates the increase of confirmed (infected) cases.
 
 The second growth rate indicates the increase of recovered (healed) cases.
 
+![Diagram Absolute Values Confirmed/Recovered](./SEN_growthrate_absolute.svg)
+
+![Diagram Growth Rate Confirmed/Recovered](./SEN_growthrate_rate.svg)
+
+
 | Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
 |-------------|-----------|-------------------------|-----------|-------------------------|
 | 2020-03-20 | 38 |  57.98 %  | 2 |  None  | 

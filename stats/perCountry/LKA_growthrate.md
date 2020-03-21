@@ -8,6 +8,11 @@ The first growth rate indicates the increase of confirmed (infected) cases.
 
 The second growth rate indicates the increase of recovered (healed) cases.
 
+![Diagram Absolute Values Confirmed/Recovered](./LKA_growthrate_absolute.svg)
+
+![Diagram Growth Rate Confirmed/Recovered](./LKA_growthrate_rate.svg)
+
+
 | Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
 |-------------|-----------|-------------------------|-----------|-------------------------|
 | 2020-03-20 | 73 |  139.46 %  | 3 |  None  | 
