@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Congo(Kinshasa) 
 
+![Diagram Absolute Values Confirmed/Active](./COD_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./COD_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./COD_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./COD_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./COD_stat_deltaactive.svg)
+
+![Diagram Mortality](./COD_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 23 | 1 | 0 | 22 |  4.35 %  | 5 | 1 | 4 |  0.000 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Poland 
 
+![Diagram Absolute Values Confirmed/Active](./POL_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./POL_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./POL_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./POL_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./POL_stat_deltaactive.svg)
+
+![Diagram Mortality](./POL_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 536 | 5 | 1 | 530 |  0.93 %  | 111 | 0 | 111 |  0.001 %  | 

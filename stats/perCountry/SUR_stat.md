@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Suriname 
 
+![Diagram Absolute Values Confirmed/Active](./SUR_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./SUR_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./SUR_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./SUR_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./SUR_stat_deltaactive.svg)
+
+![Diagram Mortality](./SUR_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 4 | 0 | 0 | 4 |  None  | 0 | 0 | 0 |  0.001 %  | 

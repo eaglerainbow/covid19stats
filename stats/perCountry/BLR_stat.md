@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Belarus 
 
+![Diagram Absolute Values Confirmed/Active](./BLR_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./BLR_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./BLR_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./BLR_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./BLR_stat_deltaactive.svg)
+
+![Diagram Mortality](./BLR_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 76 | 0 | 15 | 61 |  None  | 7 | 0 | -3 |  0.001 %  | 

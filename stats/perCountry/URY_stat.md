@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Uruguay 
 
+![Diagram Absolute Values Confirmed/Active](./URY_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./URY_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./URY_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./URY_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./URY_stat_deltaactive.svg)
+
+![Diagram Mortality](./URY_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 110 | 0 | 0 | 110 |  None  | 16 | 0 | 16 |  0.003 %  | 

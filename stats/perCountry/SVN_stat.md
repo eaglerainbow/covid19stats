@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Slovenia 
 
+![Diagram Absolute Values Confirmed/Active](./SVN_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./SVN_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./SVN_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./SVN_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./SVN_stat_deltaactive.svg)
+
+![Diagram Mortality](./SVN_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 383 | 1 | 0 | 382 |  0.26 %  | 42 | 0 | 42 |  0.018 %  | 

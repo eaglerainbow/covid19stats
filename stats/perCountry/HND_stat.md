@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Honduras 
 
+![Diagram Absolute Values Confirmed/Active](./HND_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./HND_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./HND_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./HND_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./HND_stat_deltaactive.svg)
+
+![Diagram Mortality](./HND_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 24 | 0 | 0 | 24 |  None  | 0 | 0 | 0 |  0.000 %  | 

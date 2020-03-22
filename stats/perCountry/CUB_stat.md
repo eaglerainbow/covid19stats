@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Cuba 
 
+![Diagram Absolute Values Confirmed/Active](./CUB_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./CUB_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./CUB_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./CUB_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./CUB_stat_deltaactive.svg)
+
+![Diagram Mortality](./CUB_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 21 | 1 | 0 | 20 |  4.76 %  | 5 | 0 | 5 |  0.000 %  | 

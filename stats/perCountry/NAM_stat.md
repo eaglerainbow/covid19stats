@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Namibia 
 
+![Diagram Absolute Values Confirmed/Active](./NAM_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./NAM_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./NAM_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./NAM_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./NAM_stat_deltaactive.svg)
+
+![Diagram Mortality](./NAM_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 3 | 0 | 0 | 3 |  None  | 0 | 0 | 0 |  0.000 %  | 

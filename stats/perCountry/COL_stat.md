@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Colombia 
 
+![Diagram Absolute Values Confirmed/Active](./COL_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./COL_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./COL_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./COL_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./COL_stat_deltaactive.svg)
+
+![Diagram Mortality](./COL_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 196 | 0 | 1 | 195 |  None  | 68 | 0 | 68 |  0.000 %  | 

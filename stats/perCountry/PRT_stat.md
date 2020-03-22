@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Portugal 
 
+![Diagram Absolute Values Confirmed/Active](./PRT_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./PRT_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./PRT_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./PRT_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./PRT_stat_deltaactive.svg)
+
+![Diagram Mortality](./PRT_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 1280 | 12 | 5 | 1263 |  0.94 %  | 260 | 6 | 254 |  0.012 %  | 

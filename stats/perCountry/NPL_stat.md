@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Nepal 
 
+![Diagram Absolute Values Confirmed/Active](./NPL_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./NPL_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./NPL_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./NPL_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./NPL_stat_deltaactive.svg)
+
+![Diagram Mortality](./NPL_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 1 | 0 | 1 | 0 |  None  | 0 | 0 | 0 |  n/a  | 

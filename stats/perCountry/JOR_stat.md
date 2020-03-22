@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Jordan 
 
+![Diagram Absolute Values Confirmed/Active](./JOR_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./JOR_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./JOR_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./JOR_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./JOR_stat_deltaactive.svg)
+
+![Diagram Mortality](./JOR_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 85 | 0 | 1 | 84 |  None  | 0 | 0 | 0 |  0.001 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Mexico 
 
+![Diagram Absolute Values Confirmed/Active](./MEX_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./MEX_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./MEX_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./MEX_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./MEX_stat_deltaactive.svg)
+
+![Diagram Mortality](./MEX_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 203 | 2 | 4 | 197 |  0.99 %  | 39 | 1 | 38 |  0.000 %  | 

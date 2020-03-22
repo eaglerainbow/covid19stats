@@ -1,5 +1,18 @@
 # Country Figures: Time Series for DominicanRepublic 
 
+![Diagram Absolute Values Confirmed/Active](./DOM_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./DOM_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./DOM_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./DOM_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./DOM_stat_deltaactive.svg)
+
+![Diagram Mortality](./DOM_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 112 | 2 | 0 | 110 |  1.79 %  | 40 | 0 | 40 |  0.001 %  | 

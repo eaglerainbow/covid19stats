@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Afghanistan 
 
+![Diagram Absolute Values Confirmed/Active](./AFG_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./AFG_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./AFG_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./AFG_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./AFG_stat_deltaactive.svg)
+
+![Diagram Mortality](./AFG_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 24 | 0 | 1 | 23 |  None  | 0 | 0 | 0 |  0.000 %  | 

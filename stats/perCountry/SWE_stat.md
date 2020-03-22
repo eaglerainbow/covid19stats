@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Sweden 
 
+![Diagram Absolute Values Confirmed/Active](./SWE_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./SWE_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./SWE_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./SWE_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./SWE_stat_deltaactive.svg)
+
+![Diagram Mortality](./SWE_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 1763 | 20 | 16 | 1727 |  1.13 %  | 124 | 4 | 120 |  0.017 %  | 

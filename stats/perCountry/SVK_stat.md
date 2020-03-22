@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Slovakia 
 
+![Diagram Absolute Values Confirmed/Active](./SVK_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./SVK_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./SVK_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./SVK_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./SVK_stat_deltaactive.svg)
+
+![Diagram Mortality](./SVK_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 178 | 1 | 0 | 177 |  0.56 %  | 41 | 0 | 41 |  0.003 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Pakistan 
 
+![Diagram Absolute Values Confirmed/Active](./PAK_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./PAK_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./PAK_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./PAK_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./PAK_stat_deltaactive.svg)
+
+![Diagram Mortality](./PAK_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 730 | 3 | 13 | 714 |  0.41 %  | 229 | 0 | 229 |  0.000 %  | 

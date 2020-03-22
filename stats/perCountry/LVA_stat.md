@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Latvia 
 
+![Diagram Absolute Values Confirmed/Active](./LVA_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./LVA_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./LVA_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./LVA_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./LVA_stat_deltaactive.svg)
+
+![Diagram Mortality](./LVA_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 124 | 0 | 1 | 123 |  None  | 13 | 0 | 13 |  0.006 %  | 

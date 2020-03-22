@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Andorra 
 
+![Diagram Absolute Values Confirmed/Active](./AND_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./AND_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./AND_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./AND_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./AND_stat_deltaactive.svg)
+
+![Diagram Mortality](./AND_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 88 | 0 | 1 | 87 |  None  | 13 | 0 | 13 |  0.113 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Norway 
 
+![Diagram Absolute Values Confirmed/Active](./NOR_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./NOR_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./NOR_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./NOR_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./NOR_stat_deltaactive.svg)
+
+![Diagram Mortality](./NOR_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 2118 | 7 | 1 | 2110 |  0.33 %  | 204 | 0 | 204 |  0.040 %  | 

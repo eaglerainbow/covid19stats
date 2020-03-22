@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Senegal 
 
+![Diagram Absolute Values Confirmed/Active](./SEN_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./SEN_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./SEN_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./SEN_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./SEN_stat_deltaactive.svg)
+
+![Diagram Mortality](./SEN_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 47 | 0 | 5 | 42 |  None  | 9 | 0 | 6 |  0.000 %  | 

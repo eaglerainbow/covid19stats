@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Guyana 
 
+![Diagram Absolute Values Confirmed/Active](./GUY_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./GUY_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./GUY_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./GUY_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./GUY_stat_deltaactive.svg)
+
+![Diagram Mortality](./GUY_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 7 | 1 | 0 | 6 |  14.29 %  | 0 | 0 | 0 |  0.001 %  | 

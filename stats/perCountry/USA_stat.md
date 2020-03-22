@@ -1,5 +1,18 @@
 # Country Figures: Time Series for US 
 
+![Diagram Absolute Values Confirmed/Active](./USA_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./USA_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./USA_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./USA_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./USA_stat_deltaactive.svg)
+
+![Diagram Mortality](./USA_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 25493 | 307 | 171 | 25015 |  1.20 %  | 6392 | 63 | 6305 |  0.008 %  | 

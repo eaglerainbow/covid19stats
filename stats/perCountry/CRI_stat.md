@@ -1,5 +1,18 @@
 # Country Figures: Time Series for CostaRica 
 
+![Diagram Absolute Values Confirmed/Active](./CRI_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./CRI_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./CRI_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./CRI_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./CRI_stat_deltaactive.svg)
+
+![Diagram Mortality](./CRI_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 117 | 2 | 2 | 113 |  1.71 %  | 28 | 1 | 25 |  0.002 %  | 

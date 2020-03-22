@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Switzerland 
 
+![Diagram Absolute Values Confirmed/Active](./CHE_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./CHE_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./CHE_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./CHE_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./CHE_stat_deltaactive.svg)
+
+![Diagram Mortality](./CHE_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 6575 | 75 | 15 | 6485 |  1.14 %  | 1281 | 21 | 1260 |  0.076 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Korea,South 
 
+![Diagram Absolute Values Confirmed/Active](./KOR_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./KOR_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./KOR_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./KOR_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./KOR_stat_deltaactive.svg)
+
+![Diagram Mortality](./KOR_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 8799 | 102 | 1540 | 7157 |  1.16 %  | 147 | 8 | 139 |  0.014 %  | 

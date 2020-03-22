@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Turkey 
 
+![Diagram Absolute Values Confirmed/Active](./TUR_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./TUR_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./TUR_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./TUR_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./TUR_stat_deltaactive.svg)
+
+![Diagram Mortality](./TUR_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 670 | 9 | 0 | 661 |  1.34 %  | 311 | 5 | 306 |  0.001 %  | 

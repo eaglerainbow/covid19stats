@@ -1,5 +1,18 @@
 # Country Figures: Time Series for SouthAfrica 
 
+![Diagram Absolute Values Confirmed/Active](./ZAF_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./ZAF_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./ZAF_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./ZAF_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./ZAF_stat_deltaactive.svg)
+
+![Diagram Mortality](./ZAF_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 240 | 0 | 0 | 240 |  None  | 38 | 0 | 38 |  0.000 %  | 

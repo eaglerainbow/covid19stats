@@ -1,5 +1,18 @@
 # Country Figures: Time Series for UnitedArab Emirates 
 
+![Diagram Absolute Values Confirmed/Active](./ARE_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./ARE_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./ARE_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./ARE_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./ARE_stat_deltaactive.svg)
+
+![Diagram Mortality](./ARE_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 153 | 2 | 38 | 113 |  1.31 %  | 13 | 0 | 6 |  0.001 %  | 

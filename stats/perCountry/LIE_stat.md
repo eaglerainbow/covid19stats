@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Liechtenstein 
 
+![Diagram Absolute Values Confirmed/Active](./LIE_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./LIE_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./LIE_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./LIE_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./LIE_stat_deltaactive.svg)
+
+![Diagram Mortality](./LIE_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 37 | 0 | 0 | 37 |  None  | 9 | 0 | 9 |  0.098 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Tunisia 
 
+![Diagram Absolute Values Confirmed/Active](./TUN_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./TUN_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./TUN_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./TUN_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./TUN_stat_deltaactive.svg)
+
+![Diagram Mortality](./TUN_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 60 | 1 | 0 | 59 |  1.67 %  | 6 | 0 | 6 |  0.001 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Azerbaijan 
 
+![Diagram Absolute Values Confirmed/Active](./AZE_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./AZE_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./AZE_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./AZE_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./AZE_stat_deltaactive.svg)
+
+![Diagram Mortality](./AZE_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 53 | 1 | 11 | 41 |  1.89 %  | 9 | 0 | 4 |  0.000 %  | 

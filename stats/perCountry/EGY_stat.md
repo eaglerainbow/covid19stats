@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Egypt 
 
+![Diagram Absolute Values Confirmed/Active](./EGY_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./EGY_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./EGY_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./EGY_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./EGY_stat_deltaactive.svg)
+
+![Diagram Mortality](./EGY_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 294 | 10 | 41 | 243 |  3.40 %  | 9 | 2 | 5 |  0.000 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Brazil 
 
+![Diagram Absolute Values Confirmed/Active](./BRA_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./BRA_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./BRA_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./BRA_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./BRA_stat_deltaactive.svg)
+
+![Diagram Mortality](./BRA_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 1021 | 15 | 2 | 1004 |  1.47 %  | 228 | 4 | 224 |  0.000 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Serbia 
 
+![Diagram Absolute Values Confirmed/Active](./SRB_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./SRB_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./SRB_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./SRB_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./SRB_stat_deltaactive.svg)
+
+![Diagram Mortality](./SRB_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 171 | 1 | 1 | 169 |  0.58 %  | 36 | 0 | 36 |  0.002 %  | 

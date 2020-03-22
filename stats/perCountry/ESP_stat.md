@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Spain 
 
+![Diagram Absolute Values Confirmed/Active](./ESP_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./ESP_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./ESP_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./ESP_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./ESP_stat_deltaactive.svg)
+
+![Diagram Mortality](./ESP_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 25374 | 1375 | 2125 | 21874 |  5.42 %  | 4964 | 332 | 4095 |  0.047 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Israel 
 
+![Diagram Absolute Values Confirmed/Active](./ISR_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./ISR_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./ISR_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./ISR_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./ISR_stat_deltaactive.svg)
+
+![Diagram Mortality](./ISR_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 883 | 1 | 36 | 846 |  0.11 %  | 178 | 1 | 155 |  0.010 %  | 

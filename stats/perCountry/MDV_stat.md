@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Maldives 
 
+![Diagram Absolute Values Confirmed/Active](./MDV_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./MDV_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./MDV_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./MDV_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./MDV_stat_deltaactive.svg)
+
+![Diagram Mortality](./MDV_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 13 | 0 | 0 | 13 |  None  | 0 | 0 | 0 |  0.003 %  | 

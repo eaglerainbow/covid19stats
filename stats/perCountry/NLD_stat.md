@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Netherlands 
 
+![Diagram Absolute Values Confirmed/Active](./NLD_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./NLD_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./NLD_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./NLD_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./NLD_stat_deltaactive.svg)
+
+![Diagram Mortality](./NLD_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 3640 | 137 | 2 | 3501 |  3.76 %  | 637 | 30 | 607 |  0.020 %  | 

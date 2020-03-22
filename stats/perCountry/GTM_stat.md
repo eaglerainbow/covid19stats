@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Guatemala 
 
+![Diagram Absolute Values Confirmed/Active](./GTM_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./GTM_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./GTM_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./GTM_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./GTM_stat_deltaactive.svg)
+
+![Diagram Mortality](./GTM_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 17 | 1 | 0 | 16 |  5.88 %  | 5 | 0 | 5 |  0.000 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Qatar 
 
+![Diagram Absolute Values Confirmed/Active](./QAT_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./QAT_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./QAT_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./QAT_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./QAT_stat_deltaactive.svg)
+
+![Diagram Mortality](./QAT_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 481 | 0 | 27 | 454 |  None  | 11 | 0 | -6 |  0.016 %  | 

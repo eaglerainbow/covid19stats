@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Morocco 
 
+![Diagram Absolute Values Confirmed/Active](./MAR_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./MAR_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./MAR_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./MAR_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./MAR_stat_deltaactive.svg)
+
+![Diagram Mortality](./MAR_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 96 | 3 | 3 | 90 |  3.12 %  | 19 | 0 | 17 |  0.000 %  | 

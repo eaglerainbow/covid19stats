@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Trinidadand Tobago 
 
+![Diagram Absolute Values Confirmed/Active](./TTO_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./TTO_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./TTO_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./TTO_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./TTO_stat_deltaactive.svg)
+
+![Diagram Mortality](./TTO_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 49 | 0 | 1 | 48 |  None  | 40 | 0 | 39 |  0.003 %  | 

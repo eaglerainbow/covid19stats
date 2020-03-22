@@ -1,5 +1,18 @@
 # Country Figures: Time Series for UnitedKingdom 
 
+![Diagram Absolute Values Confirmed/Active](./GBR_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./GBR_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./GBR_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./GBR_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./GBR_stat_deltaactive.svg)
+
+![Diagram Mortality](./GBR_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 5067 | 234 | 67 | 4766 |  4.62 %  | 1053 | 56 | 997 |  0.007 %  | 

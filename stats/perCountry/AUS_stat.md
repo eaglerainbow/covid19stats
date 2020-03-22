@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Australia 
 
+![Diagram Absolute Values Confirmed/Active](./AUS_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./AUS_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./AUS_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./AUS_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./AUS_stat_deltaactive.svg)
+
+![Diagram Mortality](./AUS_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 1071 | 7 | 26 | 1038 |  0.65 %  | 280 | 0 | 280 |  0.004 %  | 

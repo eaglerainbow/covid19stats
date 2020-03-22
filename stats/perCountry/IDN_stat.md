@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Indonesia 
 
+![Diagram Absolute Values Confirmed/Active](./IDN_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./IDN_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./IDN_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./IDN_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./IDN_stat_deltaactive.svg)
+
+![Diagram Mortality](./IDN_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 450 | 38 | 15 | 397 |  8.44 %  | 81 | 6 | 75 |  0.000 %  | 

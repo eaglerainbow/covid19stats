@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Germany 
 
+![Diagram Absolute Values Confirmed/Active](./GER_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./GER_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./GER_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./GER_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./GER_stat_deltaactive.svg)
+
+![Diagram Mortality](./GER_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 22213 | 84 | 233 | 21896 |  0.38 %  | 2365 | 17 | 2295 |  0.026 %  | 

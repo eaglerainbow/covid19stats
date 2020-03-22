@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Austria 
 
+![Diagram Absolute Values Confirmed/Active](./AUT_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./AUT_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./AUT_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./AUT_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./AUT_stat_deltaactive.svg)
+
+![Diagram Mortality](./AUT_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 2814 | 8 | 9 | 2797 |  0.28 %  | 426 | 2 | 424 |  0.032 %  | 

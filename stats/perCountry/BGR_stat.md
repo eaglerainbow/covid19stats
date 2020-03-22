@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Bulgaria 
 
+![Diagram Absolute Values Confirmed/Active](./BGR_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./BGR_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./BGR_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./BGR_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./BGR_stat_deltaactive.svg)
+
+![Diagram Mortality](./BGR_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 163 | 3 | 3 | 157 |  1.84 %  | 36 | 0 | 33 |  0.002 %  | 

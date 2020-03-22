@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Kuwait 
 
+![Diagram Absolute Values Confirmed/Active](./KWT_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./KWT_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./KWT_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./KWT_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./KWT_stat_deltaactive.svg)
+
+![Diagram Mortality](./KWT_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 176 | 0 | 27 | 149 |  None  | 17 | 0 | 8 |  0.004 %  | 

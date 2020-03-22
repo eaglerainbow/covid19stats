@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Canada 
 
+![Diagram Absolute Values Confirmed/Active](./CAN_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./CAN_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./CAN_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./CAN_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./CAN_stat_deltaactive.svg)
+
+![Diagram Mortality](./CAN_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 1278 | 19 | 10 | 1249 |  1.49 %  | 335 | 7 | 327 |  0.003 %  | 

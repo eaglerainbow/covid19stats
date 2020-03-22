@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Croatia 
 
+![Diagram Absolute Values Confirmed/Active](./HRV_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./HRV_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./HRV_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./HRV_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./HRV_stat_deltaactive.svg)
+
+![Diagram Mortality](./HRV_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 206 | 1 | 5 | 200 |  0.49 %  | 78 | 0 | 78 |  0.005 %  | 

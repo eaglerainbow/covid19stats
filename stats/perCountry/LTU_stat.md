@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Lithuania 
 
+![Diagram Absolute Values Confirmed/Active](./LTU_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./LTU_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./LTU_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./LTU_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./LTU_stat_deltaactive.svg)
+
+![Diagram Mortality](./LTU_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 83 | 1 | 1 | 81 |  1.20 %  | 34 | 1 | 33 |  0.003 %  | 

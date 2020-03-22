@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Greece 
 
+![Diagram Absolute Values Confirmed/Active](./GRC_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./GRC_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./GRC_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./GRC_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./GRC_stat_deltaactive.svg)
+
+![Diagram Mortality](./GRC_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 530 | 13 | 19 | 498 |  2.45 %  | 35 | 7 | 28 |  0.005 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Thailand 
 
+![Diagram Absolute Values Confirmed/Active](./THA_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./THA_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./THA_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./THA_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./THA_stat_deltaactive.svg)
+
+![Diagram Mortality](./THA_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 411 | 1 | 42 | 368 |  0.24 %  | 89 | 0 | 89 |  0.001 %  | 

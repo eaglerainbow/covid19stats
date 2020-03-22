@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Estonia 
 
+![Diagram Absolute Values Confirmed/Active](./EST_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./EST_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./EST_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./EST_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./EST_stat_deltaactive.svg)
+
+![Diagram Mortality](./EST_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 306 | 0 | 1 | 305 |  None  | 23 | 0 | 23 |  0.023 %  | 

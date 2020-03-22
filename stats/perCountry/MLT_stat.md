@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Malta 
 
+![Diagram Absolute Values Confirmed/Active](./MLT_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./MLT_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./MLT_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./MLT_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./MLT_stat_deltaactive.svg)
+
+![Diagram Mortality](./MLT_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 73 | 0 | 2 | 71 |  None  | 9 | 0 | 9 |  0.015 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Peru 
 
+![Diagram Absolute Values Confirmed/Active](./PER_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./PER_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./PER_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./PER_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./PER_stat_deltaactive.svg)
+
+![Diagram Mortality](./PER_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 318 | 5 | 1 | 312 |  1.57 %  | 84 | 2 | 82 |  0.001 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for China 
 
+![Diagram Absolute Values Confirmed/Active](./CHN_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./CHN_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./CHN_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./CHN_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./CHN_stat_deltaactive.svg)
+
+![Diagram Mortality](./CHN_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 81305 | 3259 | 71857 | 6189 |  4.01 %  | 55 | 6 | -542 |  0.000 %  | 

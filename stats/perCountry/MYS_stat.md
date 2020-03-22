@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Malaysia 
 
+![Diagram Absolute Values Confirmed/Active](./MYS_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./MYS_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./MYS_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./MYS_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./MYS_stat_deltaactive.svg)
+
+![Diagram Mortality](./MYS_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 1183 | 4 | 114 | 1065 |  0.34 %  | 153 | 1 | 125 |  0.003 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Jamaica 
 
+![Diagram Absolute Values Confirmed/Active](./JAM_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./JAM_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./JAM_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./JAM_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./JAM_stat_deltaactive.svg)
+
+![Diagram Mortality](./JAM_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 16 | 1 | 2 | 13 |  6.25 %  | 0 | 0 | 0 |  0.000 %  | 

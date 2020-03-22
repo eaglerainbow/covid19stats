@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Gabon 
 
+![Diagram Absolute Values Confirmed/Active](./GAB_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./GAB_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./GAB_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./GAB_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./GAB_stat_deltaactive.svg)
+
+![Diagram Mortality](./GAB_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 4 | 1 | 0 | 3 |  25.00 %  | 1 | 0 | 1 |  0.000 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Paraguay 
 
+![Diagram Absolute Values Confirmed/Active](./PRY_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./PRY_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./PRY_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./PRY_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./PRY_stat_deltaactive.svg)
+
+![Diagram Mortality](./PRY_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 18 | 1 | 0 | 17 |  5.56 %  | 5 | 1 | 4 |  0.000 %  | 

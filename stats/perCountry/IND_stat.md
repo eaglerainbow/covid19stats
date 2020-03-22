@@ -1,5 +1,18 @@
 # Country Figures: Time Series for India 
 
+![Diagram Absolute Values Confirmed/Active](./IND_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./IND_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./IND_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./IND_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./IND_stat_deltaactive.svg)
+
+![Diagram Mortality](./IND_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 330 | 4 | 23 | 303 |  1.21 %  | 86 | -1 | 84 |  0.000 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Iceland 
 
+![Diagram Absolute Values Confirmed/Active](./ISL_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./ISL_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./ISL_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./ISL_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./ISL_stat_deltaactive.svg)
+
+![Diagram Mortality](./ISL_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 473 | 1 | 22 | 450 |  0.21 %  | 64 | 1 | 46 |  0.127 %  | 

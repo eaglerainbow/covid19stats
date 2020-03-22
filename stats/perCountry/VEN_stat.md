@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Venezuela 
 
+![Diagram Absolute Values Confirmed/Active](./VEN_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./VEN_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./VEN_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./VEN_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./VEN_stat_deltaactive.svg)
+
+![Diagram Mortality](./VEN_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 70 | 0 | 0 | 70 |  None  | 28 | 0 | 28 |  0.000 %  | 

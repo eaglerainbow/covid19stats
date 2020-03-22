@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Bosniaand Herzegovina 
 
+![Diagram Absolute Values Confirmed/Active](./BIH_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./BIH_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./BIH_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./BIH_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./BIH_stat_deltaactive.svg)
+
+![Diagram Mortality](./BIH_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 93 | 1 | 2 | 90 |  1.08 %  | 4 | 1 | 3 |  0.003 %  | 

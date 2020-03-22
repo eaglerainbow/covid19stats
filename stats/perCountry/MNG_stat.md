@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Mongolia 
 
+![Diagram Absolute Values Confirmed/Active](./MNG_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./MNG_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./MNG_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./MNG_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./MNG_stat_deltaactive.svg)
+
+![Diagram Mortality](./MNG_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 10 | 0 | 0 | 10 |  None  | 4 | 0 | 4 |  0.000 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Czechia 
 
+![Diagram Absolute Values Confirmed/Active](./CZE_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./CZE_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./CZE_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./CZE_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./CZE_stat_deltaactive.svg)
+
+![Diagram Mortality](./CZE_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 995 | 0 | 6 | 989 |  None  | 162 | 0 | 160 |  0.009 %  | 

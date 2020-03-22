@@ -1,5 +1,18 @@
 # Country Figures: Time Series for NewZealand 
 
+![Diagram Absolute Values Confirmed/Active](./NZL_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./NZL_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./NZL_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./NZL_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./NZL_stat_deltaactive.svg)
+
+![Diagram Mortality](./NZL_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 52 | 0 | 0 | 52 |  None  | 13 | 0 | 13 |  0.001 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Lebanon 
 
+![Diagram Absolute Values Confirmed/Active](./LBN_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./LBN_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./LBN_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./LBN_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./LBN_stat_deltaactive.svg)
+
+![Diagram Mortality](./LBN_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 187 | 4 | 4 | 179 |  2.14 %  | 24 | 0 | 24 |  0.003 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Oman 
 
+![Diagram Absolute Values Confirmed/Active](./OMN_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./OMN_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./OMN_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./OMN_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./OMN_stat_deltaactive.svg)
+
+![Diagram Mortality](./OMN_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 52 | 0 | 12 | 40 |  None  | 4 | 0 | 4 |  0.001 %  | 

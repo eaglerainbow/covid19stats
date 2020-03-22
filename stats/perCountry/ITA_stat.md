@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Italy 
 
+![Diagram Absolute Values Confirmed/Active](./ITA_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./ITA_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./ITA_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./ITA_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./ITA_stat_deltaactive.svg)
+
+![Diagram Mortality](./ITA_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 53578 | 4825 | 6072 | 42681 |  9.01 %  | 6557 | 793 | 4132 |  0.071 %  | 

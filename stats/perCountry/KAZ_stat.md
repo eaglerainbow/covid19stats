@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Kazakhstan 
 
+![Diagram Absolute Values Confirmed/Active](./KAZ_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./KAZ_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./KAZ_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./KAZ_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./KAZ_stat_deltaactive.svg)
+
+![Diagram Mortality](./KAZ_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 53 | 0 | 0 | 53 |  None  | 4 | -3 | 7 |  0.000 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Bolivia 
 
+![Diagram Absolute Values Confirmed/Active](./BOL_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./BOL_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./BOL_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./BOL_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./BOL_stat_deltaactive.svg)
+
+![Diagram Mortality](./BOL_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 19 | 0 | 0 | 19 |  None  | 4 | 0 | 4 |  0.000 %  | 

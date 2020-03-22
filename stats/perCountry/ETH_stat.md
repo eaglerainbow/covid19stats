@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Ethiopia 
 
+![Diagram Absolute Values Confirmed/Active](./ETH_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./ETH_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./ETH_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./ETH_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./ETH_stat_deltaactive.svg)
+
+![Diagram Mortality](./ETH_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 9 | 0 | 0 | 9 |  None  | 0 | 0 | 0 |  0.000 %  | 

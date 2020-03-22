@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Togo 
 
+![Diagram Absolute Values Confirmed/Active](./TGO_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./TGO_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./TGO_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./TGO_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./TGO_stat_deltaactive.svg)
+
+![Diagram Mortality](./TGO_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 16 | 0 | 1 | 15 |  None  | 7 | 0 | 7 |  0.000 %  | 

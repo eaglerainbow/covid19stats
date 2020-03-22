@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Ecuador 
 
+![Diagram Absolute Values Confirmed/Active](./ECU_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./ECU_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./ECU_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./ECU_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./ECU_stat_deltaactive.svg)
+
+![Diagram Mortality](./ECU_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 506 | 7 | 3 | 496 |  1.38 %  | 139 | 2 | 134 |  0.003 %  | 

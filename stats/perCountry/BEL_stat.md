@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Belgium 
 
+![Diagram Absolute Values Confirmed/Active](./BEL_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./BEL_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./BEL_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./BEL_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./BEL_stat_deltaactive.svg)
+
+![Diagram Mortality](./BEL_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 2815 | 67 | 263 | 2485 |  2.38 %  | 558 | 30 | 266 |  0.022 %  | 

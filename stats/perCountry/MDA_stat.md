@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Moldova 
 
+![Diagram Absolute Values Confirmed/Active](./MDA_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./MDA_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./MDA_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./MDA_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./MDA_stat_deltaactive.svg)
+
+![Diagram Mortality](./MDA_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 80 | 1 | 1 | 78 |  1.25 %  | 14 | 0 | 14 |  0.002 %  | 

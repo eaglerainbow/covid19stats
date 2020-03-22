@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Georgia 
 
+![Diagram Absolute Values Confirmed/Active](./GEO_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./GEO_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./GEO_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./GEO_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./GEO_stat_deltaactive.svg)
+
+![Diagram Mortality](./GEO_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 49 | 0 | 1 | 48 |  None  | 6 | 0 | 6 |  0.001 %  | 

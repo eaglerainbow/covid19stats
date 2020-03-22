@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Hungary 
 
+![Diagram Absolute Values Confirmed/Active](./HUN_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./HUN_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./HUN_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./HUN_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./HUN_stat_deltaactive.svg)
+
+![Diagram Mortality](./HUN_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 103 | 4 | 7 | 92 |  3.88 %  | 18 | 1 | 12 |  0.001 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Chile 
 
+![Diagram Absolute Values Confirmed/Active](./CHL_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./CHL_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./CHL_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./CHL_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./CHL_stat_deltaactive.svg)
+
+![Diagram Mortality](./CHL_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 537 | 0 | 6 | 531 |  None  | 103 | 0 | 103 |  0.003 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Uzbekistan 
 
+![Diagram Absolute Values Confirmed/Active](./UZB_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./UZB_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./UZB_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./UZB_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./UZB_stat_deltaactive.svg)
+
+![Diagram Mortality](./UZB_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 43 | 0 | 0 | 43 |  None  | 10 | 0 | 10 |  0.000 %  | 

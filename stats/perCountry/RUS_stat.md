@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Russia 
 
+![Diagram Absolute Values Confirmed/Active](./RUS_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./RUS_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./RUS_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./RUS_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./RUS_stat_deltaactive.svg)
+
+![Diagram Mortality](./RUS_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 306 | 1 | 12 | 293 |  0.33 %  | 53 | 0 | 50 |  0.000 %  | 

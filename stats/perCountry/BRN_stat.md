@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Brunei 
 
+![Diagram Absolute Values Confirmed/Active](./BRN_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./BRN_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./BRN_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./BRN_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./BRN_stat_deltaactive.svg)
+
+![Diagram Mortality](./BRN_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 83 | 0 | 2 | 81 |  None  | 5 | 0 | 4 |  0.019 %  | 

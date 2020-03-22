@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Singapore 
 
+![Diagram Absolute Values Confirmed/Active](./SGP_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./SGP_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./SGP_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./SGP_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./SGP_stat_deltaactive.svg)
+
+![Diagram Mortality](./SGP_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 432 | 2 | 140 | 290 |  0.46 %  | 47 | 2 | 29 |  0.005 %  | 

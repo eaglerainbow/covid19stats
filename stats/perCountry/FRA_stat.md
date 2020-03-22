@@ -1,5 +1,18 @@
 # Country Figures: Time Series for France 
 
+![Diagram Absolute Values Confirmed/Active](./FRA_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./FRA_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./FRA_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./FRA_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./FRA_stat_deltaactive.svg)
+
+![Diagram Mortality](./FRA_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 14456 | 563 | 18 | 13875 |  3.89 %  | 1704 | 112 | 1586 |  0.021 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Panama 
 
+![Diagram Absolute Values Confirmed/Active](./PAN_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./PAN_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./PAN_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./PAN_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./PAN_stat_deltaactive.svg)
+
+![Diagram Mortality](./PAN_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 200 | 1 | 0 | 199 |  0.50 %  | 63 | 0 | 63 |  0.005 %  | 

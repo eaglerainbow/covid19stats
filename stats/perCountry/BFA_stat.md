@@ -1,5 +1,18 @@
 # Country Figures: Time Series for BurkinaFaso 
 
+![Diagram Absolute Values Confirmed/Active](./BFA_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./BFA_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./BFA_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./BFA_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./BFA_stat_deltaactive.svg)
+
+![Diagram Mortality](./BFA_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 64 | 2 | 5 | 57 |  3.12 %  | 24 | 1 | 18 |  0.000 %  | 

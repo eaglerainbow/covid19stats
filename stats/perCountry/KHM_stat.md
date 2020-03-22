@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Cambodia 
 
+![Diagram Absolute Values Confirmed/Active](./KHM_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./KHM_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./KHM_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./KHM_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./KHM_stat_deltaactive.svg)
+
+![Diagram Mortality](./KHM_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 53 | 0 | 1 | 52 |  None  | 2 | 0 | 2 |  0.000 %  | 

@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Cyprus 
 
+![Diagram Absolute Values Confirmed/Active](./CYP_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./CYP_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./CYP_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./CYP_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./CYP_stat_deltaactive.svg)
+
+![Diagram Mortality](./CYP_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 84 | 0 | 0 | 84 |  None  | 17 | 0 | 17 |  0.007 %  | 

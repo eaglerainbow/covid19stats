@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Luxembourg 
 
+![Diagram Absolute Values Confirmed/Active](./LUX_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./LUX_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./LUX_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./LUX_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./LUX_stat_deltaactive.svg)
+
+![Diagram Mortality](./LUX_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 670 | 8 | 0 | 662 |  1.19 %  | 186 | 4 | 182 |  0.109 %  | 

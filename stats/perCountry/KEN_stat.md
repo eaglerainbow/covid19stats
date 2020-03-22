@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Kenya 
 
+![Diagram Absolute Values Confirmed/Active](./KEN_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./KEN_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./KEN_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./KEN_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./KEN_stat_deltaactive.svg)
+
+![Diagram Mortality](./KEN_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 7 | 0 | 0 | 7 |  None  | 0 | 0 | 0 |  0.000 %  | 

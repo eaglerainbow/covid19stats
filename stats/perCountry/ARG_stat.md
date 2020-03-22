@@ -1,5 +1,18 @@
 # Country Figures: Time Series for Argentina 
 
+![Diagram Absolute Values Confirmed/Active](./ARG_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./ARG_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./ARG_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./ARG_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./ARG_stat_deltaactive.svg)
+
+![Diagram Mortality](./ARG_stat_mortality.svg)
+
+
 | Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
 | 2020-03-21 | 158 | 4 | 3 | 151 |  2.53 %  | 30 | 1 | 29 |  0.000 %  | 
