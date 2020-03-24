@@ -3,6 +3,7 @@
 The growth rates below are calculated based on
 * an exponential growth assumption
 * for time difference of past seven (7) days.
+The growth rate is to be understood as on "growth per day".
 
 The first growth rate indicates the increase of confirmed (infected) cases.
 
@@ -15,12 +16,13 @@ The second growth rate indicates the increase of recovered (healed) cases.
 
 | Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
 |-------------|-----------|-------------------------|-----------|-------------------------|
-| 2020-03-22 | 248 |  11.61 %  | 8 |  None  | 
-| 2020-03-21 | 187 |  9.98 %  | 4 |  None  | 
-| 2020-03-20 | 163 |  10.71 %  | 4 |  None  | 
-| 2020-03-19 | 157 |  13.51 %  | 4 |  None  | 
-| 2020-03-18 | 133 |  11.14 %  | 3 |  None  | 
-| 2020-03-17 | 120 |  15.34 %  | 3 |  None  | 
+| 2020-03-23 | 267 |  14.17 %  | 8 |  29.706 %  | 
+| 2020-03-22 | 248 |  11.61 %  | 8 |  29.706 %  | 
+| 2020-03-21 | 187 |  9.98 %  | 4 |  19.804 %  | 
+| 2020-03-20 | 163 |  10.71 %  | 4 |  19.804 %  | 
+| 2020-03-19 | 157 |  13.51 %  | 4 |  19.804 %  | 
+| 2020-03-18 | 133 |  11.14 %  | 3 |  15.694 %  | 
+| 2020-03-17 | 120 |  15.34 %  | 3 |  15.694 %  | 
 | 2020-03-16 | 99 |  16.13 %  | 1 |  None  | 
 | 2020-03-15 | 110 |  17.64 %  | 1 |  None  | 
 | 2020-03-14 | 93 |  20.59 %  | 1 |  None  | 
@@ -34,11 +36,11 @@ The second growth rate indicates the increase of recovered (healed) cases.
 | 2020-03-06 | 22 |  34.26 %  | 1 |  None  | 
 | 2020-03-05 | 16 |  29.71 %  | 1 |  None  | 
 | 2020-03-04 | 13 |  26.74 %  | 1 |  None  | 
-| 2020-03-03 | 13 |  None  | 0 |  None  | 
-| 2020-03-02 | 13 |  None  | 0 |  None  | 
-| 2020-03-01 | 10 |  None  | 0 |  None  | 
-| 2020-02-29 | 4 |  None  | 0 |  None  | 
-| 2020-02-28 | 2 |  None  | 0 |  None  | 
+| 2020-03-03 | 13 |  36.64 %  | 0 |  None  | 
+| 2020-03-02 | 13 |  36.64 %  | 0 |  None  | 
+| 2020-03-01 | 10 |  32.89 %  | 0 |  None  | 
+| 2020-02-29 | 4 |  19.80 %  | 0 |  None  | 
+| 2020-02-28 | 2 |  9.90 %  | 0 |  None  | 
 | 2020-02-27 | 2 |  None  | 0 |  None  | 
 | 2020-02-26 | 2 |  None  | 0 |  None  | 
 | 2020-02-25 | 1 |  None  | 0 |  None  | 

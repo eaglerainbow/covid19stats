@@ -3,6 +3,7 @@
 The growth rates below are calculated based on
 * an exponential growth assumption
 * for time difference of past seven (7) days.
+The growth rate is to be understood as on "growth per day".
 
 The first growth rate indicates the increase of confirmed (infected) cases.
 
@@ -15,6 +16,7 @@ The second growth rate indicates the increase of recovered (healed) cases.
 
 | Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
 |-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-03-23 | 123 |  10.02 %  | 17 |  0.866 %  | 
 | 2020-03-22 | 113 |  10.03 %  | 17 |  0.866 %  | 
 | 2020-03-21 | 94 |  8.19 %  | 17 |  0.866 %  | 
 | 2020-03-20 | 91 |  9.44 %  | 16 |  None  | 
@@ -38,13 +40,13 @@ The second growth rate indicates the increase of recovered (healed) cases.
 | 2020-02-20 | 16 |  None  | 7 |  None  | 
 | 2020-02-19 | 16 |  0.92 %  | 7 |  2.202 %  | 
 | 2020-02-18 | 16 |  0.92 %  | 7 |  2.202 %  | 
-| 2020-02-17 | 16 |  1.91 %  | 7 |  None  | 
-| 2020-02-16 | 16 |  2.97 %  | 7 |  None  | 
-| 2020-02-15 | 16 |  2.97 %  | 7 |  None  | 
-| 2020-02-14 | 16 |  6.71 %  | 7 |  None  | 
-| 2020-02-13 | 16 |  6.71 %  | 7 |  None  | 
-| 2020-02-12 | 15 |  8.98 %  | 6 |  None  | 
-| 2020-02-11 | 15 |  8.98 %  | 6 |  None  | 
+| 2020-02-17 | 16 |  1.91 %  | 7 |  27.799 %  | 
+| 2020-02-16 | 16 |  2.97 %  | 7 |  27.799 %  | 
+| 2020-02-15 | 16 |  2.97 %  | 7 |  27.799 %  | 
+| 2020-02-14 | 16 |  6.71 %  | 7 |  27.799 %  | 
+| 2020-02-13 | 16 |  6.71 %  | 7 |  27.799 %  | 
+| 2020-02-12 | 15 |  8.98 %  | 6 |  25.597 %  | 
+| 2020-02-11 | 15 |  8.98 %  | 6 |  25.597 %  | 
 | 2020-02-10 | 14 |  7.99 %  | 1 |  None  | 
 | 2020-02-09 | 13 |  11.05 %  | 1 |  None  | 
 | 2020-02-08 | 13 |  11.05 %  | 1 |  None  | 

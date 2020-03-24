@@ -3,6 +3,7 @@
 The growth rates below are calculated based on
 * an exponential growth assumption
 * for time difference of past seven (7) days.
+The growth rate is to be understood as on "growth per day".
 
 The first growth rate indicates the increase of confirmed (infected) cases.
 
@@ -15,6 +16,7 @@ The second growth rate indicates the increase of recovered (healed) cases.
 
 | Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
 |-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-03-23 | 1442 |  24.75 %  | 41 |  33.247 %  | 
 | 2020-03-22 | 1071 |  20.73 %  | 37 |  31.780 %  | 
 | 2020-03-21 | 883 |  21.72 %  | 36 |  31.389 %  | 
 | 2020-03-20 | 705 |  21.10 %  | 14 |  17.897 %  | 
@@ -25,20 +27,20 @@ The second growth rate indicates the increase of recovered (healed) cases.
 | 2020-03-15 | 251 |  26.60 %  | 4 |  9.902 %  | 
 | 2020-03-14 | 193 |  31.69 %  | 4 |  9.902 %  | 
 | 2020-03-13 | 161 |  29.10 %  | 4 |  9.902 %  | 
-| 2020-03-12 | 131 |  30.04 %  | 4 |  None  | 
-| 2020-03-11 | 109 |  28.33 %  | 4 |  None  | 
-| 2020-03-10 | 58 |  22.51 %  | 4 |  None  | 
-| 2020-03-09 | 39 |  19.44 %  | 2 |  None  | 
-| 2020-03-08 | 39 |  19.44 %  | 2 |  None  | 
-| 2020-03-07 | 21 |  15.69 %  | 2 |  None  | 
-| 2020-03-06 | 21 |  23.69 %  | 2 |  None  | 
+| 2020-03-12 | 131 |  30.04 %  | 4 |  19.804 %  | 
+| 2020-03-11 | 109 |  28.33 %  | 4 |  19.804 %  | 
+| 2020-03-10 | 58 |  22.51 %  | 4 |  19.804 %  | 
+| 2020-03-09 | 39 |  19.44 %  | 2 |  9.902 %  | 
+| 2020-03-08 | 39 |  19.44 %  | 2 |  9.902 %  | 
+| 2020-03-07 | 21 |  15.69 %  | 2 |  9.902 %  | 
+| 2020-03-06 | 21 |  23.69 %  | 2 |  9.902 %  | 
 | 2020-03-05 | 16 |  23.91 %  | 1 |  None  | 
 | 2020-03-04 | 15 |  28.78 %  | 1 |  None  | 
-| 2020-03-03 | 12 |  None  | 1 |  None  | 
-| 2020-03-02 | 10 |  None  | 1 |  None  | 
-| 2020-03-01 | 10 |  None  | 1 |  None  | 
-| 2020-02-29 | 7 |  None  | 1 |  None  | 
-| 2020-02-28 | 4 |  None  | 1 |  None  | 
+| 2020-03-03 | 12 |  35.50 %  | 1 |  None  | 
+| 2020-03-02 | 10 |  32.89 %  | 1 |  None  | 
+| 2020-03-01 | 10 |  32.89 %  | 1 |  None  | 
+| 2020-02-29 | 7 |  27.80 %  | 1 |  None  | 
+| 2020-02-28 | 4 |  19.80 %  | 1 |  None  | 
 | 2020-02-27 | 3 |  None  | 1 |  None  | 
 | 2020-02-26 | 2 |  None  | 0 |  None  | 
 | 2020-02-25 | 1 |  None  | 0 |  None  | 

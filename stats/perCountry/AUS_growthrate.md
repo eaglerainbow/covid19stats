@@ -3,6 +3,7 @@
 The growth rates below are calculated based on
 * an exponential growth assumption
 * for time difference of past seven (7) days.
+The growth rate is to be understood as on "growth per day".
 
 The first growth rate indicates the increase of confirmed (infected) cases.
 
@@ -15,6 +16,7 @@ The second growth rate indicates the increase of recovered (healed) cases.
 
 | Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
 |-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-03-23 | 1682 |  21.36 %  | 119 |  23.480 %  | 
 | 2020-03-22 | 1314 |  21.24 %  | 88 |  19.169 %  | 
 | 2020-03-21 | 1071 |  20.78 %  | 26 |  1.751 %  | 
 | 2020-03-20 | 791 |  19.64 %  | 26 |  1.751 %  | 
