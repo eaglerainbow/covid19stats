@@ -10,6 +10,7 @@
 
 ## Growth Rate
 
-* [Growth Rate by Country, order by highest current growth rate (in 24h)](./stats/all_countries_current_growthrates.md)
+* [Growth Rate by Country, ordered by highest current growth rate (in 24h)](./stats/all_countries_current_growthrates.md)
 
-
+## Estimations
+* [Estimated Number of Infections by Country, ordered by highest first](./stats/all_countries_est_infected.md)
