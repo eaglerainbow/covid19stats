@@ -27,6 +27,7 @@ The rate is based on "growth by day".
 | [NewZealand](./perCountry/NZL_growthrate.md) (NZL) | 17.71 % | 
 | [Nigeria](./perCountry/NGA_growthrate.md) (NGA) | 17.53 % | 
 | [DominicanRepublic](./perCountry/DOM_growthrate.md) (DOM) | 16.95 % | 
+| [US](./perCountry/USA_growthrate.md) (USA) | 16.81 % | 
 | [Cameroon](./perCountry/CMR_growthrate.md) (CMR) | 16.19 % | 
 | [UnitedKingdom](./perCountry/GBR_growthrate.md) (GBR) | 16.15 % | 
 | [India](./perCountry/IND_growthrate.md) (IND) | 15.89 % | 
@@ -57,7 +58,7 @@ The rate is based on "growth by day".
 | [Cyprus](./perCountry/CYP_growthrate.md) (CYP) | 12.65 % | 
 | [Ethiopia](./perCountry/ETH_growthrate.md) (ETH) | 12.61 % | 
 | [Coted&#39;Ivoire](./perCountry/CIV_growthrate.md) (CIV) | 12.36 % | 
-| [Ecuador](./perCountry/ECU_growthrate.md) (ECU) | 12.21 % | 
+| [Ecuador](./perCountry/ECU_growthrate.md) (ECU) | 12.16 % | 
 | [Sudan](./perCountry/SDN_growthrate.md) (SDN) | 12.10 % | 
 | [Antiguaand Barbuda](./perCountry/ATG_growthrate.md) (ATG) | 12.10 % | 
 | [Hungary](./perCountry/HUN_growthrate.md) (HUN) | 12.04 % | 
@@ -67,23 +68,23 @@ The rate is based on "growth by day".
 | [Eswatini](./perCountry/SWZ_growthrate.md) (SWZ) | 11.58 % | 
 | [Ireland](./perCountry/IRL_growthrate.md) (IRL) | 11.29 % | 
 | [Croatia](./perCountry/HRV_growthrate.md) (HRV) | 11.12 % | 
-| [Czechia](./perCountry/CZE_growthrate.md) (CZE) | 11.07 % | 
 | [Armenia](./perCountry/ARM_growthrate.md) (ARM) | 10.97 % | 
 | [Netherlands](./perCountry/NLD_growthrate.md) (NLD) | 10.78 % | 
 | [Indonesia](./perCountry/IDN_growthrate.md) (IDN) | 10.75 % | 
 | [Oman](./perCountry/OMN_growthrate.md) (OMN) | 10.74 % | 
+| [Czechia](./perCountry/CZE_growthrate.md) (CZE) | 10.74 % | 
 | [Lithuania](./perCountry/LTU_growthrate.md) (LTU) | 10.74 % | 
 | [Iraq](./perCountry/IRQ_growthrate.md) (IRQ) | 10.63 % | 
 | [Spain](./perCountry/ESP_growthrate.md) (ESP) | 10.62 % | 
 | [Ghana](./perCountry/GHA_growthrate.md) (GHA) | 10.58 % | 
-| [Germany](./perCountry/GER_growthrate.md) (GER) | 10.53 % | 
+| [Germany](./perCountry/GER_growthrate.md) (GER) | 10.51 % | 
 | [Andorra](./perCountry/AND_growthrate.md) (AND) | 10.42 % | 
 | [Australia](./perCountry/AUS_growthrate.md) (AUS) | 10.30 % | 
 | [Latvia](./perCountry/LVA_growthrate.md) (LVA) | 10.03 % | 
 | [Namibia](./perCountry/NAM_growthrate.md) (NAM) | 9.90 % | 
 | [NorthMacedonia](./perCountry/MKD_growthrate.md) (MKD) | 9.90 % | 
-| [Bhutan](./perCountry/BTN_growthrate.md) (BTN) | 9.90 % | 
 | [Rwanda](./perCountry/RWA_growthrate.md) (RWA) | 9.90 % | 
+| [Bhutan](./perCountry/BTN_growthrate.md) (BTN) | 9.90 % | 
 | [Pakistan](./perCountry/PAK_growthrate.md) (PAK) | 9.85 % | 
 | [Sweden](./perCountry/SWE_growthrate.md) (SWE) | 9.60 % | 
 | [SouthAfrica](./perCountry/ZAF_growthrate.md) (ZAF) | 9.51 % | 
@@ -97,7 +98,6 @@ The rate is based on "growth by day".
 | [CostaRica](./perCountry/CRI_growthrate.md) (CRI) | 8.91 % | 
 | [Paraguay](./perCountry/PRY_growthrate.md) (PRY) | 8.90 % | 
 | [Slovakia](./perCountry/SVK_growthrate.md) (SVK) | 8.80 % | 
-| [Japan](./perCountry/JPN_growthrate.md) (JPN) | 8.59 % | 
 | [Uruguay](./perCountry/URY_growthrate.md) (URY) | 8.30 % | 
 | [Monaco](./perCountry/MCO_growthrate.md) (MCO) | 8.19 % | 
 | [Albania](./perCountry/ALB_growthrate.md) (ALB) | 8.19 % | 
@@ -109,6 +109,7 @@ The rate is based on "growth by day".
 | [Egypt](./perCountry/EGY_growthrate.md) (EGY) | 7.65 % | 
 | [Jamaica](./perCountry/JAM_growthrate.md) (JAM) | 7.52 % | 
 | [Nepal](./perCountry/NPL_growthrate.md) (NPL) | 7.30 % | 
+| [Japan](./perCountry/JPN_growthrate.md) (JPN) | 7.30 % | 
 | [Iceland](./perCountry/ISL_growthrate.md) (ISL) | 7.20 % | 
 | [Finland](./perCountry/FIN_growthrate.md) (FIN) | 7.09 % | 
 | [Switzerland](./perCountry/CHE_growthrate.md) (CHE) | 6.98 % | 
@@ -118,7 +119,7 @@ The rate is based on "growth by day".
 | [Jordan](./perCountry/JOR_growthrate.md) (JOR) | 6.86 % | 
 | [Slovenia](./perCountry/SVN_growthrate.md) (SVN) | 6.65 % | 
 | [Singapore](./perCountry/SGP_growthrate.md) (SGP) | 6.58 % | 
-| [Norway](./perCountry/NOR_growthrate.md) (NOR) | 6.55 % | 
+| [Norway](./perCountry/NOR_growthrate.md) (NOR) | 6.51 % | 
 | [Venezuela](./perCountry/VEN_growthrate.md) (VEN) | 6.46 % | 
 | [Togo](./perCountry/TGO_growthrate.md) (TGO) | 6.40 % | 
 | [Georgia](./perCountry/GEO_growthrate.md) (GEO) | 6.35 % | 
@@ -131,10 +132,10 @@ The rate is based on "growth by day".
 | [Lebanon](./perCountry/LBN_growthrate.md) (LBN) | 5.19 % | 
 | [SriLanka](./perCountry/LKA_growthrate.md) (LKA) | 5.12 % | 
 | [Seychelles](./perCountry/SYC_growthrate.md) (SYC) | 5.10 % | 
-| [Liechtenstein](./perCountry/LIE_growthrate.md) (LIE) | 4.93 % | 
 | [Mongolia](./perCountry/MNG_growthrate.md) (MNG) | 4.81 % | 
 | [Bangladesh](./perCountry/BGD_growthrate.md) (BGD) | 4.65 % | 
 | [Bahrain](./perCountry/BHR_growthrate.md) (BHR) | 4.37 % | 
+| [Liechtenstein](./perCountry/LIE_growthrate.md) (LIE) | 4.11 % | 
 | [Gambia](./perCountry/GMB_growthrate.md) (GMB) | 4.11 % | 
 | [Suriname](./perCountry/SUR_growthrate.md) (SUR) | 3.19 % | 
 | [Brunei](./perCountry/BRN_growthrate.md) (BRN) | 2.63 % | 
