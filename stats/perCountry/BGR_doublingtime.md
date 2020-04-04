@@ -5,9 +5,13 @@ The doubling time below are calculated based on
 * for time difference of past seven (7) days.
 The doubling time's unit is "days".
 
-The first growth rate indicates the increase of confirmed (infected) cases.
+The first doubling time indicates the increase of confirmed (infected)
+cases. There, the *higher* the number is, the better is to take control
+of the disease.
 
-The second growth rate indicates the increase of recovered (healed) cases.
+The second doubling time indicates the increase of recovered (healed)
+cases. There, the *lower* the number is, the better it is to take
+control of the disease.
 
 ![Diagram Absolute Values Confirmed/Recovered](./BGR_doublingtime_absolute.svg)
 
