@@ -1,0 +1,57 @@
+# Country Figures: Doubling Time of Infections for Georgia 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./GEO_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./GEO_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 155 |  8.1 days  | 28 |  7.3 days  | 
+| 2020-04-02 | 134 |  9.5 days  | 26 |  6.0 days  | 
+| 2020-04-01 | 117 |  11.3 days  | 23 |  6.2 days  | 
+| 2020-03-31 | 110 |  11.1 days  | 21 |  6.1 days  | 
+| 2020-03-30 | 103 |  9.6 days  | 20 |  5.6 days  | 
+| 2020-03-29 | 91 |  9.6 days  | 18 |  2.0 days  | 
+| 2020-03-28 | 90 |  8.3 days  | 14 |  2.2 days  | 
+| 2020-03-27 | 83 |  7.7 days  | 14 |  2.2 days  | 
+| 2020-03-26 | 79 |  7.5 days  | 11 |  2.4 days  | 
+| 2020-03-25 | 75 |  7.5 days  | 10 |  2.4 days  | 
+| 2020-03-24 | 70 |  7.1 days  | 9 |  2.5 days  | 
+| 2020-03-23 | 61 |  8.2 days  | 8 |  2.7 days  | 
+| 2020-03-22 | 54 |  10.2 days  | 1 |  None  | 
+| 2020-03-21 | 49 |  10.2 days  | 1 |  None  | 
+| 2020-03-20 | 43 |  9.3 days  | 1 |  None  | 
+| 2020-03-19 | 40 |  9.8 days  | 1 |  None  | 
+| 2020-03-18 | 38 |  10.9 days  | 1 |  None  | 
+| 2020-03-17 | 34 |  6.3 days  | 1 |  None  | 
+| 2020-03-16 | 33 |  6.5 days  | 1 |  None  | 
+| 2020-03-15 | 33 |  5.5 days  | 0 |  None  | 
+| 2020-03-14 | 30 |  2.7 days  | 0 |  None  | 
+| 2020-03-13 | 25 |  3.0 days  | 0 |  None  | 
+| 2020-03-12 | 24 |  3.0 days  | 0 |  None  | 
+| 2020-03-11 | 24 |  2.7 days  | 0 |  None  | 
+| 2020-03-10 | 15 |  3.3 days  | 0 |  None  | 
+| 2020-03-09 | 15 |  3.3 days  | 0 |  None  | 
+| 2020-03-08 | 13 |  3.6 days  | 0 |  None  | 
+| 2020-03-07 | 4 |  3.8 days  | 0 |  None  | 
+| 2020-03-06 | 4 |  3.8 days  | 0 |  None  | 
+| 2020-03-05 | 4 |  3.8 days  | 0 |  None  | 
+| 2020-03-04 | 3 |  4.8 days  | 0 |  None  | 
+| 2020-03-03 | 3 |  None  | 0 |  None  | 
+| 2020-03-02 | 3 |  None  | 0 |  None  | 
+| 2020-03-01 | 3 |  None  | 0 |  None  | 
+| 2020-02-29 | 1 |  None  | 0 |  None  | 
+| 2020-02-28 | 1 |  None  | 0 |  None  | 
+| 2020-02-27 | 1 |  None  | 0 |  None  | 
+| 2020-02-26 | 1 |  None  | 0 |  None  | 
+

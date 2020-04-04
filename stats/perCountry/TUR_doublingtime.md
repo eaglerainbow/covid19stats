@@ -1,0 +1,43 @@
+# Country Figures: Doubling Time of Infections for Turkey 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./TUR_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./TUR_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 20921 |  4.1 days  | 484 |  2.3 days  | 
+| 2020-04-02 | 18135 |  3.4 days  | 415 |  2.1 days  | 
+| 2020-04-01 | 15679 |  2.9 days  | 333 |  2.2 days  | 
+| 2020-03-31 | 13531 |  2.8 days  | 243 |  None  | 
+| 2020-03-30 | 10827 |  2.8 days  | 162 |  None  | 
+| 2020-03-29 | 9217 |  2.7 days  | 105 |  None  | 
+| 2020-03-28 | 7402 |  2.3 days  | 70 |  None  | 
+| 2020-03-27 | 5698 |  2.1 days  | 42 |  None  | 
+| 2020-03-26 | 3629 |  2.0 days  | 26 |  None  | 
+| 2020-03-25 | 2433 |  1.8 days  | 26 |  None  | 
+| 2020-03-24 | 1872 |  1.6 days  | 0 |  None  | 
+| 2020-03-23 | 1529 |  1.4 days  | 0 |  None  | 
+| 2020-03-22 | 1236 |  1.2 days  | 0 |  None  | 
+| 2020-03-21 | 670 |  1.3 days  | 0 |  None  | 
+| 2020-03-20 | 359 |  1.5 days  | 0 |  None  | 
+| 2020-03-19 | 192 |  1.2 days  | 0 |  None  | 
+| 2020-03-18 | 98 |  1.4 days  | 0 |  None  | 
+| 2020-03-17 | 47 |  None  | 0 |  None  | 
+| 2020-03-16 | 18 |  None  | 0 |  None  | 
+| 2020-03-15 | 6 |  None  | 0 |  None  | 
+| 2020-03-14 | 5 |  None  | 0 |  None  | 
+| 2020-03-13 | 5 |  None  | 0 |  None  | 
+| 2020-03-12 | 1 |  None  | 0 |  None  | 
+| 2020-03-11 | 1 |  None  | 0 |  None  | 
+

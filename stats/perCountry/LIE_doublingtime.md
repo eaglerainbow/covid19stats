@@ -1,0 +1,50 @@
+# Country Figures: Doubling Time of Infections for Liechtenstein 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./LIE_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./LIE_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 75 |  17.0 days  | 0 |  None  | 
+| 2020-04-02 | 75 |  17.0 days  | 0 |  None  | 
+| 2020-04-01 | 68 |  17.2 days  | 0 |  None  | 
+| 2020-03-31 | 68 |  17.2 days  | 0 |  None  | 
+| 2020-03-30 | 62 |  25.2 days  | 0 |  None  | 
+| 2020-03-29 | 56 |  12.1 days  | 0 |  None  | 
+| 2020-03-28 | 56 |  12.1 days  | 0 |  None  | 
+| 2020-03-27 | 56 |  7.3 days  | 0 |  None  | 
+| 2020-03-26 | 56 |  7.3 days  | 0 |  None  | 
+| 2020-03-25 | 51 |  8.4 days  | 0 |  None  | 
+| 2020-03-24 | 51 |  2.8 days  | 0 |  None  | 
+| 2020-03-23 | 51 |  2.2 days  | 0 |  None  | 
+| 2020-03-22 | 37 |  2.5 days  | 0 |  None  | 
+| 2020-03-21 | 37 |  2.5 days  | 0 |  None  | 
+| 2020-03-20 | 28 |  1.8 days  | 0 |  None  | 
+| 2020-03-19 | 28 |  1.8 days  | 0 |  None  | 
+| 2020-03-18 | 28 |  1.8 days  | 0 |  None  | 
+| 2020-03-17 | 7 |  2.8 days  | 0 |  None  | 
+| 2020-03-16 | 4 |  3.8 days  | 0 |  None  | 
+| 2020-03-15 | 4 |  3.8 days  | 0 |  None  | 
+| 2020-03-14 | 4 |  3.8 days  | 0 |  None  | 
+| 2020-03-13 | 1 |  None  | 0 |  None  | 
+| 2020-03-12 | 1 |  None  | 0 |  None  | 
+| 2020-03-11 | 1 |  None  | 0 |  None  | 
+| 2020-03-10 | 1 |  None  | 0 |  None  | 
+| 2020-03-09 | 1 |  None  | 0 |  None  | 
+| 2020-03-08 | 1 |  None  | 0 |  None  | 
+| 2020-03-07 | 1 |  None  | 0 |  None  | 
+| 2020-03-06 | 1 |  None  | 0 |  None  | 
+| 2020-03-05 | 1 |  None  | 0 |  None  | 
+| 2020-03-04 | 1 |  None  | 0 |  None  | 
+

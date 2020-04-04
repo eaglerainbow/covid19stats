@@ -1,0 +1,54 @@
+# Country Figures: Doubling Time of Infections for Ireland 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./IRL_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./IRL_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 4273 |  7.3 days  | 5 |  None  | 
+| 2020-04-02 | 3849 |  6.8 days  | 5 |  None  | 
+| 2020-04-01 | 3447 |  6.5 days  | 5 |  None  | 
+| 2020-03-31 | 3235 |  5.8 days  | 5 |  None  | 
+| 2020-03-30 | 2910 |  5.4 days  | 5 |  None  | 
+| 2020-03-29 | 2615 |  4.9 days  | 5 |  None  | 
+| 2020-03-28 | 2415 |  4.7 days  | 5 |  None  | 
+| 2020-03-27 | 2121 |  4.6 days  | 5 |  None  | 
+| 2020-03-26 | 1819 |  4.4 days  | 5 |  None  | 
+| 2020-03-25 | 1564 |  3.2 days  | 5 |  None  | 
+| 2020-03-24 | 1329 |  3.1 days  | 5 |  None  | 
+| 2020-03-23 | 1125 |  2.9 days  | 5 |  None  | 
+| 2020-03-22 | 906 |  2.8 days  | 5 |  None  | 
+| 2020-03-21 | 785 |  3.0 days  | 5 |  None  | 
+| 2020-03-20 | 683 |  2.7 days  | 5 |  None  | 
+| 2020-03-19 | 557 |  2.2 days  | 5 |  None  | 
+| 2020-03-18 | 292 |  2.9 days  | 5 |  None  | 
+| 2020-03-17 | 223 |  2.9 days  | 5 |  None  | 
+| 2020-03-16 | 169 |  2.7 days  | 0 |  None  | 
+| 2020-03-15 | 129 |  3.0 days  | 0 |  None  | 
+| 2020-03-14 | 129 |  2.8 days  | 0 |  None  | 
+| 2020-03-13 | 90 |  3.3 days  | 0 |  None  | 
+| 2020-03-12 | 43 |  2.8 days  | 0 |  None  | 
+| 2020-03-11 | 43 |  2.8 days  | 0 |  None  | 
+| 2020-03-10 | 34 |  2.0 days  | 0 |  None  | 
+| 2020-03-09 | 21 |  1.9 days  | 0 |  None  | 
+| 2020-03-08 | 21 |  1.9 days  | 0 |  None  | 
+| 2020-03-07 | 18 |  2.0 days  | 0 |  None  | 
+| 2020-03-06 | 18 |  None  | 0 |  None  | 
+| 2020-03-05 | 6 |  None  | 0 |  None  | 
+| 2020-03-04 | 6 |  None  | 0 |  None  | 
+| 2020-03-03 | 2 |  None  | 0 |  None  | 
+| 2020-03-02 | 1 |  None  | 0 |  None  | 
+| 2020-03-01 | 1 |  None  | 0 |  None  | 
+| 2020-02-29 | 1 |  None  | 0 |  None  | 
+

@@ -1,0 +1,59 @@
+# Country Figures: Doubling Time of Infections for Bahrain 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./BHR_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./BHR_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 672 |  13.6 days  | 382 |  9.7 days  | 
+| 2020-04-02 | 643 |  14.6 days  | 381 |  8.1 days  | 
+| 2020-04-01 | 569 |  16.2 days  | 337 |  7.9 days  | 
+| 2020-03-31 | 567 |  13.5 days  | 295 |  9.8 days  | 
+| 2020-03-30 | 515 |  15.9 days  | 279 |  9.5 days  | 
+| 2020-03-29 | 499 |  12.4 days  | 272 |  8.4 days  | 
+| 2020-03-28 | 476 |  11.2 days  | 265 |  6.8 days  | 
+| 2020-03-27 | 466 |  10.2 days  | 227 |  6.3 days  | 
+| 2020-03-26 | 458 |  10.1 days  | 204 |  7.1 days  | 
+| 2020-03-25 | 419 |  10.2 days  | 177 |  7.3 days  | 
+| 2020-03-24 | 392 |  9.3 days  | 177 |  6.5 days  | 
+| 2020-03-23 | 377 |  8.9 days  | 164 |  6.8 days  | 
+| 2020-03-22 | 334 |  11.2 days  | 149 |  5.7 days  | 
+| 2020-03-21 | 305 |  13.3 days  | 125 |  5.0 days  | 
+| 2020-03-20 | 285 |  12.2 days  | 100 |  6.3 days  | 
+| 2020-03-19 | 278 |  14.0 days  | 100 |  5.0 days  | 
+| 2020-03-18 | 256 |  18.2 days  | 88 |  5.6 days  | 
+| 2020-03-17 | 228 |  7.0 days  | 81 |  4.1 days  | 
+| 2020-03-16 | 214 |  6.3 days  | 77 |  3.2 days  | 
+| 2020-03-15 | 214 |  5.6 days  | 60 |  2.1 days  | 
+| 2020-03-14 | 210 |  5.7 days  | 44 |  2.4 days  | 
+| 2020-03-13 | 189 |  4.6 days  | 44 |  2.4 days  | 
+| 2020-03-12 | 195 |  4.2 days  | 35 |  None  | 
+| 2020-03-11 | 195 |  4.0 days  | 35 |  None  | 
+| 2020-03-10 | 110 |  6.3 days  | 22 |  None  | 
+| 2020-03-09 | 95 |  7.7 days  | 14 |  None  | 
+| 2020-03-08 | 85 |  8.5 days  | 4 |  None  | 
+| 2020-03-07 | 85 |  7.0 days  | 4 |  None  | 
+| 2020-03-06 | 60 |  9.8 days  | 4 |  None  | 
+| 2020-03-05 | 55 |  9.8 days  | 0 |  None  | 
+| 2020-03-04 | 52 |  11.0 days  | 0 |  None  | 
+| 2020-03-03 | 49 |  6.8 days  | 0 |  None  | 
+| 2020-03-02 | 49 |  1.6 days  | 0 |  None  | 
+| 2020-03-01 | 47 |  None  | 0 |  None  | 
+| 2020-02-29 | 41 |  None  | 0 |  None  | 
+| 2020-02-28 | 36 |  None  | 0 |  None  | 
+| 2020-02-27 | 33 |  None  | 0 |  None  | 
+| 2020-02-26 | 33 |  None  | 0 |  None  | 
+| 2020-02-25 | 23 |  None  | 0 |  None  | 
+| 2020-02-24 | 1 |  None  | 0 |  None  | 
+

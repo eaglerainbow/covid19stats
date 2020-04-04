@@ -1,0 +1,66 @@
+# Country Figures: Doubling Time of Infections for Belgium 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./BEL_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./BEL_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 16770 |  6.2 days  | 2872 |  4.4 days  | 
+| 2020-04-02 | 15348 |  5.7 days  | 2495 |  4.0 days  | 
+| 2020-04-01 | 13964 |  5.0 days  | 2132 |  3.9 days  | 
+| 2020-03-31 | 12775 |  4.8 days  | 1696 |  4.1 days  | 
+| 2020-03-30 | 11899 |  4.5 days  | 1527 |  4.0 days  | 
+| 2020-03-29 | 10836 |  4.5 days  | 1359 |  3.3 days  | 
+| 2020-03-28 | 9134 |  4.5 days  | 1063 |  3.8 days  | 
+| 2020-03-27 | 7284 |  4.5 days  | 858 |  1.0 days  | 
+| 2020-03-26 | 6235 |  4.2 days  | 675 |  1.9 days  | 
+| 2020-03-25 | 4937 |  4.4 days  | 547 |  2.0 days  | 
+| 2020-03-24 | 4269 |  4.3 days  | 461 |  1.1 days  | 
+| 2020-03-23 | 3743 |  4.2 days  | 401 |  1.1 days  | 
+| 2020-03-22 | 3401 |  3.9 days  | 263 |  1.2 days  | 
+| 2020-03-21 | 2815 |  3.8 days  | 263 |  1.2 days  | 
+| 2020-03-20 | 2257 |  3.8 days  | 1 |  None  | 
+| 2020-03-19 | 1795 |  3.1 days  | 31 |  1.7 days  | 
+| 2020-03-18 | 1486 |  3.5 days  | 31 |  1.7 days  | 
+| 2020-03-17 | 1243 |  3.5 days  | 1 |  None  | 
+| 2020-03-16 | 1058 |  3.6 days  | 1 |  None  | 
+| 2020-03-15 | 886 |  3.6 days  | 1 |  None  | 
+| 2020-03-14 | 689 |  3.8 days  | 1 |  None  | 
+| 2020-03-13 | 559 |  3.3 days  | 1 |  None  | 
+| 2020-03-12 | 314 |  3.0 days  | 1 |  None  | 
+| 2020-03-11 | 314 |  2.2 days  | 1 |  None  | 
+| 2020-03-10 | 267 |  1.9 days  | 1 |  None  | 
+| 2020-03-09 | 239 |  1.8 days  | 1 |  None  | 
+| 2020-03-08 | 200 |  1.4 days  | 1 |  None  | 
+| 2020-03-07 | 169 |  1.3 days  | 1 |  None  | 
+| 2020-03-06 | 109 |  1.4 days  | 1 |  None  | 
+| 2020-03-05 | 50 |  1.6 days  | 1 |  None  | 
+| 2020-03-04 | 23 |  1.9 days  | 1 |  None  | 
+| 2020-03-03 | 13 |  2.2 days  | 1 |  None  | 
+| 2020-03-02 | 8 |  2.7 days  | 1 |  None  | 
+| 2020-03-01 | 2 |  7.3 days  | 1 |  None  | 
+| 2020-02-16 | 1 |  None  | 0 |  None  | 
+| 2020-02-15 | 1 |  None  | 0 |  None  | 
+| 2020-02-14 | 1 |  None  | 0 |  None  | 
+| 2020-02-13 | 1 |  None  | 0 |  None  | 
+| 2020-02-12 | 1 |  None  | 0 |  None  | 
+| 2020-02-11 | 1 |  None  | 0 |  None  | 
+| 2020-02-10 | 1 |  None  | 0 |  None  | 
+| 2020-02-09 | 1 |  None  | 0 |  None  | 
+| 2020-02-08 | 1 |  None  | 0 |  None  | 
+| 2020-02-07 | 1 |  None  | 0 |  None  | 
+| 2020-02-06 | 1 |  None  | 0 |  None  | 
+| 2020-02-05 | 1 |  None  | 0 |  None  | 
+| 2020-02-04 | 1 |  None  | 0 |  None  | 
+

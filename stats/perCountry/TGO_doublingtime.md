@@ -1,0 +1,48 @@
+# Country Figures: Doubling Time of Infections for Togo 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./TGO_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./TGO_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 40 |  10.7 days  | 17 |  2.0 days  | 
+| 2020-04-02 | 39 |  9.5 days  | 17 |  2.0 days  | 
+| 2020-04-01 | 36 |  11.2 days  | 10 |  2.4 days  | 
+| 2020-03-31 | 34 |  9.5 days  | 10 |  2.4 days  | 
+| 2020-03-30 | 30 |  9.8 days  | 1 |  None  | 
+| 2020-03-29 | 25 |  11.2 days  | 1 |  None  | 
+| 2020-03-28 | 25 |  11.2 days  | 1 |  None  | 
+| 2020-03-27 | 25 |  5.1 days  | 1 |  None  | 
+| 2020-03-26 | 23 |  1.9 days  | 1 |  None  | 
+| 2020-03-25 | 23 |  1.9 days  | 1 |  None  | 
+| 2020-03-24 | 20 |  1.9 days  | 1 |  None  | 
+| 2020-03-23 | 18 |  2.0 days  | 0 |  None  | 
+| 2020-03-22 | 16 |  2.1 days  | 0 |  None  | 
+| 2020-03-21 | 16 |  2.1 days  | 1 |  None  | 
+| 2020-03-20 | 9 |  2.5 days  | 1 |  None  | 
+| 2020-03-19 | 1 |  None  | 0 |  None  | 
+| 2020-03-18 | 1 |  None  | 0 |  None  | 
+| 2020-03-17 | 1 |  None  | 0 |  None  | 
+| 2020-03-16 | 1 |  None  | 0 |  None  | 
+| 2020-03-15 | 1 |  None  | 0 |  None  | 
+| 2020-03-14 | 1 |  None  | 0 |  None  | 
+| 2020-03-13 | 1 |  None  | 0 |  None  | 
+| 2020-03-12 | 1 |  None  | 0 |  None  | 
+| 2020-03-11 | 1 |  None  | 0 |  None  | 
+| 2020-03-10 | 1 |  None  | 0 |  None  | 
+| 2020-03-09 | 1 |  None  | 0 |  None  | 
+| 2020-03-08 | 1 |  None  | 0 |  None  | 
+| 2020-03-07 | 1 |  None  | 0 |  None  | 
+| 2020-03-06 | 1 |  None  | 0 |  None  | 
+

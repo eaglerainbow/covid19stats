@@ -1,0 +1,56 @@
+# Country Figures: Doubling Time of Infections for SanMarino 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./SMR_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./SMR_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 245 |  51.9 days  | 21 |  3.3 days  | 
+| 2020-04-02 | 245 |  30.0 days  | 21 |  3.3 days  | 
+| 2020-04-01 | 236 |  38.8 days  | 13 |  4.5 days  | 
+| 2020-03-31 | 236 |  21.2 days  | 13 |  4.5 days  | 
+| 2020-03-30 | 230 |  23.8 days  | 13 |  4.5 days  | 
+| 2020-03-29 | 224 |  20.0 days  | 6 |  12.3 days  | 
+| 2020-03-28 | 224 |  11.3 days  | 6 |  12.3 days  | 
+| 2020-03-27 | 223 |  11.4 days  | 4 |  None  | 
+| 2020-03-26 | 208 |  9.0 days  | 4 |  None  | 
+| 2020-03-25 | 208 |  9.0 days  | 4 |  None  | 
+| 2020-03-24 | 187 |  9.3 days  | 4 |  None  | 
+| 2020-03-23 | 187 |  9.3 days  | 4 |  None  | 
+| 2020-03-22 | 175 |  9.2 days  | 4 |  None  | 
+| 2020-03-21 | 144 |  8.6 days  | 4 |  None  | 
+| 2020-03-20 | 144 |  8.6 days  | 4 |  None  | 
+| 2020-03-19 | 119 |  9.2 days  | 4 |  None  | 
+| 2020-03-18 | 119 |  7.8 days  | 4 |  None  | 
+| 2020-03-17 | 109 |  6.7 days  | 4 |  None  | 
+| 2020-03-16 | 109 |  4.7 days  | 4 |  None  | 
+| 2020-03-15 | 101 |  5.0 days  | 4 |  None  | 
+| 2020-03-14 | 80 |  4.2 days  | 4 |  None  | 
+| 2020-03-13 | 80 |  4.0 days  | 0 |  None  | 
+| 2020-03-12 | 69 |  4.4 days  | 0 |  None  | 
+| 2020-03-11 | 62 |  3.9 days  | 0 |  None  | 
+| 2020-03-10 | 51 |  3.3 days  | 0 |  None  | 
+| 2020-03-09 | 36 |  3.6 days  | 0 |  None  | 
+| 2020-03-08 | 36 |  1.7 days  | 0 |  None  | 
+| 2020-03-07 | 23 |  1.9 days  | 0 |  None  | 
+| 2020-03-06 | 21 |  1.9 days  | 0 |  None  | 
+| 2020-03-05 | 21 |  1.9 days  | 0 |  None  | 
+| 2020-03-04 | 16 |  None  | 0 |  None  | 
+| 2020-03-03 | 10 |  None  | 0 |  None  | 
+| 2020-03-02 | 8 |  None  | 0 |  None  | 
+| 2020-03-01 | 1 |  None  | 0 |  None  | 
+| 2020-02-29 | 1 |  None  | 0 |  None  | 
+| 2020-02-28 | 1 |  None  | 0 |  None  | 
+| 2020-02-27 | 1 |  None  | 0 |  None  | 
+

@@ -1,0 +1,40 @@
+# Country Figures: Doubling Time of Infections for Trinidadand Tobago 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./TTO_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./TTO_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 98 |  12.6 days  | 1 |  None  | 
+| 2020-04-02 | 94 |  13.5 days  | 1 |  None  | 
+| 2020-04-01 | 90 |  12.3 days  | 1 |  None  | 
+| 2020-03-31 | 87 |  11.8 days  | 1 |  None  | 
+| 2020-03-30 | 82 |  10.6 days  | 1 |  None  | 
+| 2020-03-29 | 78 |  11.3 days  | 1 |  None  | 
+| 2020-03-28 | 74 |  12.1 days  | 1 |  None  | 
+| 2020-03-27 | 66 |  2.8 days  | 1 |  None  | 
+| 2020-03-26 | 65 |  2.8 days  | 0 |  None  | 
+| 2020-03-25 | 60 |  2.6 days  | 0 |  None  | 
+| 2020-03-24 | 57 |  2.3 days  | 0 |  None  | 
+| 2020-03-23 | 51 |  2.2 days  | 0 |  None  | 
+| 2020-03-22 | 50 |  1.8 days  | 0 |  None  | 
+| 2020-03-21 | 49 |  1.8 days  | 1 |  None  | 
+| 2020-03-20 | 9 |  None  | 0 |  None  | 
+| 2020-03-19 | 9 |  None  | 0 |  None  | 
+| 2020-03-18 | 7 |  None  | 0 |  None  | 
+| 2020-03-17 | 5 |  None  | 0 |  None  | 
+| 2020-03-16 | 4 |  None  | 0 |  None  | 
+| 2020-03-15 | 2 |  None  | 0 |  None  | 
+| 2020-03-14 | 2 |  None  | 0 |  None  | 
+

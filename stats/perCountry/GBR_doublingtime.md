@@ -1,0 +1,82 @@
+# Country Figures: Doubling Time of Infections for UnitedKingdom 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./GBR_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./GBR_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 38689 |  5.4 days  | 208 |  15.5 days  | 
+| 2020-04-02 | 34173 |  4.9 days  | 192 |  20.0 days  | 
+| 2020-04-01 | 29865 |  4.6 days  | 179 |  20.1 days  | 
+| 2020-03-31 | 25481 |  4.6 days  | 179 |  20.1 days  | 
+| 2020-03-30 | 22453 |  4.4 days  | 171 |  24.6 days  | 
+| 2020-03-29 | 19780 |  4.3 days  | 151 |  10.8 days  | 
+| 2020-03-28 | 17312 |  4.3 days  | 151 |  6.3 days  | 
+| 2020-03-27 | 14745 |  4.1 days  | 151 |  6.3 days  | 
+| 2020-03-26 | 11812 |  3.6 days  | 150 |  6.4 days  | 
+| 2020-03-25 | 9640 |  4.1 days  | 140 |  6.9 days  | 
+| 2020-03-24 | 8164 |  3.7 days  | 140 |  5.3 days  | 
+| 2020-03-23 | 6726 |  3.6 days  | 140 |  2.9 days  | 
+| 2020-03-22 | 5741 |  3.3 days  | 95 |  3.3 days  | 
+| 2020-03-21 | 5067 |  3.6 days  | 67 |  4.2 days  | 
+| 2020-03-20 | 4014 |  3.3 days  | 67 |  4.2 days  | 
+| 2020-03-19 | 2716 |  3.1 days  | 67 |  4.2 days  | 
+| 2020-03-18 | 2642 |  3.1 days  | 67 |  4.2 days  | 
+| 2020-03-17 | 1960 |  3.3 days  | 53 |  4.8 days  | 
+| 2020-03-16 | 1551 |  3.4 days  | 21 |  31.8 days  | 
+| 2020-03-15 | 1144 |  3.7 days  | 19 |  90.1 days  | 
+| 2020-03-14 | 1144 |  3.2 days  | 19 |  90.1 days  | 
+| 2020-03-13 | 801 |  3.4 days  | 19 |  5.9 days  | 
+| 2020-03-12 | 459 |  3.8 days  | 19 |  5.9 days  | 
+| 2020-03-11 | 459 |  3.2 days  | 19 |  5.9 days  | 
+| 2020-03-10 | 383 |  2.7 days  | 18 |  6.3 days  | 
+| 2020-03-09 | 321 |  2.7 days  | 18 |  6.3 days  | 
+| 2020-03-08 | 273 |  2.7 days  | 18 |  6.3 days  | 
+| 2020-03-07 | 206 |  2.5 days  | 18 |  6.3 days  | 
+| 2020-03-06 | 163 |  2.7 days  | 8 |  None  | 
+| 2020-03-05 | 115 |  2.7 days  | 8 |  None  | 
+| 2020-03-04 | 85 |  2.9 days  | 8 |  None  | 
+| 2020-03-03 | 51 |  3.9 days  | 8 |  None  | 
+| 2020-03-02 | 40 |  4.7 days  | 8 |  None  | 
+| 2020-03-01 | 36 |  3.8 days  | 8 |  None  | 
+| 2020-02-29 | 23 |  5.5 days  | 8 |  None  | 
+| 2020-02-28 | 21 |  6.1 days  | 8 |  None  | 
+| 2020-02-27 | 15 |  9.8 days  | 8 |  None  | 
+| 2020-02-26 | 13 |  13.5 days  | 8 |  None  | 
+| 2020-02-25 | 13 |  13.5 days  | 8 |  None  | 
+| 2020-02-24 | 13 |  13.5 days  | 8 |  None  | 
+| 2020-02-23 | 9 |  None  | 8 |  None  | 
+| 2020-02-22 | 9 |  None  | 8 |  2.7 days  | 
+| 2020-02-21 | 9 |  None  | 8 |  2.7 days  | 
+| 2020-02-20 | 9 |  None  | 8 |  2.7 days  | 
+| 2020-02-19 | 9 |  None  | 8 |  2.7 days  | 
+| 2020-02-18 | 9 |  41.5 days  | 8 |  None  | 
+| 2020-02-17 | 9 |  41.5 days  | 8 |  None  | 
+| 2020-02-16 | 9 |  4.8 days  | 8 |  None  | 
+| 2020-02-15 | 9 |  4.8 days  | 1 |  None  | 
+| 2020-02-14 | 9 |  4.8 days  | 1 |  None  | 
+| 2020-02-13 | 9 |  3.6 days  | 1 |  None  | 
+| 2020-02-12 | 9 |  3.6 days  | 1 |  None  | 
+| 2020-02-11 | 8 |  3.8 days  | 0 |  None  | 
+| 2020-02-10 | 8 |  3.8 days  | 0 |  None  | 
+| 2020-02-09 | 3 |  12.3 days  | 0 |  None  | 
+| 2020-02-08 | 3 |  12.3 days  | 0 |  None  | 
+| 2020-02-07 | 3 |  None  | 0 |  None  | 
+| 2020-02-06 | 2 |  None  | 0 |  None  | 
+| 2020-02-05 | 2 |  None  | 0 |  None  | 
+| 2020-02-04 | 2 |  None  | 0 |  None  | 
+| 2020-02-03 | 2 |  None  | 0 |  None  | 
+| 2020-02-02 | 2 |  None  | 0 |  None  | 
+| 2020-02-01 | 2 |  None  | 0 |  None  | 
+

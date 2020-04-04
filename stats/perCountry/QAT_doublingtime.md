@@ -1,0 +1,54 @@
+# Country Figures: Doubling Time of Infections for Qatar 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./QAT_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./QAT_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 1075 |  7.8 days  | 93 |  6.6 days  | 
+| 2020-04-02 | 949 |  9.2 days  | 72 |  9.8 days  | 
+| 2020-04-01 | 835 |  11.3 days  | 71 |  9.2 days  | 
+| 2020-03-31 | 781 |  12.6 days  | 62 |  12.1 days  | 
+| 2020-03-30 | 693 |  15.3 days  | 51 |  11.5 days  | 
+| 2020-03-29 | 634 |  19.8 days  | 48 |  13.3 days  | 
+| 2020-03-28 | 590 |  24.1 days  | 45 |  9.8 days  | 
+| 2020-03-27 | 562 |  27.5 days  | 43 |  3.7 days  | 
+| 2020-03-26 | 549 |  27.8 days  | 43 |  2.4 days  | 
+| 2020-03-25 | 537 |  28.5 days  | 41 |  2.4 days  | 
+| 2020-03-24 | 526 |  27.2 days  | 41 |  2.4 days  | 
+| 2020-03-23 | 501 |  37.1 days  | 33 |  2.6 days  | 
+| 2020-03-22 | 494 |  23.6 days  | 33 |  2.6 days  | 
+| 2020-03-21 | 481 |  14.0 days  | 27 |  2.9 days  | 
+| 2020-03-20 | 470 |  13.0 days  | 10 |  None  | 
+| 2020-03-19 | 460 |  9.0 days  | 4 |  None  | 
+| 2020-03-18 | 452 |  9.2 days  | 4 |  None  | 
+| 2020-03-17 | 439 |  2.0 days  | 4 |  None  | 
+| 2020-03-16 | 439 |  1.8 days  | 4 |  None  | 
+| 2020-03-15 | 401 |  1.8 days  | 4 |  None  | 
+| 2020-03-14 | 337 |  1.6 days  | 4 |  None  | 
+| 2020-03-13 | 320 |  1.6 days  | 0 |  None  | 
+| 2020-03-12 | 262 |  1.7 days  | 0 |  None  | 
+| 2020-03-11 | 262 |  1.7 days  | 0 |  None  | 
+| 2020-03-10 | 24 |  4.3 days  | 0 |  None  | 
+| 2020-03-09 | 18 |  3.0 days  | 0 |  None  | 
+| 2020-03-08 | 15 |  3.3 days  | 0 |  None  | 
+| 2020-03-07 | 8 |  2.7 days  | 0 |  None  | 
+| 2020-03-06 | 8 |  None  | 0 |  None  | 
+| 2020-03-05 | 8 |  None  | 0 |  None  | 
+| 2020-03-04 | 8 |  None  | 0 |  None  | 
+| 2020-03-03 | 7 |  None  | 0 |  None  | 
+| 2020-03-02 | 3 |  None  | 0 |  None  | 
+| 2020-03-01 | 3 |  None  | 0 |  None  | 
+| 2020-02-29 | 1 |  None  | 0 |  None  | 
+

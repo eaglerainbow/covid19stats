@@ -1,0 +1,43 @@
+# Country Figures: Doubling Time of Infections for Honduras 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./HND_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./HND_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 222 |  4.4 days  | 3 |  None  | 
+| 2020-04-02 | 219 |  3.7 days  | 3 |  None  | 
+| 2020-04-01 | 172 |  3.4 days  | 3 |  None  | 
+| 2020-03-31 | 141 |  3.5 days  | 3 |  None  | 
+| 2020-03-30 | 139 |  3.3 days  | 3 |  None  | 
+| 2020-03-29 | 110 |  3.7 days  | 3 |  None  | 
+| 2020-03-28 | 95 |  3.9 days  | 3 |  None  | 
+| 2020-03-27 | 68 |  5.0 days  | 0 |  None  | 
+| 2020-03-26 | 52 |  3.6 days  | 0 |  None  | 
+| 2020-03-25 | 36 |  3.8 days  | 0 |  None  | 
+| 2020-03-24 | 30 |  4.0 days  | 0 |  None  | 
+| 2020-03-23 | 27 |  3.6 days  | 0 |  None  | 
+| 2020-03-22 | 26 |  2.6 days  | 0 |  None  | 
+| 2020-03-21 | 24 |  2.3 days  | 0 |  None  | 
+| 2020-03-20 | 24 |  2.3 days  | 0 |  None  | 
+| 2020-03-19 | 12 |  3.0 days  | 0 |  None  | 
+| 2020-03-18 | 9 |  3.6 days  | 0 |  None  | 
+| 2020-03-17 | 8 |  None  | 0 |  None  | 
+| 2020-03-16 | 6 |  None  | 0 |  None  | 
+| 2020-03-15 | 3 |  None  | 0 |  None  | 
+| 2020-03-14 | 2 |  None  | 0 |  None  | 
+| 2020-03-13 | 2 |  None  | 0 |  None  | 
+| 2020-03-12 | 2 |  None  | 0 |  None  | 
+| 2020-03-11 | 2 |  None  | 0 |  None  | 
+

@@ -1,0 +1,45 @@
+# Country Figures: Doubling Time of Infections for Albania 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./ALB_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./ALB_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 304 |  10.2 days  | 89 |  4.9 days  | 
+| 2020-04-02 | 277 |  10.8 days  | 76 |  3.6 days  | 
+| 2020-04-01 | 259 |  8.8 days  | 67 |  3.9 days  | 
+| 2020-03-31 | 243 |  7.5 days  | 52 |  3.3 days  | 
+| 2020-03-30 | 223 |  6.7 days  | 44 |  1.9 days  | 
+| 2020-03-29 | 212 |  5.9 days  | 33 |  2.1 days  | 
+| 2020-03-28 | 197 |  5.4 days  | 31 |  2.1 days  | 
+| 2020-03-27 | 186 |  5.3 days  | 31 |  None  | 
+| 2020-03-26 | 174 |  5.2 days  | 17 |  None  | 
+| 2020-03-25 | 146 |  5.7 days  | 17 |  None  | 
+| 2020-03-24 | 123 |  6.4 days  | 10 |  None  | 
+| 2020-03-23 | 104 |  7.2 days  | 2 |  None  | 
+| 2020-03-22 | 89 |  6.8 days  | 2 |  None  | 
+| 2020-03-21 | 76 |  7.3 days  | 2 |  None  | 
+| 2020-03-20 | 70 |  6.8 days  | 0 |  None  | 
+| 2020-03-19 | 64 |  5.1 days  | 0 |  None  | 
+| 2020-03-18 | 59 |  3.4 days  | 0 |  None  | 
+| 2020-03-17 | 55 |  3.2 days  | 0 |  None  | 
+| 2020-03-16 | 51 |  1.8 days  | 0 |  None  | 
+| 2020-03-15 | 42 |  None  | 0 |  None  | 
+| 2020-03-14 | 38 |  None  | 0 |  None  | 
+| 2020-03-13 | 33 |  None  | 0 |  None  | 
+| 2020-03-12 | 23 |  None  | 0 |  None  | 
+| 2020-03-11 | 12 |  None  | 0 |  None  | 
+| 2020-03-10 | 10 |  None  | 0 |  None  | 
+| 2020-03-09 | 2 |  None  | 0 |  None  | 
+

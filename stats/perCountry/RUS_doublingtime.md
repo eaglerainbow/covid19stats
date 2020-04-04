@@ -1,0 +1,63 @@
+# Country Figures: Doubling Time of Infections for Russia 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./RUS_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./RUS_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 4149 |  3.8 days  | 281 |  3.0 days  | 
+| 2020-04-02 | 3548 |  3.7 days  | 235 |  3.0 days  | 
+| 2020-04-01 | 2777 |  3.7 days  | 190 |  2.9 days  | 
+| 2020-03-31 | 2337 |  3.5 days  | 121 |  3.2 days  | 
+| 2020-03-30 | 1836 |  3.7 days  | 66 |  3.9 days  | 
+| 2020-03-29 | 1534 |  3.7 days  | 64 |  3.8 days  | 
+| 2020-03-28 | 1264 |  3.8 days  | 49 |  3.8 days  | 
+| 2020-03-27 | 1036 |  3.8 days  | 45 |  3.3 days  | 
+| 2020-03-26 | 840 |  3.7 days  | 38 |  3.7 days  | 
+| 2020-03-25 | 658 |  3.6 days  | 29 |  4.1 days  | 
+| 2020-03-24 | 495 |  3.6 days  | 22 |  5.1 days  | 
+| 2020-03-23 | 438 |  3.4 days  | 17 |  6.8 days  | 
+| 2020-03-22 | 367 |  3.1 days  | 16 |  7.3 days  | 
+| 2020-03-21 | 306 |  3.3 days  | 12 |  12.3 days  | 
+| 2020-03-20 | 253 |  3.1 days  | 9 |  4.8 days  | 
+| 2020-03-19 | 199 |  2.8 days  | 9 |  4.8 days  | 
+| 2020-03-18 | 147 |  2.8 days  | 8 |  5.3 days  | 
+| 2020-03-17 | 114 |  2.3 days  | 8 |  5.3 days  | 
+| 2020-03-16 | 90 |  3.2 days  | 8 |  5.3 days  | 
+| 2020-03-15 | 63 |  4.0 days  | 8 |  5.3 days  | 
+| 2020-03-14 | 59 |  3.5 days  | 8 |  3.8 days  | 
+| 2020-03-13 | 45 |  4.2 days  | 3 |  12.3 days  | 
+| 2020-03-12 | 28 |  2.8 days  | 3 |  12.3 days  | 
+| 2020-03-11 | 20 |  2.9 days  | 3 |  12.3 days  | 
+| 2020-03-10 | 10 |  4.4 days  | 3 |  12.3 days  | 
+| 2020-03-09 | 17 |  3.1 days  | 3 |  12.3 days  | 
+| 2020-03-08 | 17 |  2.6 days  | 3 |  None  | 
+| 2020-03-07 | 13 |  2.9 days  | 2 |  None  | 
+| 2020-03-06 | 13 |  2.9 days  | 2 |  None  | 
+| 2020-03-05 | 4 |  7.3 days  | 2 |  None  | 
+| 2020-03-04 | 3 |  12.3 days  | 2 |  None  | 
+| 2020-03-03 | 3 |  12.3 days  | 2 |  None  | 
+| 2020-03-02 | 3 |  12.3 days  | 2 |  None  | 
+| 2020-02-11 | 2 |  None  | 0 |  None  | 
+| 2020-02-10 | 2 |  None  | 0 |  None  | 
+| 2020-02-09 | 2 |  None  | 0 |  None  | 
+| 2020-02-08 | 2 |  None  | 0 |  None  | 
+| 2020-02-07 | 2 |  None  | 0 |  None  | 
+| 2020-02-06 | 2 |  None  | 0 |  None  | 
+| 2020-02-05 | 2 |  None  | 0 |  None  | 
+| 2020-02-04 | 2 |  None  | 0 |  None  | 
+| 2020-02-03 | 2 |  None  | 0 |  None  | 
+| 2020-02-02 | 2 |  None  | 0 |  None  | 
+| 2020-02-01 | 2 |  None  | 0 |  None  | 
+

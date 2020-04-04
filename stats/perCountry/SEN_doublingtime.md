@@ -1,0 +1,52 @@
+# Country Figures: Doubling Time of Infections for Senegal 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./SEN_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./SEN_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 207 |  9.1 days  | 66 |  3.0 days  | 
+| 2020-04-02 | 195 |  8.2 days  | 55 |  3.0 days  | 
+| 2020-04-01 | 190 |  7.8 days  | 45 |  3.3 days  | 
+| 2020-03-31 | 175 |  7.2 days  | 40 |  3.3 days  | 
+| 2020-03-30 | 162 |  7.1 days  | 27 |  4.3 days  | 
+| 2020-03-29 | 142 |  6.8 days  | 27 |  3.2 days  | 
+| 2020-03-28 | 130 |  5.1 days  | 18 |  4.1 days  | 
+| 2020-03-27 | 119 |  4.6 days  | 11 |  3.2 days  | 
+| 2020-03-26 | 105 |  4.3 days  | 9 |  3.6 days  | 
+| 2020-03-25 | 99 |  4.5 days  | 9 |  3.6 days  | 
+| 2020-03-24 | 86 |  4.4 days  | 8 |  3.8 days  | 
+| 2020-03-23 | 79 |  4.4 days  | 8 |  3.8 days  | 
+| 2020-03-22 | 67 |  5.1 days  | 5 |  3.3 days  | 
+| 2020-03-21 | 47 |  3.5 days  | 5 |  3.3 days  | 
+| 2020-03-20 | 38 |  4.0 days  | 2 |  7.3 days  | 
+| 2020-03-19 | 31 |  2.7 days  | 2 |  7.3 days  | 
+| 2020-03-18 | 31 |  2.7 days  | 2 |  7.3 days  | 
+| 2020-03-17 | 26 |  2.9 days  | 2 |  7.3 days  | 
+| 2020-03-16 | 24 |  3.0 days  | 2 |  7.3 days  | 
+| 2020-03-15 | 24 |  3.0 days  | 1 |  None  | 
+| 2020-03-14 | 10 |  5.6 days  | 1 |  None  | 
+| 2020-03-13 | 10 |  5.6 days  | 1 |  None  | 
+| 2020-03-12 | 4 |  None  | 1 |  None  | 
+| 2020-03-11 | 4 |  None  | 1 |  None  | 
+| 2020-03-10 | 4 |  7.3 days  | 1 |  None  | 
+| 2020-03-09 | 4 |  3.8 days  | 1 |  None  | 
+| 2020-03-08 | 4 |  None  | 1 |  None  | 
+| 2020-03-07 | 4 |  None  | 0 |  None  | 
+| 2020-03-06 | 4 |  None  | 0 |  None  | 
+| 2020-03-05 | 4 |  None  | 0 |  None  | 
+| 2020-03-04 | 4 |  None  | 0 |  None  | 
+| 2020-03-03 | 2 |  None  | 0 |  None  | 
+| 2020-03-02 | 1 |  None  | 0 |  None  | 
+

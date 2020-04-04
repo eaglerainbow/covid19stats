@@ -1,0 +1,48 @@
+# Country Figures: Doubling Time of Infections for Colombia 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./COL_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./COL_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 1267 |  6.0 days  | 55 |  3.2 days  | 
+| 2020-04-02 | 1161 |  6.0 days  | 55 |  2.8 days  | 
+| 2020-04-01 | 1065 |  6.3 days  | 39 |  3.4 days  | 
+| 2020-03-31 | 906 |  5.9 days  | 31 |  3.3 days  | 
+| 2020-03-30 | 798 |  4.9 days  | 15 |  3.3 days  | 
+| 2020-03-29 | 702 |  4.7 days  | 10 |  4.4 days  | 
+| 2020-03-28 | 608 |  4.6 days  | 10 |  2.4 days  | 
+| 2020-03-27 | 539 |  3.7 days  | 10 |  2.4 days  | 
+| 2020-03-26 | 491 |  3.4 days  | 8 |  2.7 days  | 
+| 2020-03-25 | 470 |  3.3 days  | 8 |  2.7 days  | 
+| 2020-03-24 | 378 |  3.1 days  | 6 |  3.0 days  | 
+| 2020-03-23 | 277 |  3.3 days  | 3 |  None  | 
+| 2020-03-22 | 231 |  2.9 days  | 3 |  None  | 
+| 2020-03-21 | 196 |  2.5 days  | 1 |  None  | 
+| 2020-03-20 | 128 |  2.5 days  | 1 |  None  | 
+| 2020-03-19 | 102 |  2.3 days  | 1 |  None  | 
+| 2020-03-18 | 93 |  2.4 days  | 1 |  None  | 
+| 2020-03-17 | 65 |  1.9 days  | 1 |  None  | 
+| 2020-03-16 | 54 |  1.5 days  | 0 |  None  | 
+| 2020-03-15 | 34 |  1.7 days  | 0 |  None  | 
+| 2020-03-14 | 22 |  1.9 days  | 0 |  None  | 
+| 2020-03-13 | 13 |  2.2 days  | 0 |  None  | 
+| 2020-03-12 | 9 |  None  | 0 |  None  | 
+| 2020-03-11 | 9 |  None  | 0 |  None  | 
+| 2020-03-10 | 3 |  None  | 0 |  None  | 
+| 2020-03-09 | 1 |  None  | 0 |  None  | 
+| 2020-03-08 | 1 |  None  | 0 |  None  | 
+| 2020-03-07 | 1 |  None  | 0 |  None  | 
+| 2020-03-06 | 1 |  None  | 0 |  None  | 
+

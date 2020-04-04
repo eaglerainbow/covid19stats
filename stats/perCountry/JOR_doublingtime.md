@@ -1,0 +1,49 @@
+# Country Figures: Doubling Time of Infections for Jordan 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./JOR_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./JOR_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 310 |  17.9 days  | 58 |  4.5 days  | 
+| 2020-04-02 | 299 |  14.5 days  | 45 |  1.6 days  | 
+| 2020-04-01 | 278 |  10.4 days  | 36 |  1.7 days  | 
+| 2020-03-31 | 274 |  8.8 days  | 30 |  1.8 days  | 
+| 2020-03-30 | 268 |  6.8 days  | 26 |  1.8 days  | 
+| 2020-03-29 | 259 |  6.1 days  | 18 |  2.0 days  | 
+| 2020-03-28 | 246 |  4.9 days  | 18 |  2.0 days  | 
+| 2020-03-27 | 235 |  5.1 days  | 18 |  2.0 days  | 
+| 2020-03-26 | 212 |  4.7 days  | 1 |  None  | 
+| 2020-03-25 | 172 |  4.4 days  | 1 |  None  | 
+| 2020-03-24 | 154 |  3.5 days  | 1 |  None  | 
+| 2020-03-23 | 127 |  2.7 days  | 1 |  None  | 
+| 2020-03-22 | 112 |  2.2 days  | 1 |  None  | 
+| 2020-03-21 | 85 |  1.4 days  | 1 |  None  | 
+| 2020-03-20 | 85 |  1.4 days  | 1 |  None  | 
+| 2020-03-19 | 69 |  1.5 days  | 1 |  None  | 
+| 2020-03-18 | 52 |  1.5 days  | 1 |  None  | 
+| 2020-03-17 | 34 |  1.7 days  | 1 |  None  | 
+| 2020-03-16 | 17 |  2.0 days  | 1 |  None  | 
+| 2020-03-15 | 8 |  2.7 days  | 1 |  None  | 
+| 2020-03-12 | 1 |  None  | 0 |  None  | 
+| 2020-03-11 | 1 |  None  | 0 |  None  | 
+| 2020-03-10 | 1 |  None  | 0 |  None  | 
+| 2020-03-09 | 1 |  None  | 0 |  None  | 
+| 2020-03-08 | 1 |  None  | 0 |  None  | 
+| 2020-03-07 | 1 |  None  | 0 |  None  | 
+| 2020-03-06 | 1 |  None  | 0 |  None  | 
+| 2020-03-05 | 1 |  None  | 0 |  None  | 
+| 2020-03-04 | 1 |  None  | 0 |  None  | 
+| 2020-03-03 | 1 |  None  | 0 |  None  | 
+

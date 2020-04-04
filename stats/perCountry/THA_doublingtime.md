@@ -1,0 +1,82 @@
+# Country Figures: Doubling Time of Infections for Thailand 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./THA_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./THA_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 1978 |  9.1 days  | 612 |  3.0 days  | 
+| 2020-04-02 | 1875 |  8.6 days  | 505 |  3.1 days  | 
+| 2020-04-01 | 1771 |  7.9 days  | 505 |  2.8 days  | 
+| 2020-03-31 | 1651 |  7.4 days  | 342 |  2.9 days  | 
+| 2020-03-30 | 1524 |  6.8 days  | 229 |  3.6 days  | 
+| 2020-03-29 | 1388 |  6.1 days  | 97 |  6.5 days  | 
+| 2020-03-28 | 1245 |  4.7 days  | 97 |  6.1 days  | 
+| 2020-03-27 | 1136 |  4.2 days  | 97 |  6.1 days  | 
+| 2020-03-26 | 1045 |  3.9 days  | 88 |  6.9 days  | 
+| 2020-03-25 | 934 |  3.6 days  | 70 |  9.8 days  | 
+| 2020-03-24 | 827 |  3.5 days  | 52 |  20.8 days  | 
+| 2020-03-23 | 721 |  3.4 days  | 52 |  12.6 days  | 
+| 2020-03-22 | 599 |  3.3 days  | 44 |  21.5 days  | 
+| 2020-03-21 | 411 |  3.3 days  | 42 |  27.0 days  | 
+| 2020-03-20 | 322 |  3.7 days  | 42 |  27.0 days  | 
+| 2020-03-19 | 272 |  3.9 days  | 42 |  23.3 days  | 
+| 2020-03-18 | 212 |  4.1 days  | 42 |  23.3 days  | 
+| 2020-03-17 | 177 |  4.4 days  | 41 |  22.7 days  | 
+| 2020-03-16 | 147 |  4.8 days  | 35 |  40.3 days  | 
+| 2020-03-15 | 114 |  6.2 days  | 35 |  40.3 days  | 
+| 2020-03-14 | 82 |  10.2 days  | 35 |  40.3 days  | 
+| 2020-03-13 | 75 |  11.2 days  | 35 |  40.3 days  | 
+| 2020-03-12 | 70 |  12.5 days  | 34 |  52.9 days  | 
+| 2020-03-11 | 59 |  15.7 days  | 34 |  52.9 days  | 
+| 2020-03-10 | 53 |  23.6 days  | 33 |  78.0 days  | 
+| 2020-03-09 | 50 |  32.5 days  | 31 |  None  | 
+| 2020-03-08 | 50 |  28.2 days  | 31 |  48.0 days  | 
+| 2020-03-07 | 50 |  28.2 days  | 31 |  48.0 days  | 
+| 2020-03-06 | 48 |  31.1 days  | 31 |  48.0 days  | 
+| 2020-03-05 | 47 |  30.4 days  | 31 |  14.5 days  | 
+| 2020-03-04 | 43 |  67.4 days  | 31 |  14.5 days  | 
+| 2020-03-03 | 43 |  32.6 days  | 31 |  14.5 days  | 
+| 2020-03-02 | 43 |  23.9 days  | 31 |  12.8 days  | 
+| 2020-03-01 | 42 |  27.0 days  | 28 |  17.2 days  | 
+| 2020-02-29 | 42 |  27.0 days  | 28 |  10.1 days  | 
+| 2020-02-28 | 41 |  31.0 days  | 28 |  10.1 days  | 
+| 2020-02-27 | 40 |  36.7 days  | 22 |  13.0 days  | 
+| 2020-02-26 | 40 |  36.7 days  | 22 |  13.0 days  | 
+| 2020-02-25 | 37 |  87.7 days  | 22 |  13.0 days  | 
+| 2020-02-24 | 35 |  None  | 21 |  14.8 days  | 
+| 2020-02-23 | 35 |  167.7 days  | 21 |  12.3 days  | 
+| 2020-02-22 | 35 |  82.8 days  | 17 |  14.3 days  | 
+| 2020-02-21 | 35 |  82.8 days  | 17 |  14.3 days  | 
+| 2020-02-20 | 35 |  82.8 days  | 15 |  22.1 days  | 
+| 2020-02-19 | 35 |  82.8 days  | 15 |  12.3 days  | 
+| 2020-02-18 | 35 |  82.8 days  | 15 |  12.3 days  | 
+| 2020-02-17 | 35 |  54.5 days  | 15 |  12.3 days  | 
+| 2020-02-16 | 34 |  80.4 days  | 14 |  14.8 days  | 
+| 2020-02-15 | 33 |  158.0 days  | 12 |  27.0 days  | 
+| 2020-02-14 | 33 |  17.8 days  | 12 |  5.9 days  | 
+| 2020-02-13 | 33 |  17.8 days  | 12 |  5.9 days  | 
+| 2020-02-12 | 33 |  17.8 days  | 10 |  7.3 days  | 
+| 2020-02-11 | 33 |  17.8 days  | 10 |  7.3 days  | 
+| 2020-02-10 | 32 |  9.7 days  | 10 |  7.3 days  | 
+| 2020-02-09 | 32 |  9.7 days  | 10 |  7.3 days  | 
+| 2020-02-08 | 32 |  9.7 days  | 10 |  7.3 days  | 
+| 2020-02-07 | 25 |  None  | 5 |  None  | 
+| 2020-02-06 | 25 |  None  | 5 |  None  | 
+| 2020-02-05 | 25 |  None  | 5 |  None  | 
+| 2020-02-04 | 25 |  None  | 5 |  None  | 
+| 2020-02-03 | 19 |  None  | 5 |  None  | 
+| 2020-02-02 | 19 |  None  | 5 |  None  | 
+| 2020-02-01 | 19 |  None  | 5 |  None  | 
+

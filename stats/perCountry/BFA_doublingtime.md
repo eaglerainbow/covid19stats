@@ -1,0 +1,44 @@
+# Country Figures: Doubling Time of Infections for BurkinaFaso 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./BFA_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./BFA_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-04-03 | 302 |  9.7 days  | 50 |  3.7 days  | 
+| 2020-04-02 | 288 |  7.9 days  | 50 |  3.3 days  | 
+| 2020-04-01 | 282 |  7.7 days  | 46 |  3.5 days  | 
+| 2020-03-31 | 261 |  6.2 days  | 32 |  3.5 days  | 
+| 2020-03-30 | 246 |  5.7 days  | 31 |  3.0 days  | 
+| 2020-03-29 | 222 |  4.8 days  | 23 |  3.5 days  | 
+| 2020-03-28 | 207 |  4.5 days  | 21 |  3.7 days  | 
+| 2020-03-27 | 180 |  3.6 days  | 12 |  None  | 
+| 2020-03-26 | 152 |  3.5 days  | 10 |  None  | 
+| 2020-03-25 | 146 |  2.8 days  | 10 |  None  | 
+| 2020-03-24 | 114 |  2.7 days  | 7 |  None  | 
+| 2020-03-23 | 99 |  2.9 days  | 5 |  None  | 
+| 2020-03-22 | 75 |  1.8 days  | 5 |  None  | 
+| 2020-03-21 | 64 |  1.7 days  | 5 |  None  | 
+| 2020-03-20 | 40 |  1.9 days  | 0 |  None  | 
+| 2020-03-19 | 33 |  2.1 days  | 0 |  None  | 
+| 2020-03-18 | 20 |  2.4 days  | 0 |  None  | 
+| 2020-03-17 | 15 |  2.1 days  | 0 |  None  | 
+| 2020-03-16 | 15 |  None  | 0 |  None  | 
+| 2020-03-15 | 3 |  None  | 0 |  None  | 
+| 2020-03-14 | 2 |  None  | 0 |  None  | 
+| 2020-03-13 | 2 |  None  | 0 |  None  | 
+| 2020-03-12 | 2 |  None  | 0 |  None  | 
+| 2020-03-11 | 2 |  None  | 0 |  None  | 
+| 2020-03-10 | 1 |  None  | 0 |  None  | 
+
