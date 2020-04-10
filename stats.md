@@ -7,6 +7,7 @@
 * [Basic Statistics by Country, ordered by highest absolute increase of confirmed cases (in 24h)](./stats/all_countries_most_deltaconfirmed_most_recent.md)
 * [Basic Statistics by Country, ordered by highest mortality (in 24h)](./stats/all_countries_highest_mortality_most_recent.md)
 * [Basic Statistics by Country, ordered by Percentage Active of Population](./stats/all_countries_highest_activepop_most_recent.md)
+* [Basic Statistics by Country, ordered by Total Number of Active](./stats/all_countries_highest_active_most_recent.md)
 
 ## Growth Rate
 
@@ -16,3 +17,4 @@
 
 ## Estimations
 * [Estimated Number of Infections by Country, ordered by highest first](./stats/all_countries_est_infected.md)
+* [Estimated Time down to Zero Active Cases by Country, ordered by lowest first](./stats/all_countries_est_downtozero.md)

@@ -1,4 +1,4 @@
-# Most Recent Figures: Highest Number of Infections of Population By Country 
+# Most Recent Figures: Highest Percentage of Polulation having Active Infections By Country 
 
 | Country | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |---------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
