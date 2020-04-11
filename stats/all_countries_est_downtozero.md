@@ -1,4 +1,4 @@
-# Estimated Time To Zero Actvive Cases By Country
+# Estimated Time To Zero Active Cases By Country
 
 The following table contains a ranking of countries
 * having more than 100 confirmed infections and 
@@ -10,26 +10,29 @@ require to get down to zero active cases (assuming the same rate of
 reduction of the most recent day will also happen in all days in
 the future).
 
-| Country | Active | &Delta; Active | Days to Zero Active Cases |
-|---------|--------|----------------|---------------------------|
-| [Venezuela](./perCountry/VEN_stat.md) (VEN) | 78 | 15 | 5 |
-| [Australia](./perCountry/AUS_stat.md) (AUS) | 4585 | 295 | 15 |
-| [Austria](./perCountry/AUT_stat.md) (AUT) | 7709 | 448 | 17 |
-| [Korea,South](./perCountry/KOR_stat.md) (KOR) | 3246 | 162 | 20 |
-| [Algeria](./perCountry/DZA_stat.md) (DZA) | 1084 | 46 | 23 |
-| [Uruguay](./perCountry/URY_stat.md) (URY) | 257 | 10 | 25 |
-| [Iran](./perCountry/IRN_stat.md) (IRN) | 29801 | 980 | 30 |
-| [Senegal](./perCountry/SEN_stat.md) (SEN) | 125 | 4 | 31 |
-| [SriLanka](./perCountry/LKA_stat.md) (LKA) | 134 | 4 | 33 |
-| [Iceland](./perCountry/ISL_stat.md) (ISL) | 954 | 23 | 41 |
-| [Germany](./perCountry/GER_stat.md) (GER) | 63167 | 1480 | 42 |
-| [Brunei](./perCountry/BRN_stat.md) (BRN) | 42 | 1 | 42 |
-| [China](./perCountry/CHN_stat.md) (CHN) | 1865 | 40 | 46 |
-| [Iraq](./perCountry/IRQ_stat.md) (IRQ) | 667 | 14 | 47 |
-| [Taiwan](./perCountry/None_stat.md) (None) | 308 | 5 | 61 |
-| [Albania](./perCountry/ALB_stat.md) (ALB) | 221 | 3 | 73 |
-| [Switzerland](./perCountry/CHE_stat.md) (CHE) | 12503 | 82 | 152 |
-| [NewZealand](./perCountry/NZL_stat.md) (NZL) | 921 | 6 | 153 |
-| [Malaysia](./perCountry/MYS_stat.md) (MYS) | 2553 | 14 | 182 |
+| Country | Active | &Delta; Active (reduction last day) | Days to Zero Active Cases |
+|---------|--------|-------------------------------------|---------------------------|
+| [Cambodia](./perCountry/KHM_stat.md) (KHM) | 47 | 10 | 4 |
+| [Brunei](./perCountry/BRN_stat.md) (BRN) | 36 | 6 | 6 |
+| [SouthAfrica](./perCountry/ZAF_stat.md) (ZAF) | 1569 | 252 | 6 |
+| [Vietnam](./perCountry/VNM_stat.md) (VNM) | 113 | 14 | 8 |
+| [Taiwan](./perCountry/None_stat.md) (None) | 285 | 23 | 12 |
+| [Austria](./perCountry/AUT_stat.md) (AUT) | 7172 | 537 | 13 |
+| [Australia](./perCountry/AUS_stat.md) (AUS) | 4368 | 217 | 20 |
+| [Albania](./perCountry/ALB_stat.md) (ALB) | 211 | 10 | 21 |
+| [Iran](./perCountry/IRN_stat.md) (IRN) | 28495 | 1306 | 21 |
+| [Jordan](./perCountry/JOR_stat.md) (JOR) | 195 | 9 | 21 |
+| [Malaysia](./perCountry/MYS_stat.md) (MYS) | 2446 | 107 | 22 |
+| [Iceland](./perCountry/ISL_stat.md) (ISL) | 917 | 37 | 24 |
+| [Korea,South](./perCountry/KOR_stat.md) (KOR) | 3125 | 121 | 25 |
+| [SriLanka](./perCountry/LKA_stat.md) (LKA) | 129 | 5 | 25 |
+| [China](./perCountry/CHN_stat.md) (CHN) | 1810 | 55 | 32 |
+| [Kenya](./perCountry/KEN_stat.md) (KEN) | 160 | 5 | 32 |
+| [Thailand](./perCountry/THA_stat.md) (THA) | 1427 | 24 | 59 |
+| [NewZealand](./perCountry/NZL_stat.md) (NZL) | 908 | 13 | 69 |
+| [Iraq](./perCountry/IRQ_stat.md) (IRQ) | 659 | 8 | 82 |
+| [Lithuania](./perCountry/LTU_stat.md) (LTU) | 923 | 8 | 115 |
+| [Switzerland](./perCountry/CHE_stat.md) (CHE) | 12449 | 54 | 230 |
+| [Ghana](./perCountry/GHA_stat.md) (GHA) | 368 | 1 | 368 |
 
 
