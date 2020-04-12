@@ -12,7 +12,7 @@ In general this means:
 one (1), the stronger a linear correlation (and not an exponential
 correlation) is to be assumed. This is one indicator to have
 successfully "flattened the curve". 
-* The smaller the Normalized Error the better is the quality of the
+* The smaller the Normalized Error, the better is the quality of the
 linear regression. If the "curve is not flattened yet", a higher value
 than 3 percent is to be expected.
 * The slope of linear regression can also be understood as the predicted
@@ -27,6 +27,12 @@ will gradually turn into a sub-linear growth. In the latter phase, the
 Pearson Correlation Coefficient will drop (below 1) again and the
 Normalized Error will start to increase again. However, this is then
 another sign for success of the country's measures.  
+
+Note: The Pearson Correlation Coefficient in the configuration used
+here, still shows a value of 0.962 for still ongoing exponential
+growth (with a factor of 40% per day). That is why values of the
+Pearson Coefficient of below 0.99 should already be considered as
+"rather bad", probably still indicating exponential growth. 
 
 Note: Unregular reporting of cases (e.g. due to non-reportings over
 the weekend) may also lead to a small decrease of the Pearson
