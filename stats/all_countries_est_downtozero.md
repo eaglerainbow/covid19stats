@@ -12,27 +12,31 @@ the future).
 
 | Country | Active | &Delta; Active (reduction last day) | Days to Zero Active Cases |
 |---------|--------|-------------------------------------|---------------------------|
-| [Cambodia](./perCountry/KHM_stat.md) (KHM) | 47 | 10 | 4 |
-| [Brunei](./perCountry/BRN_stat.md) (BRN) | 36 | 6 | 6 |
-| [SouthAfrica](./perCountry/ZAF_stat.md) (ZAF) | 1569 | 252 | 6 |
-| [Vietnam](./perCountry/VNM_stat.md) (VNM) | 113 | 14 | 8 |
-| [Taiwan](./perCountry/None_stat.md) (None) | 285 | 23 | 12 |
-| [Austria](./perCountry/AUT_stat.md) (AUT) | 7172 | 537 | 13 |
-| [Australia](./perCountry/AUS_stat.md) (AUS) | 4368 | 217 | 20 |
-| [Albania](./perCountry/ALB_stat.md) (ALB) | 211 | 10 | 21 |
-| [Iran](./perCountry/IRN_stat.md) (IRN) | 28495 | 1306 | 21 |
-| [Jordan](./perCountry/JOR_stat.md) (JOR) | 195 | 9 | 21 |
-| [Malaysia](./perCountry/MYS_stat.md) (MYS) | 2446 | 107 | 22 |
-| [Iceland](./perCountry/ISL_stat.md) (ISL) | 917 | 37 | 24 |
-| [Korea,South](./perCountry/KOR_stat.md) (KOR) | 3125 | 121 | 25 |
-| [SriLanka](./perCountry/LKA_stat.md) (LKA) | 129 | 5 | 25 |
-| [China](./perCountry/CHN_stat.md) (CHN) | 1810 | 55 | 32 |
-| [Kenya](./perCountry/KEN_stat.md) (KEN) | 160 | 5 | 32 |
-| [Thailand](./perCountry/THA_stat.md) (THA) | 1427 | 24 | 59 |
-| [NewZealand](./perCountry/NZL_stat.md) (NZL) | 908 | 13 | 69 |
-| [Iraq](./perCountry/IRQ_stat.md) (IRQ) | 659 | 8 | 82 |
-| [Lithuania](./perCountry/LTU_stat.md) (LTU) | 923 | 8 | 115 |
-| [Switzerland](./perCountry/CHE_stat.md) (CHE) | 12449 | 54 | 230 |
-| [Ghana](./perCountry/GHA_stat.md) (GHA) | 368 | 1 | 368 |
+| [Iran](./perCountry/IRN_stat.md) (IRN) | 23725 | 4770 | 4 |
+| [Brunei](./perCountry/BRN_stat.md) (BRN) | 31 | 5 | 6 |
+| [Iceland](./perCountry/ISL_stat.md) (ISL) | 840 | 77 | 10 |
+| [Trinidadand Tobago](./perCountry/TTO_stat.md) (TTO) | 92 | 8 | 11 |
+| [Rwanda](./perCountry/RWA_stat.md) (RWA) | 102 | 9 | 11 |
+| [Venezuela](./perCountry/VEN_stat.md) (VEN) | 73 | 5 | 14 |
+| [Thailand](./perCountry/THA_stat.md) (THA) | 1348 | 79 | 17 |
+| [WestBank and Gaza](./perCountry/None_stat.md) (None) | 209 | 11 | 19 |
+| [Croatia](./perCountry/HRV_stat.md) (HRV) | 1190 | 53 | 22 |
+| [Argentina](./perCountry/ARG_stat.md) (ARG) | 1452 | 66 | 22 |
+| [Austria](./perCountry/AUT_stat.md) (AUT) | 6865 | 307 | 22 |
+| [Cambodia](./perCountry/KHM_stat.md) (KHM) | 45 | 2 | 22 |
+| [Switzerland](./perCountry/CHE_stat.md) (CHE) | 11971 | 478 | 25 |
+| [Korea,South](./perCountry/KOR_stat.md) (KOR) | 3026 | 99 | 30 |
+| [ElSalvador](./perCountry/None_stat.md) (None) | 93 | 3 | 31 |
+| [NewZealand](./perCountry/NZL_stat.md) (NZL) | 886 | 22 | 40 |
+| [Iraq](./perCountry/IRQ_stat.md) (IRQ) | 645 | 14 | 46 |
+| [Taiwan](./perCountry/None_stat.md) (None) | 280 | 5 | 56 |
+| [Senegal](./perCountry/SEN_stat.md) (SEN) | 124 | 2 | 62 |
+| [Mauritius](./perCountry/None_stat.md) (None) | 282 | 4 | 70 |
+| [Tunisia](./perCountry/TUN_stat.md) (TUN) | 614 | 7 | 87 |
+| [Germany](./perCountry/GER_stat.md) (GER) | 64772 | 719 | 90 |
+| [Algeria](./perCountry/DZA_stat.md) (DZA) | 1090 | 10 | 109 |
+| [China](./perCountry/CHN_stat.md) (CHN) | 1794 | 16 | 112 |
+| [Nigeria](./perCountry/NGA_stat.md) (NGA) | 238 | 2 | 119 |
+| [Denmark](./perCountry/DNK_stat.md) (DNK) | 3820 | 18 | 212 |
 
 
