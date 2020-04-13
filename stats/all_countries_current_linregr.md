@@ -34,9 +34,11 @@ growth (with a factor of 40% per day). That is why values of the
 Pearson Coefficient of below 0.99 should already be considered as
 "rather bad", probably still indicating exponential growth. 
 
-Note: Unregular reporting of cases (e.g. due to non-reportings over
-the weekend) may also lead to a small decrease of the Pearson
-Correlation Coefficient and will also increase the Normalized Error.
+Note: Not all days of the week are equal. For instance, new cases that
+occur on weekends might not be reported until a few days later. Such
+imprecisions, which are worse in some countries, can make the case
+count appear "less linear" (smaller Pearson correlation coefficient
+and higher normalized error) than it otherwise would be.
 
 | Country | Slope of Linear Regression | Intercept of Linear Regression | Pearson Correlation Coefficient | Squared Error | Normalized Error |
 |---------|----------------------------|--------------------------------|---------------------------------|---------------|------------------|
