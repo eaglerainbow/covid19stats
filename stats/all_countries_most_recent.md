@@ -177,7 +177,7 @@
 | [UnitedArab Emirates](./perCountry/ARE_stat.md) (ARE) | 8756 | 56 | 1637 | 7063 | 0.64 % | 518 | 4 | 423 |  0.073 %  | 
 | [UnitedKingdom](./perCountry/GBR_stat.md) (GBR) | 139246 | 18791 | 712 | 119743 | 13.49 % | 4608 | 640 | 3939 |  0.180 %  | 
 | [Uruguay](./perCountry/URY_stat.md) (URY) | 557 | 12 | 354 | 191 | 2.15 % | 14 | 0 | -16 |  0.006 %  | 
-| [US](./perCountry/USA_stat.md) (USA) | 869170 | 49954 | 80203 | 739013 | 5.75 % | 29495 | 3371 | 23287 |  0.226 %  | 
+| [US](./perCountry/USA_stat.md) (USA) | 869170 | 49954 | 80203 | 739013 | 5.75 % | 28950 | 3332 | 22781 |  0.226 %  | 
 | [Uzbekistan](./perCountry/UZB_stat.md) (UZB) | 1758 | 7 | 561 | 1190 | 0.40 % | 42 | 0 | -69 |  0.004 %  | 
 | [VaticanCity](./perCountry/None_stat.md) (None) | 9 | 0 | 2 | 7 | 0.00 % | 0 | 0 | 0 |  n/a  | 
 | [Venezuela](./perCountry/VEN_stat.md) (VEN) | 311 | 10 | 126 | 175 | 3.22 % | 23 | 0 | 19 |  0.001 %  | 

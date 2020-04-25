@@ -7,7 +7,7 @@
 | [Andorra](./perCountry/AND_stat.md) (AND) | 723 | 37 | 333 | 353 | 5.12 % | 0 | 0 | -24 |  0.458 %  | 
 | [Qatar](./perCountry/QAT_stat.md) (QAT) | 7764 | 10 | 750 | 7004 | 0.13 % | 623 | 0 | 562 |  0.252 %  | 
 | [Belgium](./perCountry/BEL_stat.md) (BEL) | 42797 | 6490 | 9800 | 26507 | 15.16 % | 908 | 228 | 313 |  0.232 %  | 
-| [US](./perCountry/USA_stat.md) (USA) | 869170 | 49954 | 80203 | 739013 | 5.75 % | 29495 | 3371 | 23287 |  0.226 %  | 
+| [US](./perCountry/USA_stat.md) (USA) | 869170 | 49954 | 80203 | 739013 | 5.75 % | 28950 | 3332 | 22781 |  0.226 %  | 
 | [Spain](./perCountry/ESP_stat.md) (ESP) | 213024 | 22157 | 89250 | 101617 | 10.40 % | 4635 | 440 | 860 |  0.217 %  | 
 | [Portugal](./perCountry/PRT_stat.md) (PRT) | 22353 | 820 | 1201 | 20332 | 3.67 % | 371 | 35 | 278 |  0.198 %  | 
 | [Netherlands](./perCountry/NLD_stat.md) (NLD) | 35921 | 4192 | 101 | 31628 | 11.67 % | 889 | 124 | 765 |  0.184 %  | 

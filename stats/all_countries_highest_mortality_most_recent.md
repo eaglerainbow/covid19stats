@@ -44,7 +44,7 @@
 | [Iran](./perCountry/IRN_stat.md) (IRN) | 87026 | 5481 | 64843 | 16702 | 6.30 % | 1030 | 90 | -790 |  0.020 %  | 
 | [Bolivia](./perCountry/BOL_stat.md) (BOL) | 703 | 43 | 44 | 616 | 6.12 % | 94 | 6 | 88 |  0.005 %  | 
 | [Slovenia](./perCountry/SVN_stat.md) (SVN) | 1366 | 79 | 211 | 1076 | 5.78 % | 13 | 0 | 7 |  0.052 %  | 
-| [US](./perCountry/USA_stat.md) (USA) | 869170 | 49954 | 80203 | 739013 | 5.75 % | 29495 | 3371 | 23287 |  0.226 %  | 
+| [US](./perCountry/USA_stat.md) (USA) | 869170 | 49954 | 80203 | 739013 | 5.75 % | 28950 | 3332 | 22781 |  0.226 %  | 
 | [China](./perCountry/CHN_stat.md) (CHN) | 83884 | 4636 | 77983 | 1265 | 5.53 % | 16 | 0 | -106 |  0.000 %  | 
 | [Switzerland](./perCountry/CHE_stat.md) (CHE) | 28496 | 1549 | 20600 | 6347 | 5.44 % | 228 | 40 | -512 |  0.075 %  | 
 | [Romania](./perCountry/ROU_stat.md) (ROU) | 10096 | 545 | 2478 | 7073 | 5.40 % | 386 | 21 | 293 |  0.036 %  | 

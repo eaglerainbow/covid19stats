@@ -42,7 +42,7 @@ and higher normalized error) than it otherwise would be.
 
 | Country | Slope of Linear Regression | Intercept of Linear Regression | Pearson Correlation Coefficient | Squared Error | Normalized Error |
 |---------|----------------------------|--------------------------------|---------------------------------|---------------|------------------|
-| US (USA) |  27724.9  |    674271  |  1.000  |  17091792.7  |  0.48 %  | 
+| US (USA) |  27757.8  |    674193  |  1.000  |  16631131.7  |  0.47 %  | 
 | Russia (RUS) |  5164.9  |     26813  |  1.000  |    636394.5  |  1.27 %  | 
 | UnitedKingdom (GBR) |  4860.0  |    105727  |  0.998  |   2243785.4  |  1.08 %  | 
 | Turkey (TUR) |  3989.5  |     74644  |  0.998  |   1947747.4  |  1.37 %  | 

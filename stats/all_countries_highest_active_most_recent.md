@@ -2,7 +2,7 @@
 
 | Country | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |---------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
-| [US](./perCountry/USA_stat.md) (USA) | 869170 | 49954 | 80203 | 739013 | 5.75 % | 29495 | 3371 | 23287 |  0.226 %  | 
+| [US](./perCountry/USA_stat.md) (USA) | 869170 | 49954 | 80203 | 739013 | 5.75 % | 28950 | 3332 | 22781 |  0.226 %  | 
 | [UnitedKingdom](./perCountry/GBR_stat.md) (GBR) | 139246 | 18791 | 712 | 119743 | 13.49 % | 4608 | 640 | 3939 |  0.180 %  | 
 | [Italy](./perCountry/ITA_stat.md) (ITA) | 189973 | 25549 | 57576 | 106848 | 13.45 % | 2646 | 464 | -851 |  0.177 %  | 
 | [Spain](./perCountry/ESP_stat.md) (ESP) | 213024 | 22157 | 89250 | 101617 | 10.40 % | 4635 | 440 | 860 |  0.217 %  | 
