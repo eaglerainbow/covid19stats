@@ -18,3 +18,4 @@
 ## Estimations
 * [Estimated Number of Infections by Country, ordered by highest first](./stats/all_countries_est_infected.md)
 * [Estimated Time down to Zero Active Cases by Country, ordered by lowest first](./stats/all_countries_est_downtozero.md)
+* [Estimated Detection Rate by Country, ordered by highest first](./stats/all_countries_est_detectionrate.md)
