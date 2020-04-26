@@ -1,0 +1,56 @@
+# Country Figures: Growth Rate for Niger 
+
+The growth rates below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The growth rate is to be understood as on "growth per day".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./NER_growthrate_absolute.svg)
+
+![Diagram Growth Rate Confirmed/Recovered](./NER_growthrate_rate.svg)
+
+
+| Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
+|-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-04-25 | 684 |  0.97 %  | 325 |  15.092 %  | 
+| 2020-04-24 | 681 |  1.18 %  | 289 |  13.799 %  | 
+| 2020-04-23 | 671 |  1.98 %  | 256 |  14.934 %  | 
+| 2020-04-22 | 662 |  1.79 %  | 193 |  10.898 %  | 
+| 2020-04-21 | 657 |  2.03 %  | 127 |  4.920 %  | 
+| 2020-04-20 | 648 |  2.90 %  | 117 |  6.353 %  | 
+| 2020-04-19 | 648 |  2.90 %  | 117 |  6.353 %  | 
+| 2020-04-18 | 639 |  3.76 %  | 113 |  14.483 %  | 
+| 2020-04-17 | 627 |  5.12 %  | 110 |  14.099 %  | 
+| 2020-04-16 | 584 |  5.05 %  | 90 |  11.585 %  | 
+| 2020-04-15 | 584 |  7.64 %  | 90 |  16.680 %  | 
+| 2020-04-14 | 570 |  10.26 %  | 90 |  17.739 %  | 
+| 2020-04-13 | 529 |  10.54 %  | 75 |  15.134 %  | 
+| 2020-04-12 | 529 |  15.09 %  | 75 |  25.036 %  | 
+| 2020-04-11 | 491 |  17.52 %  | 41 |  None  | 
+| 2020-04-10 | 438 |  18.50 %  | 41 |  None  | 
+| 2020-04-09 | 410 |  20.45 %  | 40 |  None  | 
+| 2020-04-08 | 342 |  21.87 %  | 28 |  None  | 
+| 2020-04-07 | 278 |  33.31 %  | 26 |  None  | 
+| 2020-04-06 | 253 |  31.97 %  | 26 |  None  | 
+| 2020-04-05 | 184 |  33.21 %  | 13 |  None  | 
+| 2020-04-04 | 144 |  38.10 %  | 0 |  None  | 
+| 2020-04-03 | 120 |  35.50 %  | 0 |  None  | 
+| 2020-04-02 | 98 |  32.61 %  | 0 |  None  | 
+| 2020-04-01 | 74 |  33.69 %  | 0 |  None  | 
+| 2020-03-31 | 27 |  31.39 %  | 0 |  None  | 
+| 2020-03-30 | 27 |  31.39 %  | 0 |  None  | 
+| 2020-03-29 | 18 |  31.39 %  | 0 |  None  | 
+| 2020-03-28 | 10 |  32.89 %  | 0 |  None  | 
+| 2020-03-27 | 10 |  32.89 %  | 0 |  None  | 
+| 2020-03-26 | 10 |  None  | 0 |  None  | 
+| 2020-03-25 | 7 |  None  | 0 |  None  | 
+| 2020-03-24 | 3 |  None  | 0 |  None  | 
+| 2020-03-23 | 3 |  None  | 0 |  None  | 
+| 2020-03-22 | 2 |  None  | 0 |  None  | 
+| 2020-03-21 | 1 |  None  | 0 |  None  | 
+| 2020-03-20 | 1 |  None  | 0 |  None  | 
+

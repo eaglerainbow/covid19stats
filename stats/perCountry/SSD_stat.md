@@ -1,0 +1,39 @@
+# Country Figures: Time Series for SouthSudan 
+
+![Diagram Absolute Values Confirmed/Active](./SSD_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./SSD_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./SSD_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./SSD_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./SSD_stat_deltaactive.svg)
+
+![Diagram Mortality](./SSD_stat_mortality.svg)
+
+
+| Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Recovered | &Delta; Active | % Active of Population |
+|-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|-------------------|----------------|------------------------|
+| 2020-04-25 | 5 | 0 | 0 | 5 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-24 | 5 | 0 | 0 | 5 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-23 | 5 | 0 | 0 | 5 |  None  | 1 | 0 | 0 | 1 |  0.000 %  | 
+| 2020-04-22 | 4 | 0 | 0 | 4 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-21 | 4 | 0 | 0 | 4 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-20 | 4 | 0 | 0 | 4 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-19 | 4 | 0 | 0 | 4 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-18 | 4 | 0 | 0 | 4 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-17 | 4 | 0 | 0 | 4 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-16 | 4 | 0 | 0 | 4 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-15 | 4 | 0 | 0 | 4 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-14 | 4 | 0 | 0 | 4 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-13 | 4 | 0 | 0 | 4 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-12 | 4 | 0 | 0 | 4 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-11 | 4 | 0 | 0 | 4 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-10 | 4 | 0 | 0 | 4 |  None  | 1 | 0 | 0 | 1 |  0.000 %  | 
+| 2020-04-09 | 3 | 0 | 0 | 3 |  None  | 1 | 0 | 0 | 1 |  0.000 %  | 
+| 2020-04-08 | 2 | 0 | 0 | 2 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-07 | 2 | 0 | 0 | 2 |  None  | 1 | 0 | 0 | 1 |  0.000 %  | 
+| 2020-04-06 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-05 | 1 | 0 | 0 | 1 |  None  | None | None | None | None |  0.000 %  | 
+

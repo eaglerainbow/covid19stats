@@ -1,0 +1,60 @@
+# Country Figures: Growth Rate for Liberia 
+
+The growth rates below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The growth rate is to be understood as on "growth per day".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./LBR_growthrate_absolute.svg)
+
+![Diagram Growth Rate Confirmed/Recovered](./LBR_growthrate_rate.svg)
+
+
+| Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
+|-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-04-25 | 120 |  6.53 %  | 25 |  18.185 %  | 
+| 2020-04-24 | 117 |  6.16 %  | 25 |  18.185 %  | 
+| 2020-04-23 | 101 |  7.68 %  | 20 |  22.992 %  | 
+| 2020-04-22 | 101 |  7.68 %  | 20 |  22.992 %  | 
+| 2020-04-21 | 101 |  7.68 %  | 7 |  7.995 %  | 
+| 2020-04-20 | 99 |  7.39 %  | 7 |  7.995 %  | 
+| 2020-04-19 | 91 |  8.55 %  | 7 |  12.104 %  | 
+| 2020-04-18 | 76 |  6.56 %  | 7 |  12.104 %  | 
+| 2020-04-17 | 76 |  10.28 %  | 7 |  12.104 %  | 
+| 2020-04-16 | 59 |  9.19 %  | 4 |  4.110 %  | 
+| 2020-04-15 | 59 |  9.19 %  | 4 |  4.110 %  | 
+| 2020-04-14 | 59 |  20.55 %  | 4 |  4.110 %  | 
+| 2020-04-13 | 59 |  20.55 %  | 4 |  4.110 %  | 
+| 2020-04-12 | 50 |  19.24 %  | 3 |  None  | 
+| 2020-04-11 | 48 |  22.41 %  | 3 |  None  | 
+| 2020-04-10 | 37 |  23.79 %  | 3 |  None  | 
+| 2020-04-09 | 31 |  23.46 %  | 3 |  None  | 
+| 2020-04-08 | 31 |  23.46 %  | 3 |  None  | 
+| 2020-04-07 | 14 |  22.01 %  | 3 |  None  | 
+| 2020-04-06 | 14 |  22.01 %  | 3 |  None  | 
+| 2020-04-05 | 13 |  20.95 %  | 3 |  None  | 
+| 2020-04-04 | 10 |  17.20 %  | 3 |  None  | 
+| 2020-04-03 | 7 |  12.10 %  | 0 |  None  | 
+| 2020-04-02 | 6 |  9.90 %  | 0 |  None  | 
+| 2020-04-01 | 6 |  9.90 %  | 0 |  None  | 
+| 2020-03-31 | 3 |  None  | 0 |  None  | 
+| 2020-03-30 | 3 |  None  | 0 |  None  | 
+| 2020-03-29 | 3 |  None  | 0 |  None  | 
+| 2020-03-28 | 3 |  None  | 0 |  None  | 
+| 2020-03-27 | 3 |  5.79 %  | 0 |  None  | 
+| 2020-03-26 | 3 |  5.79 %  | 0 |  None  | 
+| 2020-03-25 | 3 |  5.79 %  | 0 |  None  | 
+| 2020-03-24 | 3 |  15.69 %  | 0 |  None  | 
+| 2020-03-23 | 3 |  15.69 %  | 0 |  None  | 
+| 2020-03-22 | 3 |  None  | 0 |  None  | 
+| 2020-03-21 | 3 |  None  | 0 |  None  | 
+| 2020-03-20 | 2 |  None  | 0 |  None  | 
+| 2020-03-19 | 2 |  None  | 0 |  None  | 
+| 2020-03-18 | 2 |  None  | 0 |  None  | 
+| 2020-03-17 | 1 |  None  | 0 |  None  | 
+| 2020-03-16 | 1 |  None  | 0 |  None  | 
+

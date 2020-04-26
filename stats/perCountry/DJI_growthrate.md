@@ -1,0 +1,58 @@
+# Country Figures: Growth Rate for Djibouti 
+
+The growth rates below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The growth rate is to be understood as on "growth per day".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./DJI_growthrate_absolute.svg)
+
+![Diagram Growth Rate Confirmed/Recovered](./DJI_growthrate_rate.svg)
+
+
+| Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
+|-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-04-25 | 1008 |  4.57 %  | 373 |  22.726 %  | 
+| 2020-04-24 | 999 |  4.44 %  | 330 |  20.977 %  | 
+| 2020-04-23 | 986 |  7.31 %  | 252 |  17.700 %  | 
+| 2020-04-22 | 974 |  11.52 %  | 183 |  13.526 %  | 
+| 2020-04-21 | 945 |  13.67 %  | 112 |  10.689 %  | 
+| 2020-04-20 | 846 |  14.91 %  | 102 |  13.020 %  | 
+| 2020-04-19 | 846 |  19.64 %  | 102 |  14.878 %  | 
+| 2020-04-18 | 732 |  19.50 %  | 76 |  10.674 %  | 
+| 2020-04-17 | 732 |  22.64 %  | 76 |  10.674 %  | 
+| 2020-04-16 | 591 |  21.09 %  | 73 |  15.308 %  | 
+| 2020-04-15 | 435 |  16.72 %  | 71 |  14.911 %  | 
+| 2020-04-14 | 363 |  19.92 %  | 53 |  25.330 %  | 
+| 2020-04-13 | 298 |  17.10 %  | 41 |  21.662 %  | 
+| 2020-04-12 | 214 |  18.41 %  | 36 |  19.804 %  | 
+| 2020-04-11 | 187 |  18.84 %  | 36 |  21.487 %  | 
+| 2020-04-10 | 150 |  15.98 %  | 36 |  21.487 %  | 
+| 2020-04-09 | 135 |  17.38 %  | 25 |  None  | 
+| 2020-04-08 | 135 |  20.13 %  | 25 |  None  | 
+| 2020-04-07 | 90 |  15.69 %  | 9 |  None  | 
+| 2020-04-06 | 90 |  22.99 %  | 9 |  None  | 
+| 2020-04-05 | 59 |  16.96 %  | 9 |  None  | 
+| 2020-04-04 | 50 |  18.19 %  | 8 |  None  | 
+| 2020-04-03 | 49 |  20.10 %  | 8 |  None  | 
+| 2020-04-02 | 40 |  18.44 %  | 0 |  None  | 
+| 2020-04-01 | 33 |  15.69 %  | 0 |  None  | 
+| 2020-03-31 | 30 |  32.89 %  | 0 |  None  | 
+| 2020-03-30 | 18 |  25.60 %  | 0 |  None  | 
+| 2020-03-29 | 18 |  41.29 %  | 0 |  None  | 
+| 2020-03-28 | 14 |  37.70 %  | 0 |  None  | 
+| 2020-03-27 | 12 |  35.50 %  | 0 |  None  | 
+| 2020-03-26 | 11 |  34.26 %  | 0 |  None  | 
+| 2020-03-25 | 11 |  34.26 %  | 0 |  None  | 
+| 2020-03-24 | 3 |  None  | 0 |  None  | 
+| 2020-03-23 | 3 |  None  | 0 |  None  | 
+| 2020-03-22 | 1 |  None  | 0 |  None  | 
+| 2020-03-21 | 1 |  None  | 0 |  None  | 
+| 2020-03-20 | 1 |  None  | 0 |  None  | 
+| 2020-03-19 | 1 |  None  | 0 |  None  | 
+| 2020-03-18 | 1 |  None  | 0 |  None  | 
+

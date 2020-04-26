@@ -1,0 +1,34 @@
+# Country Figures: Time Series for Yemen 
+
+![Diagram Absolute Values Confirmed/Active](./YEM_stat_confirmed_active.svg)
+
+![Diagram Absolute Values Deaths](./YEM_stat_deaths.svg)
+
+![Diagram Absolute Values Recovered](./YEM_stat_recovered.svg)
+
+![Diagram Changes of Confirmed Cases](./YEM_stat_deltaconfirmed.svg)
+
+![Diagram Changes of Active Cases](./YEM_stat_deltaactive.svg)
+
+![Diagram Mortality](./YEM_stat_mortality.svg)
+
+
+| Reported On | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Recovered | &Delta; Active | % Active of Population |
+|-------------|-----------|--------|-----------|--------|-----------|-------------------|----------------|-------------------|----------------|------------------------|
+| 2020-04-25 | 1 | 0 | 1 | 0 |  None  | 0 | 0 | 0 | 0 |  n/a  | 
+| 2020-04-24 | 1 | 0 | 1 | 0 |  None  | 0 | 0 | 1 | -1 |  n/a  | 
+| 2020-04-23 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-22 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-21 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-20 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-19 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-18 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-17 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-16 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-15 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-14 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-13 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-12 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-11 | 1 | 0 | 0 | 1 |  None  | 0 | 0 | 0 | 0 |  0.000 %  | 
+| 2020-04-10 | 1 | 0 | 0 | 1 |  None  | None | None | None | None |  0.000 %  | 
+

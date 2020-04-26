@@ -1,0 +1,60 @@
+# Country Figures: Growth Rate for Benin 
+
+The growth rates below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The growth rate is to be understood as on "growth per day".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./BEN_growthrate_absolute.svg)
+
+![Diagram Growth Rate Confirmed/Recovered](./BEN_growthrate_rate.svg)
+
+
+| Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
+|-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-04-25 | 54 |  6.19 %  | 27 |  5.792 %  | 
+| 2020-04-24 | 54 |  6.19 %  | 27 |  5.792 %  | 
+| 2020-04-23 | 54 |  6.19 %  | 27 |  5.792 %  | 
+| 2020-04-22 | 54 |  6.19 %  | 27 |  5.792 %  | 
+| 2020-04-21 | 54 |  6.19 %  | 27 |  5.792 %  | 
+| 2020-04-20 | 54 |  6.19 %  | 27 |  24.091 %  | 
+| 2020-04-19 | 35 |  None  | 18 |  18.299 %  | 
+| 2020-04-18 | 35 |  None  | 18 |  18.299 %  | 
+| 2020-04-17 | 35 |  None  | 18 |  18.299 %  | 
+| 2020-04-16 | 35 |  4.25 %  | 18 |  18.299 %  | 
+| 2020-04-15 | 35 |  4.25 %  | 18 |  18.299 %  | 
+| 2020-04-14 | 35 |  4.25 %  | 18 |  18.299 %  | 
+| 2020-04-13 | 35 |  4.25 %  | 5 |  None  | 
+| 2020-04-12 | 35 |  6.63 %  | 5 |  None  | 
+| 2020-04-11 | 35 |  11.18 %  | 5 |  13.090 %  | 
+| 2020-04-10 | 35 |  11.18 %  | 5 |  13.090 %  | 
+| 2020-04-09 | 26 |  9.90 %  | 5 |  22.992 %  | 
+| 2020-04-08 | 26 |  9.90 %  | 5 |  22.992 %  | 
+| 2020-04-07 | 26 |  15.16 %  | 5 |  22.992 %  | 
+| 2020-04-06 | 26 |  20.95 %  | 5 |  None  | 
+| 2020-04-05 | 22 |  18.56 %  | 5 |  None  | 
+| 2020-04-04 | 16 |  14.01 %  | 2 |  None  | 
+| 2020-04-03 | 16 |  14.01 %  | 2 |  None  | 
+| 2020-04-02 | 13 |  11.05 %  | 1 |  None  | 
+| 2020-04-01 | 13 |  11.05 %  | 1 |  None  | 
+| 2020-03-31 | 9 |  5.79 %  | 1 |  None  | 
+| 2020-03-30 | 6 |  2.60 %  | 0 |  None  | 
+| 2020-03-29 | 6 |  15.69 %  | 0 |  None  | 
+| 2020-03-28 | 6 |  15.69 %  | 0 |  None  | 
+| 2020-03-27 | 6 |  15.69 %  | 0 |  None  | 
+| 2020-03-26 | 6 |  15.69 %  | 0 |  None  | 
+| 2020-03-25 | 6 |  15.69 %  | 0 |  None  | 
+| 2020-03-24 | 6 |  25.60 %  | 0 |  None  | 
+| 2020-03-23 | 5 |  22.99 %  | 0 |  None  | 
+| 2020-03-22 | 2 |  None  | 0 |  None  | 
+| 2020-03-21 | 2 |  None  | 0 |  None  | 
+| 2020-03-20 | 2 |  None  | 0 |  None  | 
+| 2020-03-19 | 2 |  None  | 0 |  None  | 
+| 2020-03-18 | 2 |  None  | 0 |  None  | 
+| 2020-03-17 | 1 |  None  | 0 |  None  | 
+| 2020-03-16 | 1 |  None  | 0 |  None  | 
+

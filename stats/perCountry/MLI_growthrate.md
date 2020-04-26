@@ -1,0 +1,51 @@
+# Country Figures: Growth Rate for Mali 
+
+The growth rates below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The growth rate is to be understood as on "growth per day".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./MLI_growthrate_absolute.svg)
+
+![Diagram Growth Rate Confirmed/Recovered](./MLI_growthrate_rate.svg)
+
+
+| Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
+|-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-04-25 | 370 |  7.69 %  | 91 |  11.390 %  | 
+| 2020-04-24 | 325 |  9.17 %  | 87 |  13.422 %  | 
+| 2020-04-23 | 309 |  8.45 %  | 77 |  11.678 %  | 
+| 2020-04-22 | 293 |  9.76 %  | 73 |  10.916 %  | 
+| 2020-04-21 | 258 |  8.33 %  | 57 |  7.381 %  | 
+| 2020-04-20 | 246 |  9.90 %  | 56 |  10.961 %  | 
+| 2020-04-19 | 224 |  10.82 %  | 42 |  9.238 %  | 
+| 2020-04-18 | 216 |  12.99 %  | 41 |  8.893 %  | 
+| 2020-04-17 | 171 |  9.65 %  | 34 |  6.219 %  | 
+| 2020-04-16 | 171 |  11.97 %  | 34 |  6.219 %  | 
+| 2020-04-15 | 148 |  13.14 %  | 34 |  10.768 %  | 
+| 2020-04-14 | 144 |  13.49 %  | 34 |  14.878 %  | 
+| 2020-04-13 | 123 |  13.74 %  | 26 |  15.155 %  | 
+| 2020-04-12 | 105 |  12.10 %  | 22 |  44.158 %  | 
+| 2020-04-11 | 87 |  10.75 %  | 22 |  44.158 %  | 
+| 2020-04-10 | 87 |  11.46 %  | 22 |  None  | 
+| 2020-04-09 | 74 |  10.29 %  | 22 |  None  | 
+| 2020-04-08 | 59 |  9.19 %  | 16 |  None  | 
+| 2020-04-07 | 56 |  9.90 %  | 12 |  None  | 
+| 2020-04-06 | 47 |  9.02 %  | 9 |  None  | 
+| 2020-04-05 | 45 |  13.09 %  | 1 |  None  | 
+| 2020-04-04 | 41 |  11.76 %  | 1 |  None  | 
+| 2020-04-03 | 39 |  18.08 %  | 0 |  None  | 
+| 2020-04-02 | 36 |  31.39 %  | 0 |  None  | 
+| 2020-04-01 | 31 |  39.15 %  | 0 |  None  | 
+| 2020-03-31 | 28 |  None  | 0 |  None  | 
+| 2020-03-30 | 25 |  None  | 0 |  None  | 
+| 2020-03-29 | 18 |  None  | 0 |  None  | 
+| 2020-03-28 | 18 |  None  | 0 |  None  | 
+| 2020-03-27 | 11 |  None  | 0 |  None  | 
+| 2020-03-26 | 4 |  None  | 0 |  None  | 
+| 2020-03-25 | 2 |  None  | 0 |  None  | 
+

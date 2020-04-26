@@ -1,0 +1,33 @@
+# Country Figures: Growth Rate for Yemen 
+
+The growth rates below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The growth rate is to be understood as on "growth per day".
+
+The first growth rate indicates the increase of confirmed (infected) cases.
+
+The second growth rate indicates the increase of recovered (healed) cases.
+
+![Diagram Absolute Values Confirmed/Recovered](./YEM_growthrate_absolute.svg)
+
+![Diagram Growth Rate Confirmed/Recovered](./YEM_growthrate_rate.svg)
+
+
+| Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
+|-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-04-23 | 1 |  None  | 0 |  None  | 
+| 2020-04-22 | 1 |  None  | 0 |  None  | 
+| 2020-04-21 | 1 |  None  | 0 |  None  | 
+| 2020-04-20 | 1 |  None  | 0 |  None  | 
+| 2020-04-19 | 1 |  None  | 0 |  None  | 
+| 2020-04-18 | 1 |  None  | 0 |  None  | 
+| 2020-04-17 | 1 |  None  | 0 |  None  | 
+| 2020-04-16 | 1 |  None  | 0 |  None  | 
+| 2020-04-15 | 1 |  None  | 0 |  None  | 
+| 2020-04-14 | 1 |  None  | 0 |  None  | 
+| 2020-04-13 | 1 |  None  | 0 |  None  | 
+| 2020-04-12 | 1 |  None  | 0 |  None  | 
+| 2020-04-11 | 1 |  None  | 0 |  None  | 
+| 2020-04-10 | 1 |  None  | 0 |  None  | 
+
