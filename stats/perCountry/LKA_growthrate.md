@@ -16,6 +16,7 @@ The second growth rate indicates the increase of recovered (healed) cases.
 
 | Reported On | Confirmed | Growth Rate (Confirmed) | Recovered | Growth Rate (Recovered) |
 |-------------|-----------|-------------------------|-----------|-------------------------|
+| 2020-04-26 | 523 |  9.39 %  | 120 |  3.188 %  | 
 | 2020-04-25 | 460 |  8.48 %  | 118 |  4.519 %  | 
 | 2020-04-24 | 420 |  7.76 %  | 109 |  4.965 %  | 
 | 2020-04-23 | 368 |  6.23 %  | 107 |  6.476 %  | 
