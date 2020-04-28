@@ -3,7 +3,7 @@
 ![Diagram Basic Reproduction Number](./HTI_est_basic_reproduction_number.svg)
 
 
-| Reported On | &Delta; Confirmed | Total &Delta; Confirmed First Interval | Total &Delta; Confirmed Second Interval | Estimated Basic Reproduction Number R<sup>0</sup> | 
+| Reported On | &Delta; Confirmed | Total &Delta; Confirmed First Interval | Total &Delta; Confirmed Second Interval | Estimated Basic Reproduction Number R<sub>0</sub> | 
 |-------------|-------------------|----------------------------------------|-----------------------------------------|---------------------------------------------------|
 | 2020-04-27 | 2 |  12  |  18  |  0.67  | 
 | 2020-04-26 | 2 |  15  |  14  |  1.07  | 

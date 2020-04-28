@@ -3,7 +3,7 @@
 ![Diagram Basic Reproduction Number](./LKA_est_basic_reproduction_number.svg)
 
 
-| Reported On | &Delta; Confirmed | Total &Delta; Confirmed First Interval | Total &Delta; Confirmed Second Interval | Estimated Basic Reproduction Number R<sup>0</sup> | 
+| Reported On | &Delta; Confirmed | Total &Delta; Confirmed First Interval | Total &Delta; Confirmed Second Interval | Estimated Basic Reproduction Number R<sub>0</sub> | 
 |-------------|-------------------|----------------------------------------|-----------------------------------------|---------------------------------------------------|
 | 2020-04-27 | 65 |  193  |  76  |  2.54  | 
 | 2020-04-26 | 63 |  150  |  66  |  2.27  | 

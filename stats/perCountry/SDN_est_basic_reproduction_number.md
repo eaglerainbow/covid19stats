@@ -3,7 +3,7 @@
 ![Diagram Basic Reproduction Number](./SDN_est_basic_reproduction_number.svg)
 
 
-| Reported On | &Delta; Confirmed | Total &Delta; Confirmed First Interval | Total &Delta; Confirmed Second Interval | Estimated Basic Reproduction Number R<sup>0</sup> | 
+| Reported On | &Delta; Confirmed | Total &Delta; Confirmed First Interval | Total &Delta; Confirmed Second Interval | Estimated Basic Reproduction Number R<sub>0</sub> | 
 |-------------|-------------------|----------------------------------------|-----------------------------------------|---------------------------------------------------|
 | 2020-04-27 | 38 |  97  |  74  |  1.31  | 
 | 2020-04-26 | 24 |  106  |  74  |  1.43  | 

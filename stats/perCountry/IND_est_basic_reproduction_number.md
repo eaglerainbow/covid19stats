@@ -3,7 +3,7 @@
 ![Diagram Basic Reproduction Number](./IND_est_basic_reproduction_number.svg)
 
 
-| Reported On | &Delta; Confirmed | Total &Delta; Confirmed First Interval | Total &Delta; Confirmed Second Interval | Estimated Basic Reproduction Number R<sup>0</sup> | 
+| Reported On | &Delta; Confirmed | Total &Delta; Confirmed First Interval | Total &Delta; Confirmed Second Interval | Estimated Basic Reproduction Number R<sub>0</sub> | 
 |-------------|-------------------|----------------------------------------|-----------------------------------------|---------------------------------------------------|
 | 2020-04-27 | 1561 |  6520  |  5648  |  1.15  | 
 | 2020-04-26 | 1607 |  6203  |  5728  |  1.08  | 

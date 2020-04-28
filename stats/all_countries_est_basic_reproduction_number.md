@@ -1,7 +1,7 @@
 # Estimated Basic Reproduction Number: By Country
 
 The following table contains a ranking by country ordered by the highest [basic
-reproduction number R<sup>0</sup>](https://en.wikipedia.org/wiki/Basic_reproduction_number) first. 
+reproduction number R<sub>0</sub>](https://en.wikipedia.org/wiki/Basic_reproduction_number) first. 
 The definition and parameterization applied for estimating the
 basic reproduction number is described in the ["Epidemiologischen
 Bulletin" of the Robert Koch Institute](https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/17_20.pdf?__blob=publicationFile).
@@ -11,7 +11,7 @@ has a duration of four (4) days.
 The table below skips the data of the most recent three (3) days, as
 the data is expected to still be too fluctuating.
 
-Note that the value of R<sup>0</sup> is calculated based
+Note that the value of R<sub>0</sub> is calculated based
 on a time frame and not from a single day. It therefore has also an
 averaging effect. It does not make sense to attribute it to a single
 day.
@@ -27,7 +27,7 @@ infection rate then is assumed to be sub-linear, and the disease
 person (statistically) infects more than one other person. The
 infection rate then is assumed to be in expontential growth.  
 
-| Country | Basic Reproduction Number R<sup>0</sup> |
+| Country | Basic Reproduction Number R<sub>0</sub> |
 |---------|-----------------------------------------|
 | [Malawi](./perCountry/MWI_est_basic_reproduction_number.md) (MWI) | 16.00 
 | [Greece](./perCountry/GRC_est_basic_reproduction_number.md) (GRC) | 5.30 
