@@ -2,192 +2,192 @@
 
 | Country | Confirmed | Deaths | Recovered | Active | Mortality | &Delta; Confirmed | &Delta; Deaths | &Delta; Active | % Active of Population |
 |---------|-----------|--------|-----------|--------|-----------|-------------------|----------------|----------------|------------------------|
-| [US](./perCountry/USA_stat.md) (USA) | 965783 | 54881 | 106988 | 803914 | 5.68 % | 27629 | 1126 | 19887 |  0.246 %  | 
-| [European Union 27](./perCountry/EUE_stat.md) (EUE) | 968868 | 97822 | 398931 | 472115 | 10.10 % | 11429 | 1251 | -17478 |  0.106 %  | 
-| [Schengen Area](./perCountry/XXS_stat.md) (XXS) | 972885 | 97813 | 408683 | 466389 | 10.05 % | 10451 | 1218 | -18720 |  0.110 %  | 
-| [Russia](./perCountry/RUS_stat.md) (RUS) | 80949 | 747 | 6767 | 73435 | 0.92 % | 6361 | 66 | 5778 |  0.051 %  | 
-| [UnitedKingdom](./perCountry/GBR_stat.md) (GBR) | 154037 | 20794 | 778 | 132465 | 13.50 % | 4468 | 413 | 4051 |  0.199 %  | 
-| [Brazil](./perCountry/BRA_stat.md) (BRA) | 63100 | 4286 | 30152 | 28662 | 6.79 % | 3776 | 229 | 2555 |  0.014 %  | 
-| [Spain](./perCountry/ESP_stat.md) (ESP) | 226629 | 23190 | 117727 | 85712 | 10.23 % | 2870 | 288 | -19437 |  0.183 %  | 
-| [Turkey](./perCountry/TUR_stat.md) (TUR) | 110130 | 2805 | 29140 | 78185 | 2.55 % | 2357 | 99 | -1300 |  0.095 %  | 
-| [Italy](./perCountry/ITA_stat.md) (ITA) | 197675 | 26644 | 64928 | 106103 | 13.48 % | 2324 | 260 | 256 |  0.176 %  | 
-| [Peru](./perCountry/PER_stat.md) (PER) | 27517 | 728 | 8088 | 18701 | 2.65 % | 2186 | 28 | 1867 |  0.058 %  | 
-| [Canada](./perCountry/CAN_stat.md) (CAN) | 47147 | 2663 | 16883 | 27601 | 5.65 % | 1654 | 114 | 670 |  0.074 %  | 
-| [India](./perCountry/IND_stat.md) (IND) | 27890 | 881 | 6523 | 20486 | 3.16 % | 1607 | 56 | 967 |  0.002 %  | 
-| [Germany](./perCountry/GER_stat.md) (GER) | 157770 | 5976 | 112000 | 39794 | 3.79 % | 1257 | 99 | -1042 |  0.048 %  | 
-| [SaudiArabia](./perCountry/SAU_stat.md) (SAU) | 17522 | 139 | 2357 | 15026 | 0.79 % | 1223 | 3 | 1078 |  0.045 %  | 
-| [Iran](./perCountry/IRN_stat.md) (IRN) | 90481 | 5710 | 69657 | 15114 | 6.31 % | 1153 | 60 | -371 |  0.018 %  | 
-| [Singapore](./perCountry/SGP_stat.md) (SGP) | 13624 | 12 | 1060 | 12552 | 0.09 % | 931 | 0 | 873 |  0.223 %  | 
-| [Qatar](./perCountry/QAT_stat.md) (QAT) | 10287 | 10 | 1012 | 9265 | 0.10 % | 929 | 0 | 846 |  0.333 %  | 
-| [Belarus](./perCountry/BLR_stat.md) (BLR) | 10463 | 72 | 1695 | 8696 | 0.69 % | 873 | 5 | 746 |  0.092 %  | 
-| [Mexico](./perCountry/MEX_stat.md) (MEX) | 14677 | 1351 | 8354 | 4972 | 9.20 % | 835 | 46 | -416 |  0.004 %  | 
-| [Belgium](./perCountry/BEL_stat.md) (BEL) | 46134 | 7094 | 10785 | 28255 | 15.38 % | 809 | 177 | 264 |  0.247 %  | 
-| [Ireland](./perCountry/IRL_stat.md) (IRL) | 19262 | 1087 | 9233 | 8942 | 5.64 % | 701 | 24 | 677 |  0.184 %  | 
-| [Netherlands](./perCountry/NLD_stat.md) (NLD) | 38040 | 4491 | 117 | 33432 | 11.81 % | 656 | 67 | 574 |  0.194 %  | 
-| [Pakistan](./perCountry/PAK_stat.md) (PAK) | 13328 | 281 | 2936 | 10111 | 2.11 % | 605 | 12 | 523 |  0.005 %  | 
-| [France](./perCountry/FRA_stat.md) (FRA) | 162220 | 22890 | 45681 | 93649 | 14.11 % | 576 | 242 | 25 |  0.140 %  | 
-| [UnitedArab Emirates](./perCountry/ARE_stat.md) (ARE) | 10349 | 76 | 1978 | 8295 | 0.73 % | 536 | 5 | 440 |  0.086 %  | 
-| [Ukraine](./perCountry/UKR_stat.md) (UKR) | 8617 | 209 | 840 | 7568 | 2.43 % | 492 | 8 | 426 |  0.017 %  | 
-| [Chile](./perCountry/CHL_stat.md) (CHL) | 13331 | 189 | 7024 | 6118 | 1.42 % | 473 | 8 | 187 |  0.033 %  | 
-| [Portugal](./perCountry/PRT_stat.md) (PRT) | 23864 | 903 | 1329 | 21632 | 3.78 % | 472 | 23 | 397 |  0.210 %  | 
-| [Sweden](./perCountry/SWE_stat.md) (SWE) | 18640 | 2194 | 1005 | 15441 | 11.77 % | 463 | 2 | 461 |  0.152 %  | 
-| [Bangladesh](./perCountry/BGD_stat.md) (BGD) | 5416 | 145 | 122 | 5149 | 2.68 % | 418 | 5 | 404 |  0.003 %  | 
-| [Romania](./perCountry/ROU_stat.md) (ROU) | 11036 | 619 | 3054 | 7363 | 5.61 % | 401 | 18 | 219 |  0.038 %  | 
-| [Poland](./perCountry/POL_stat.md) (POL) | 11617 | 535 | 2265 | 8817 | 4.61 % | 344 | 11 | 194 |  0.023 %  | 
-| [Philippines](./perCountry/PHL_stat.md) (PHL) | 7579 | 501 | 862 | 6216 | 6.61 % | 285 | 7 | 208 |  0.006 %  | 
-| [Indonesia](./perCountry/IDN_stat.md) (IDN) | 8882 | 743 | 1107 | 7032 | 8.37 % | 275 | 23 | 187 |  0.003 %  | 
-| [Ghana](./perCountry/GHA_stat.md) (GHA) | 1550 | 11 | 155 | 1384 | 0.71 % | 271 | 1 | 249 |  0.005 %  | 
-| [Panama](./perCountry/PAN_stat.md) (PAN) | 5779 | 165 | 338 | 5276 | 2.86 % | 241 | 6 | 235 |  0.126 %  | 
-| [Colombia](./perCountry/COL_stat.md) (COL) | 5379 | 244 | 1133 | 4002 | 4.54 % | 237 | 11 | 160 |  0.008 %  | 
-| [Egypt](./perCountry/EGY_stat.md) (EGY) | 4534 | 317 | 1176 | 3041 | 6.99 % | 215 | 10 | 143 |  0.003 %  | 
-| [Japan](./perCountry/JPN_stat.md) (JPN) | 13441 | 372 | 1809 | 11260 | 2.77 % | 210 | 12 | 45 |  0.009 %  | 
-| [DominicanRepublic](./perCountry/DOM_stat.md) (DOM) | 6135 | 278 | 910 | 4947 | 4.53 % | 209 | 5 | 116 |  0.047 %  | 
-| [SouthAfrica](./perCountry/ZAF_stat.md) (ZAF) | 4546 | 87 | 1473 | 2986 | 1.91 % | 185 | 1 | 184 |  0.005 %  | 
-| [Kuwait](./perCountry/KWT_stat.md) (KWT) | 3075 | 20 | 806 | 2249 | 0.65 % | 183 | 1 | 32 |  0.054 %  | 
-| [Morocco](./perCountry/MAR_stat.md) (MAR) | 4065 | 161 | 593 | 3311 | 3.96 % | 168 | 2 | 110 |  0.009 %  | 
-| [Switzerland](./perCountry/CHE_stat.md) (CHE) | 29061 | 1610 | 21800 | 5651 | 5.54 % | 167 | 11 | -344 |  0.066 %  | 
-| [Israel](./perCountry/ISR_stat.md) (ISR) | 15443 | 201 | 6731 | 8511 | 1.30 % | 145 | 2 | -153 |  0.096 %  | 
-| [Denmark](./perCountry/DNK_stat.md) (DNK) | 8773 | 422 | 5994 | 2357 | 4.81 % | 130 | 4 | -10 |  0.041 %  | 
-| [Algeria](./perCountry/DZA_stat.md) (DZA) | 3382 | 425 | 1508 | 1449 | 12.57 % | 126 | 6 | 91 |  0.003 %  | 
-| [Kazakhstan](./perCountry/KAZ_stat.md) (KAZ) | 2717 | 25 | 682 | 2010 | 0.92 % | 116 | 0 | 80 |  0.011 %  | 
-| [Argentina](./perCountry/ARG_stat.md) (ARG) | 3892 | 192 | 1107 | 2593 | 4.93 % | 112 | 7 | 28 |  0.006 %  | 
-| [Moldova](./perCountry/MDA_stat.md) (MDA) | 3408 | 96 | 895 | 2417 | 2.82 % | 104 | 2 | 32 |  0.068 %  | 
-| [Cameroon](./perCountry/CMR_stat.md) (CMR) | 1621 | 56 | 786 | 779 | 3.45 % | 103 | 3 | 11 |  0.003 %  | 
-| [Finland](./perCountry/FIN_stat.md) (FIN) | 4576 | 190 | 2500 | 1886 | 4.15 % | 101 | 4 | 97 |  0.034 %  | 
-| [Oman](./perCountry/OMN_stat.md) (OMN) | 1998 | 10 | 333 | 1655 | 0.50 % | 93 | 0 | 89 |  0.034 %  | 
-| [Nigeria](./perCountry/NGA_stat.md) (NGA) | 1273 | 40 | 239 | 994 | 3.14 % | 91 | 5 | 69 |  0.001 %  | 
-| [Bolivia](./perCountry/BOL_stat.md) (BOL) | 950 | 50 | 80 | 820 | 5.26 % | 84 | 4 | 54 |  0.007 %  | 
-| [Austria](./perCountry/AUT_stat.md) (AUT) | 15225 | 542 | 12282 | 2401 | 3.56 % | 77 | 6 | -108 |  0.027 %  | 
-| [Coted&#39;Ivoire](./perCountry/CIV_stat.md) (CIV) | 1150 | 14 | 468 | 668 | 1.22 % | 73 | 0 | 24 |  0.003 %  | 
-| [Armenia](./perCountry/ARM_stat.md) (ARM) | 1746 | 28 | 833 | 885 | 1.60 % | 69 | 0 | 39 |  0.030 %  | 
-| [Afghanistan](./perCountry/AFG_stat.md) (AFG) | 1531 | 50 | 207 | 1274 | 3.27 % | 68 | 3 | 46 |  0.003 %  | 
-| [SriLanka](./perCountry/LKA_stat.md) (LKA) | 523 | 7 | 120 | 396 | 1.34 % | 63 | 0 | 61 |  0.002 %  | 
-| [Bahrain](./perCountry/BHR_stat.md) (BHR) | 2647 | 8 | 1189 | 1450 | 0.30 % | 59 | 0 | 30 |  0.092 %  | 
-| [Hungary](./perCountry/HUN_stat.md) (HUN) | 2500 | 272 | 485 | 1743 | 10.88 % | 57 | 10 | 20 |  0.018 %  | 
-| [Iraq](./perCountry/IRQ_stat.md) (IRQ) | 1820 | 87 | 1263 | 470 | 4.78 % | 57 | 1 | 17 |  0.001 %  | 
-| [Senegal](./perCountry/SEN_stat.md) (SEN) | 671 | 9 | 283 | 379 | 1.34 % | 57 | 2 | 48 |  0.002 %  | 
-| [Bulgaria](./perCountry/BGR_stat.md) (BGR) | 1300 | 56 | 205 | 1039 | 4.31 % | 53 | 1 | 44 |  0.015 %  | 
-| [Czechia](./perCountry/CZE_stat.md) (CZE) | 7404 | 220 | 2545 | 4639 | 2.97 % | 52 | 2 | -42 |  0.044 %  | 
-| [Somalia](./perCountry/SOM_stat.md) (SOM) | 436 | 23 | 10 | 403 | 5.28 % | 46 | 5 | 39 |  0.003 %  | 
-| [Jamaica](./perCountry/JAM_stat.md) (JAM) | 350 | 7 | 28 | 315 | 2.00 % | 45 | 0 | 45 |  0.011 %  | 
-| [Malaysia](./perCountry/MYS_stat.md) (MYS) | 5780 | 98 | 3862 | 1820 | 1.70 % | 38 | 0 | -62 |  0.006 %  | 
-| [Maldives](./perCountry/MDV_stat.md) (MDV) | 214 | 0 | 17 | 197 | 0.00 % | 37 | 0 | 37 |  0.038 %  | 
-| [Cuba](./perCountry/CUB_stat.md) (CUB) | 1369 | 54 | 501 | 814 | 3.94 % | 32 | 3 | -35 |  0.007 %  | 
-| [Bosniaand Herzegovina](./perCountry/BIH_stat.md) (BIH) | 1516 | 59 | 624 | 833 | 3.89 % | 30 | 2 | -4 |  0.025 %  | 
-| [Georgia](./perCountry/GEO_stat.md) (GEO) | 486 | 6 | 149 | 331 | 1.23 % | 30 | 1 | 19 |  0.009 %  | 
-| [Azerbaijan](./perCountry/AZE_stat.md) (AZE) | 1645 | 21 | 1139 | 485 | 1.28 % | 28 | 0 | -31 |  0.005 %  | 
-| [Norway](./perCountry/NOR_stat.md) (NOR) | 7527 | 201 | 32 | 7294 | 2.67 % | 28 | 0 | 28 |  0.137 %  | 
-| [Guatemala](./perCountry/GTM_stat.md) (GTM) | 500 | 15 | 49 | 436 | 3.00 % | 27 | 2 | 21 |  0.003 %  | 
-| [Congo(Kinshasa)](./perCountry/COD_stat.md) (COD) | 442 | 28 | 50 | 364 | 6.33 % | 26 | 0 | 25 |  0.000 %  | 
-| [SanMarino](./perCountry/SMR_stat.md) (SMR) | 538 | 41 | 64 | 433 | 7.62 % | 25 | 1 | 24 |  1.282 %  | 
-| [Sudan](./perCountry/SDN_stat.md) (SDN) | 237 | 21 | 20 | 196 | 8.86 % | 24 | 4 | 19 |  0.000 %  | 
-| [ElSalvador](./perCountry/SLV_stat.md) (SLV) | 298 | 8 | 83 | 207 | 2.68 % | 24 | 0 | 16 |  0.003 %  | 
-| [Australia](./perCountry/AUS_stat.md) (AUS) | 6714 | 83 | 5541 | 1090 | 1.24 % | 20 | 3 | -1301 |  0.004 %  | 
-| [NorthMacedonia](./perCountry/MKD_stat.md) (MKD) | 1386 | 61 | 500 | 825 | 4.40 % | 19 | 2 | -109 |  0.040 %  | 
-| [Mali](./perCountry/MLI_stat.md) (MLI) | 389 | 23 | 112 | 254 | 5.91 % | 19 | 2 | -4 |  0.001 %  | 
-| [Kyrgyzstan](./perCountry/KGZ_stat.md) (KGZ) | 682 | 8 | 370 | 304 | 1.17 % | 17 | 0 | -8 |  0.005 %  | 
-| [CaboVerde](./perCountry/CPV_stat.md) (CPV) | 106 | 1 | 1 | 104 | 0.94 % | 16 | 0 | 16 |  0.019 %  | 
-| [Thailand](./perCountry/THA_stat.md) (THA) | 2922 | 51 | 2594 | 277 | 1.75 % | 15 | 0 | -32 |  0.000 %  | 
-| [Djibouti](./perCountry/DJI_stat.md) (DJI) | 1023 | 2 | 411 | 610 | 0.20 % | 15 | 0 | -23 |  0.064 %  | 
-| [Croatia](./perCountry/HRV_stat.md) (HRV) | 2030 | 55 | 1103 | 872 | 2.71 % | 14 | 1 | -56 |  0.021 %  | 
-| [Albania](./perCountry/ALB_stat.md) (ALB) | 726 | 28 | 410 | 288 | 3.86 % | 14 | 1 | 6 |  0.010 %  | 
-| [Lithuania](./perCountry/LTU_stat.md) (LTU) | 1438 | 41 | 467 | 930 | 2.85 % | 12 | 0 | 5 |  0.033 %  | 
-| [Kenya](./perCountry/KEN_stat.md) (KEN) | 355 | 14 | 106 | 235 | 3.94 % | 12 | 0 | 4 |  0.000 %  | 
-| [Luxembourg](./perCountry/LUX_stat.md) (LUX) | 3723 | 88 | 3104 | 531 | 2.36 % | 12 | 3 | -7 |  0.087 %  | 
-| [Niger](./perCountry/NER_stat.md) (NER) | 696 | 29 | 350 | 317 | 4.17 % | 12 | 2 | -15 |  0.001 %  | 
-| [Greece](./perCountry/GRC_stat.md) (GRC) | 2517 | 134 | 577 | 1806 | 5.32 % | 11 | 4 | 7 |  0.017 %  | 
-| [SierraLeone](./perCountry/SLE_stat.md) (SLE) | 93 | 4 | 10 | 79 | 4.30 % | 11 | 2 | 9 |  0.001 %  | 
-| [Benin](./perCountry/BEN_stat.md) (BEN) | 64 | 1 | 33 | 30 | 1.56 % | 10 | 0 | 4 |  0.000 %  | 
-| [Uruguay](./perCountry/URY_stat.md) (URY) | 606 | 15 | 375 | 216 | 2.48 % | 10 | 1 | 4 |  0.006 %  | 
-| [Tunisia](./perCountry/TUN_stat.md) (TUN) | 949 | 38 | 216 | 695 | 4.00 % | 10 | 0 | 1 |  0.006 %  | 
-| [Korea,South](./perCountry/KOR_stat.md) (KOR) | 10738 | 243 | 8764 | 1731 | 2.26 % | 10 | 1 | -38 |  0.003 %  | 
-| [Estonia](./perCountry/EST_stat.md) (EST) | 1643 | 49 | 233 | 1361 | 2.98 % | 8 | 3 | 0 |  0.103 %  | 
-| [Rwanda](./perCountry/RWA_stat.md) (RWA) | 191 | 0 | 92 | 99 | 0.00 % | 8 | 0 | 4 |  0.001 %  | 
-| [Slovenia](./perCountry/SVN_stat.md) (SVN) | 1396 | 82 | 221 | 1093 | 5.87 % | 8 | 1 | 5 |  0.053 %  | 
-| [Latvia](./perCountry/LVA_stat.md) (LVA) | 812 | 12 | 267 | 533 | 1.48 % | 8 | 0 | 8 |  0.028 %  | 
-| [Cyprus](./perCountry/CYP_stat.md) (CYP) | 817 | 14 | 148 | 655 | 1.71 % | 7 | 0 | 7 |  0.055 %  | 
-| [Uzbekistan](./perCountry/UZB_stat.md) (UZB) | 1869 | 8 | 789 | 1072 | 0.43 % | 7 | 0 | -75 |  0.003 %  | 
-| [Mozambique](./perCountry/MOZ_stat.md) (MOZ) | 76 | 0 | 12 | 64 | 0.00 % | 6 | 0 | 6 |  0.000 %  | 
-| [Slovakia](./perCountry/SVK_stat.md) (SVK) | 1379 | 18 | 394 | 967 | 1.31 % | 6 | 1 | -3 |  0.018 %  | 
-| [Zambia](./perCountry/ZMB_stat.md) (ZMB) | 88 | 3 | 42 | 43 | 3.41 % | 4 | 0 | -1 |  0.000 %  | 
-| [Uganda](./perCountry/UGA_stat.md) (UGA) | 79 | 0 | 46 | 33 | 0.00 % | 4 | 0 | 4 |  0.000 %  | 
-| [Liberia](./perCountry/LBR_stat.md) (LBR) | 124 | 12 | 25 | 87 | 9.68 % | 4 | 1 | 3 |  0.002 %  | 
-| [Lebanon](./perCountry/LBN_stat.md) (LBN) | 707 | 24 | 145 | 538 | 3.39 % | 3 | 0 | 1 |  0.008 %  | 
-| [Jordan](./perCountry/JOR_stat.md) (JOR) | 447 | 7 | 337 | 103 | 1.57 % | 3 | 0 | -2 |  0.001 %  | 
-| [Nepal](./perCountry/NPL_stat.md) (NPL) | 52 | 0 | 16 | 36 | 0.00 % | 3 | 0 | -1 |  0.000 %  | 
-| [BurkinaFaso](./perCountry/BFA_stat.md) (BFA) | 632 | 42 | 453 | 137 | 6.65 % | 3 | 1 | -9 |  0.001 %  | 
-| [Eswatini](./perCountry/SWZ_stat.md) (SWZ) | 59 | 1 | 10 | 48 | 1.69 % | 3 | 0 | 3 |  0.004 %  | 
-| [CentralAfrican Republic](./perCountry/CAF_stat.md) (CAF) | 19 | 0 | 10 | 9 | 0.00 % | 3 | 0 | 3 |  0.000 %  | 
-| [China](./perCountry/CHN_stat.md) (CHN) | 83912 | 4637 | 78277 | 998 | 5.53 % | 3 | 1 | -100 |  0.000 %  | 
-| [Iceland](./perCountry/ISL_stat.md) (ISL) | 1792 | 10 | 1608 | 174 | 0.56 % | 2 | 0 | -36 |  0.049 %  | 
-| [Haiti](./perCountry/HTI_stat.md) (HTI) | 74 | 6 | 7 | 61 | 8.11 % | 2 | 0 | 1 |  0.001 %  | 
-| [CostaRica](./perCountry/CRI_stat.md) (CRI) | 695 | 6 | 264 | 425 | 0.86 % | 2 | 0 | -20 |  0.009 %  | 
-| [Togo](./perCountry/TGO_stat.md) (TGO) | 98 | 6 | 62 | 30 | 6.12 % | 2 | 0 | 2 |  0.000 %  | 
-| [Bahamas](./perCountry/BHS_stat.md) (BHS) | 80 | 11 | 22 | 47 | 13.75 % | 2 | 0 | -5 |  0.012 %  | 
-| [Venezuela](./perCountry/VEN_stat.md) (VEN) | 325 | 10 | 137 | 178 | 3.08 % | 2 | 0 | -3 |  0.001 %  | 
-| [Ethiopia](./perCountry/ETH_stat.md) (ETH) | 123 | 3 | 41 | 79 | 2.44 % | 1 | 0 | -11 |  0.000 %  | 
-| [Montenegro](./perCountry/MNE_stat.md) (MNE) | 321 | 7 | 153 | 161 | 2.18 % | 1 | 1 | 0 |  0.026 %  | 
-| [Mongolia](./perCountry/MNG_stat.md) (MNG) | 38 | 0 | 9 | 29 | 0.00 % | 1 | 0 | 1 |  0.001 %  | 
-| [Mauritius](./perCountry/MUS_stat.md) (MUS) | 332 | 9 | 299 | 24 | 2.71 % | 1 | 0 | -3 |  0.002 %  | 
-| [Malawi](./perCountry/MWI_stat.md) (MWI) | 34 | 3 | 4 | 27 | 8.82 % | 1 | 0 | 1 |  0.000 %  | 
-| [Madagascar](./perCountry/MDG_stat.md) (MDG) | 124 | 0 | 71 | 53 | 0.00 % | 1 | 0 | -8 |  0.000 %  | 
-| [SouthSudan](./perCountry/SSD_stat.md) (SSD) | 6 | 0 | 0 | 6 | 0.00 % | 1 | 0 | 1 |  0.000 %  | 
-| [Liechtenstein](./perCountry/LIE_stat.md) (LIE) | 82 | 1 | 55 | 26 | 1.22 % | 1 | 0 | 1 |  0.069 %  | 
-| [Syria](./perCountry/SYR_stat.md) (SYR) | 43 | 3 | 14 | 26 | 6.98 % | 1 | 0 | -2 |  0.000 %  | 
-| [Angola](./perCountry/AGO_stat.md) (AGO) | 26 | 2 | 6 | 18 | 7.69 % | 1 | 0 | 1 |  0.000 %  | 
-| [Guinea-Bissau](./perCountry/GNB_stat.md) (GNB) | 53 | 1 | 3 | 49 | 1.89 % | 1 | 1 | 0 |  0.003 %  | 
-| [Guyana](./perCountry/GUY_stat.md) (GUY) | 74 | 8 | 12 | 54 | 10.81 % | 1 | 1 | 0 |  0.007 %  | 
-| [Nicaragua](./perCountry/NIC_stat.md) (NIC) | 13 | 3 | 7 | 3 | 23.08 % | 1 | 0 | 1 |  0.000 %  | 
-| [WesternSahara](./perCountry/ESH_stat.md) (ESH) | 6 | 0 | 5 | 1 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Gabon](./perCountry/GAB_stat.md) (GAB) | 176 | 3 | 30 | 143 | 1.70 % | 0 | 0 | 0 |  0.007 %  | 
-| [Chad](./perCountry/TCD_stat.md) (TCD) | 46 | 0 | 15 | 31 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
-| [Kosovo](./perCountry/None_stat.md) (None) | 510 | 12 | 93 | 405 | 2.35 % | 0 | 0 | 0 |  n/a  | 
+| [US](./perCountry/USA_stat.md) (USA) | 988197 | 56259 | 111424 | 820514 | 5.69 % | 22414 | 1378 | 16600 |  0.251 %  | 
+| [European Union 27](./perCountry/EUE_stat.md) (EUE) | 981053 | 99436 | 407884 | 473733 | 10.14 % | 12185 | 1614 | 1618 |  0.106 %  | 
+| [Schengen Area](./perCountry/XXS_stat.md) (XXS) | 984479 | 99442 | 417901 | 467136 | 10.10 % | 11594 | 1629 | 747 |  0.110 %  | 
+| [Russia](./perCountry/RUS_stat.md) (RUS) | 87147 | 794 | 7346 | 79007 | 0.91 % | 6198 | 47 | 5572 |  0.055 %  | 
+| [Brazil](./perCountry/BRA_stat.md) (BRA) | 67446 | 4603 | 31142 | 31701 | 6.82 % | 4346 | 317 | 3039 |  0.015 %  | 
+| [UnitedKingdom](./perCountry/GBR_stat.md) (GBR) | 158348 | 21157 | 807 | 136384 | 13.36 % | 4311 | 363 | 3919 |  0.205 %  | 
+| [France](./perCountry/FRA_stat.md) (FRA) | 165963 | 23327 | 46293 | 96343 | 14.06 % | 3743 | 437 | 2694 |  0.144 %  | 
+| [Spain](./perCountry/ESP_stat.md) (ESP) | 229422 | 23521 | 120832 | 85069 | 10.25 % | 2793 | 331 | -643 |  0.182 %  | 
+| [Canada](./perCountry/CAN_stat.md) (CAN) | 49616 | 2841 | 18268 | 28507 | 5.73 % | 2469 | 178 | 906 |  0.077 %  | 
+| [Turkey](./perCountry/TUR_stat.md) (TUR) | 112261 | 2900 | 33791 | 75570 | 2.58 % | 2131 | 95 | -2615 |  0.092 %  | 
+| [Italy](./perCountry/ITA_stat.md) (ITA) | 199414 | 26977 | 66624 | 105813 | 13.53 % | 1739 | 333 | -290 |  0.175 %  | 
+| [India](./perCountry/IND_stat.md) (IND) | 29451 | 939 | 7137 | 21375 | 3.19 % | 1561 | 58 | 889 |  0.002 %  | 
+| [SaudiArabia](./perCountry/SAU_stat.md) (SAU) | 18811 | 144 | 2531 | 16136 | 0.77 % | 1289 | 5 | 1110 |  0.048 %  | 
+| [Peru](./perCountry/PER_stat.md) (PER) | 28699 | 782 | 8425 | 19492 | 2.72 % | 1182 | 54 | 791 |  0.061 %  | 
+| [Iran](./perCountry/IRN_stat.md) (IRN) | 91472 | 5806 | 70933 | 14733 | 6.35 % | 991 | 96 | -381 |  0.018 %  | 
+| [Germany](./perCountry/GER_stat.md) (GER) | 158758 | 6126 | 114500 | 38132 | 3.86 % | 988 | 150 | -1662 |  0.046 %  | 
+| [Qatar](./perCountry/QAT_stat.md) (QAT) | 11244 | 10 | 1066 | 10168 | 0.09 % | 957 | 0 | 903 |  0.366 %  | 
+| [Mexico](./perCountry/MEX_stat.md) (MEX) | 15529 | 1434 | 9086 | 5009 | 9.23 % | 852 | 83 | 37 |  0.004 %  | 
+| [Belarus](./perCountry/BLR_stat.md) (BLR) | 11289 | 75 | 1740 | 9474 | 0.66 % | 826 | 3 | 778 |  0.100 %  | 
+| [Singapore](./perCountry/SGP_stat.md) (SGP) | 14423 | 14 | 1095 | 13314 | 0.10 % | 799 | 2 | 762 |  0.236 %  | 
+| [Japan](./perCountry/JPN_stat.md) (JPN) | 14153 | 385 | 1899 | 11869 | 2.72 % | 712 | 13 | 609 |  0.009 %  | 
+| [Pakistan](./perCountry/PAK_stat.md) (PAK) | 13915 | 292 | 3029 | 10594 | 2.10 % | 587 | 11 | 483 |  0.005 %  | 
+| [Belgium](./perCountry/BEL_stat.md) (BEL) | 46687 | 7207 | 10878 | 28602 | 15.44 % | 553 | 113 | 347 |  0.250 %  | 
+| [Ecuador](./perCountry/ECU_stat.md) (ECU) | 23240 | 663 | 1557 | 21020 | 2.85 % | 521 | 87 | 243 |  0.123 %  | 
+| [Bangladesh](./perCountry/BGD_stat.md) (BGD) | 5913 | 152 | 131 | 5630 | 2.57 % | 497 | 7 | 481 |  0.003 %  | 
+| [UnitedArab Emirates](./perCountry/ARE_stat.md) (ARE) | 10839 | 82 | 2090 | 8667 | 0.76 % | 490 | 6 | 372 |  0.090 %  | 
+| [Chile](./perCountry/CHL_stat.md) (CHL) | 13813 | 198 | 7327 | 6288 | 1.43 % | 482 | 9 | 170 |  0.034 %  | 
+| [Netherlands](./perCountry/NLD_stat.md) (NLD) | 38440 | 4534 | 117 | 33789 | 11.80 % | 400 | 43 | 357 |  0.196 %  | 
+| [Ukraine](./perCountry/UKR_stat.md) (UKR) | 9009 | 220 | 864 | 7925 | 2.44 % | 392 | 11 | 357 |  0.018 %  | 
+| [Ireland](./perCountry/IRL_stat.md) (IRL) | 19648 | 1102 | 9233 | 9313 | 5.61 % | 386 | 15 | 371 |  0.192 %  | 
+| [Romania](./perCountry/ROU_stat.md) (ROU) | 11339 | 641 | 3141 | 7557 | 5.65 % | 303 | 22 | 194 |  0.039 %  | 
+| [Sweden](./perCountry/SWE_stat.md) (SWE) | 18926 | 2274 | 1005 | 15647 | 12.02 % | 286 | 80 | 206 |  0.154 %  | 
+| [Poland](./perCountry/POL_stat.md) (POL) | 11902 | 562 | 2466 | 8874 | 4.72 % | 285 | 27 | 57 |  0.023 %  | 
+| [Egypt](./perCountry/EGY_stat.md) (EGY) | 4782 | 337 | 1236 | 3209 | 7.05 % | 248 | 20 | 168 |  0.003 %  | 
+| [SouthAfrica](./perCountry/ZAF_stat.md) (ZAF) | 4793 | 90 | 1473 | 3230 | 1.88 % | 247 | 3 | 244 |  0.006 %  | 
+| [Panama](./perCountry/PAN_stat.md) (PAN) | 6021 | 167 | 455 | 5399 | 2.77 % | 242 | 2 | 123 |  0.129 %  | 
+| [Colombia](./perCountry/COL_stat.md) (COL) | 5597 | 253 | 1210 | 4134 | 4.52 % | 218 | 9 | 132 |  0.008 %  | 
+| [Indonesia](./perCountry/IDN_stat.md) (IDN) | 9096 | 765 | 1151 | 7180 | 8.41 % | 214 | 22 | 148 |  0.003 %  | 
+| [Kuwait](./perCountry/KWT_stat.md) (KWT) | 3288 | 22 | 1012 | 2254 | 0.67 % | 213 | 2 | 5 |  0.054 %  | 
+| [Philippines](./perCountry/PHL_stat.md) (PHL) | 7777 | 511 | 932 | 6334 | 6.57 % | 198 | 10 | 118 |  0.006 %  | 
+| [Afghanistan](./perCountry/AFG_stat.md) (AFG) | 1703 | 57 | 220 | 1426 | 3.35 % | 172 | 7 | 152 |  0.004 %  | 
+| [Guinea](./perCountry/GIN_stat.md) (GIN) | 1163 | 7 | 246 | 910 | 0.60 % | 167 | 0 | 129 |  0.007 %  | 
+| [Portugal](./perCountry/PRT_stat.md) (PRT) | 24027 | 928 | 1357 | 21742 | 3.86 % | 163 | 25 | 110 |  0.211 %  | 
+| [DominicanRepublic](./perCountry/DOM_stat.md) (DOM) | 6293 | 282 | 993 | 5018 | 4.48 % | 158 | 4 | 71 |  0.047 %  | 
+| [Algeria](./perCountry/DZA_stat.md) (DZA) | 3517 | 432 | 1558 | 1527 | 12.28 % | 135 | 7 | 78 |  0.004 %  | 
+| [Denmark](./perCountry/DNK_stat.md) (DNK) | 8896 | 427 | 6148 | 2321 | 4.80 % | 123 | 5 | -36 |  0.040 %  | 
+| [Finland](./perCountry/FIN_stat.md) (FIN) | 4695 | 193 | 2500 | 2002 | 4.11 % | 119 | 3 | 116 |  0.036 %  | 
+| [Kazakhstan](./perCountry/KAZ_stat.md) (KAZ) | 2835 | 25 | 720 | 2090 | 0.88 % | 118 | 0 | 80 |  0.011 %  | 
+| [Israel](./perCountry/ISR_stat.md) (ISR) | 15555 | 204 | 7200 | 8151 | 1.31 % | 112 | 3 | -360 |  0.092 %  | 
+| [Argentina](./perCountry/ARG_stat.md) (ARG) | 4003 | 197 | 1140 | 2666 | 4.92 % | 111 | 5 | 73 |  0.006 %  | 
+| [Switzerland](./perCountry/CHE_stat.md) (CHE) | 29164 | 1665 | 22200 | 5299 | 5.71 % | 103 | 55 | -352 |  0.062 %  | 
+| [Cameroon](./perCountry/CMR_stat.md) (CMR) | 1705 | 58 | 805 | 842 | 3.40 % | 84 | 2 | 63 |  0.003 %  | 
+| [Hungary](./perCountry/HUN_stat.md) (HUN) | 2583 | 280 | 498 | 1805 | 10.84 % | 83 | 8 | 62 |  0.018 %  | 
+| [Bahrain](./perCountry/BHR_stat.md) (BHR) | 2723 | 8 | 1218 | 1497 | 0.29 % | 76 | 0 | 47 |  0.095 %  | 
+| [Moldova](./perCountry/MDA_stat.md) (MDA) | 3481 | 102 | 925 | 2454 | 2.93 % | 73 | 6 | 37 |  0.069 %  | 
+| [Norway](./perCountry/NOR_stat.md) (NOR) | 7599 | 205 | 32 | 7362 | 2.70 % | 72 | 4 | 68 |  0.139 %  | 
+| [SriLanka](./perCountry/LKA_stat.md) (LKA) | 588 | 7 | 126 | 455 | 1.19 % | 65 | 0 | 59 |  0.002 %  | 
+| [Senegal](./perCountry/SEN_stat.md) (SEN) | 736 | 9 | 284 | 443 | 1.22 % | 65 | 0 | 64 |  0.003 %  | 
+| [Nigeria](./perCountry/NGA_stat.md) (NGA) | 1337 | 40 | 255 | 1042 | 2.99 % | 64 | 0 | 48 |  0.001 %  | 
+| [Bolivia](./perCountry/BOL_stat.md) (BOL) | 1014 | 53 | 98 | 863 | 5.23 % | 64 | 3 | 43 |  0.008 %  | 
+| [Bulgaria](./perCountry/BGR_stat.md) (BGR) | 1363 | 58 | 206 | 1099 | 4.26 % | 63 | 2 | 60 |  0.016 %  | 
+| [Armenia](./perCountry/ARM_stat.md) (ARM) | 1808 | 29 | 848 | 931 | 1.60 % | 62 | 1 | 46 |  0.032 %  | 
+| [Morocco](./perCountry/MAR_stat.md) (MAR) | 4120 | 162 | 695 | 3263 | 3.93 % | 55 | 1 | -48 |  0.009 %  | 
+| [Oman](./perCountry/OMN_stat.md) (OMN) | 2049 | 10 | 364 | 1675 | 0.49 % | 51 | 0 | 20 |  0.035 %  | 
+| [Austria](./perCountry/AUT_stat.md) (AUT) | 15274 | 549 | 12362 | 2363 | 3.59 % | 49 | 7 | -38 |  0.027 %  | 
+| [Bosniaand Herzegovina](./perCountry/BIH_stat.md) (BIH) | 1565 | 60 | 659 | 846 | 3.83 % | 49 | 1 | 13 |  0.025 %  | 
+| [Somalia](./perCountry/SOM_stat.md) (SOM) | 480 | 26 | 10 | 444 | 5.42 % | 44 | 3 | 41 |  0.003 %  | 
+| [Czechia](./perCountry/CZE_stat.md) (CZE) | 7445 | 223 | 2826 | 4396 | 3.00 % | 41 | 3 | -243 |  0.041 %  | 
+| [Malaysia](./perCountry/MYS_stat.md) (MYS) | 5820 | 99 | 3957 | 1764 | 1.70 % | 40 | 1 | -56 |  0.006 %  | 
+| [Sudan](./perCountry/SDN_stat.md) (SDN) | 275 | 22 | 21 | 232 | 8.00 % | 38 | 1 | 36 |  0.001 %  | 
+| [Gabon](./perCountry/GAB_stat.md) (GAB) | 211 | 3 | 43 | 165 | 1.42 % | 35 | 0 | 22 |  0.008 %  | 
+| [Uzbekistan](./perCountry/UZB_stat.md) (UZB) | 1904 | 8 | 892 | 1004 | 0.42 % | 35 | 0 | -68 |  0.003 %  | 
+| [Honduras](./perCountry/HND_stat.md) (HND) | 661 | 61 | 79 | 521 | 9.23 % | 34 | 2 | 18 |  0.005 %  | 
+| [Azerbaijan](./perCountry/AZE_stat.md) (AZE) | 1678 | 22 | 1162 | 494 | 1.31 % | 33 | 1 | 9 |  0.005 %  | 
+| [Guatemala](./perCountry/GTM_stat.md) (GTM) | 530 | 15 | 49 | 466 | 2.83 % | 30 | 0 | 30 |  0.003 %  | 
+| [Iraq](./perCountry/IRQ_stat.md) (IRQ) | 1847 | 88 | 1286 | 473 | 4.76 % | 27 | 1 | 3 |  0.001 %  | 
+| [ElSalvador](./perCountry/SLV_stat.md) (SLV) | 323 | 8 | 89 | 226 | 2.48 % | 25 | 0 | 19 |  0.004 %  | 
+| [Cuba](./perCountry/CUB_stat.md) (CUB) | 1389 | 56 | 525 | 808 | 4.03 % | 20 | 2 | -6 |  0.007 %  | 
+| [Guinea-Bissau](./perCountry/GNB_stat.md) (GNB) | 73 | 1 | 18 | 54 | 1.37 % | 20 | 0 | 5 |  0.003 %  | 
+| [Mali](./perCountry/MLI_stat.md) (MLI) | 408 | 23 | 113 | 272 | 5.64 % | 19 | 0 | 18 |  0.001 %  | 
+| [Tunisia](./perCountry/TUN_stat.md) (TUN) | 967 | 39 | 279 | 649 | 4.03 % | 18 | 1 | -46 |  0.006 %  | 
+| [Greece](./perCountry/GRC_stat.md) (GRC) | 2534 | 136 | 577 | 1821 | 5.37 % | 17 | 2 | 15 |  0.017 %  | 
+| [Congo(Kinshasa)](./perCountry/COD_stat.md) (COD) | 459 | 28 | 50 | 381 | 6.10 % | 17 | 0 | 17 |  0.000 %  | 
+| [Rwanda](./perCountry/RWA_stat.md) (RWA) | 207 | 0 | 93 | 114 | 0.00 % | 16 | 0 | 15 |  0.001 %  | 
+| [Uruguay](./perCountry/URY_stat.md) (URY) | 620 | 15 | 386 | 219 | 2.42 % | 14 | 0 | 3 |  0.006 %  | 
+| [Jamaica](./perCountry/JAM_stat.md) (JAM) | 364 | 7 | 29 | 328 | 1.92 % | 14 | 0 | 13 |  0.011 %  | 
+| [Coted&#39;Ivoire](./perCountry/CIV_stat.md) (CIV) | 1164 | 14 | 499 | 651 | 1.20 % | 14 | 0 | -17 |  0.003 %  | 
+| [Korea,South](./perCountry/KOR_stat.md) (KOR) | 10752 | 244 | 8854 | 1654 | 2.27 % | 14 | 1 | -77 |  0.003 %  | 
+| [Kyrgyzstan](./perCountry/KGZ_stat.md) (KGZ) | 695 | 8 | 395 | 292 | 1.15 % | 13 | 0 | -12 |  0.005 %  | 
+| [NorthMacedonia](./perCountry/MKD_stat.md) (MKD) | 1399 | 65 | 553 | 781 | 4.65 % | 13 | 4 | -44 |  0.037 %  | 
+| [Djibouti](./perCountry/DJI_stat.md) (DJI) | 1035 | 2 | 477 | 556 | 0.19 % | 12 | 0 | -54 |  0.058 %  | 
+| [Maldives](./perCountry/MDV_stat.md) (MDV) | 226 | 0 | 17 | 209 | 0.00 % | 12 | 0 | 12 |  0.041 %  | 
+| [Lithuania](./perCountry/LTU_stat.md) (LTU) | 1449 | 41 | 474 | 934 | 2.83 % | 11 | 0 | 4 |  0.033 %  | 
+| [Georgia](./perCountry/GEO_stat.md) (GEO) | 497 | 6 | 156 | 335 | 1.21 % | 11 | 0 | 4 |  0.009 %  | 
+| [Albania](./perCountry/ALB_stat.md) (ALB) | 736 | 28 | 422 | 286 | 3.80 % | 10 | 0 | -2 |  0.010 %  | 
+| [Thailand](./perCountry/THA_stat.md) (THA) | 2931 | 52 | 2609 | 270 | 1.77 % | 9 | 1 | -7 |  0.000 %  | 
+| [Croatia](./perCountry/HRV_stat.md) (HRV) | 2039 | 59 | 1166 | 814 | 2.89 % | 9 | 4 | -58 |  0.020 %  | 
+| [Kenya](./perCountry/KEN_stat.md) (KEN) | 363 | 14 | 114 | 235 | 3.86 % | 8 | 0 | 0 |  0.000 %  | 
+| [Australia](./perCountry/AUS_stat.md) (AUS) | 6721 | 83 | 5588 | 1050 | 1.23 % | 7 | 0 | -40 |  0.004 %  | 
+| [Eswatini](./perCountry/SWZ_stat.md) (SWZ) | 65 | 1 | 10 | 54 | 1.54 % | 6 | 0 | 6 |  0.005 %  | 
+| [Latvia](./perCountry/LVA_stat.md) (LVA) | 818 | 13 | 267 | 538 | 1.59 % | 6 | 1 | 5 |  0.028 %  | 
+| [Luxembourg](./perCountry/LUX_stat.md) (LUX) | 3729 | 88 | 3123 | 518 | 2.36 % | 6 | 0 | -13 |  0.085 %  | 
+| [China](./perCountry/CHN_stat.md) (CHN) | 83918 | 4637 | 78374 | 907 | 5.53 % | 6 | 0 | -91 |  0.000 %  | 
+| [Slovenia](./perCountry/SVN_stat.md) (SVN) | 1402 | 83 | 221 | 1098 | 5.92 % | 6 | 1 | 5 |  0.053 %  | 
+| [Cyprus](./perCountry/CYP_stat.md) (CYP) | 822 | 15 | 148 | 659 | 1.82 % | 5 | 1 | 4 |  0.055 %  | 
+| [Niger](./perCountry/NER_stat.md) (NER) | 701 | 29 | 385 | 287 | 4.14 % | 5 | 0 | -30 |  0.001 %  | 
+| [Andorra](./perCountry/AND_stat.md) (AND) | 743 | 40 | 385 | 318 | 5.38 % | 5 | 0 | -36 |  0.413 %  | 
+| [Madagascar](./perCountry/MDG_stat.md) (MDG) | 128 | 0 | 75 | 53 | 0.00 % | 4 | 0 | 0 |  0.000 %  | 
+| [Venezuela](./perCountry/VEN_stat.md) (VEN) | 329 | 10 | 142 | 177 | 3.04 % | 4 | 0 | -1 |  0.001 %  | 
+| [Estonia](./perCountry/EST_stat.md) (EST) | 1647 | 50 | 233 | 1364 | 3.04 % | 4 | 1 | 3 |  0.103 %  | 
+| [BurkinaFaso](./perCountry/BFA_stat.md) (BFA) | 635 | 42 | 469 | 124 | 6.61 % | 3 | 0 | -13 |  0.001 %  | 
+| [Lebanon](./perCountry/LBN_stat.md) (LBN) | 710 | 24 | 145 | 541 | 3.38 % | 3 | 0 | 3 |  0.008 %  | 
+| [CaboVerde](./perCountry/CPV_stat.md) (CPV) | 109 | 1 | 1 | 107 | 0.92 % | 3 | 0 | 3 |  0.020 %  | 
+| [NewZealand](./perCountry/NZL_stat.md) (NZL) | 1472 | 19 | 1214 | 239 | 1.29 % | 3 | 0 | -31 |  0.005 %  | 
+| [Jordan](./perCountry/JOR_stat.md) (JOR) | 449 | 7 | 342 | 100 | 1.56 % | 2 | 0 | -3 |  0.001 %  | 
+| [Haiti](./perCountry/HTI_stat.md) (HTI) | 76 | 6 | 8 | 62 | 7.89 % | 2 | 0 | 1 |  0.001 %  | 
+| [Malawi](./perCountry/MWI_stat.md) (MWI) | 36 | 3 | 4 | 29 | 8.33 % | 2 | 0 | 2 |  0.000 %  | 
+| [Malta](./perCountry/MLT_stat.md) (MLT) | 450 | 4 | 286 | 160 | 0.89 % | 2 | 0 | -2 |  0.033 %  | 
+| [Mauritius](./perCountry/MUS_stat.md) (MUS) | 334 | 10 | 302 | 22 | 2.99 % | 2 | 1 | -2 |  0.002 %  | 
+| [CostaRica](./perCountry/CRI_stat.md) (CRI) | 697 | 6 | 287 | 404 | 0.86 % | 2 | 0 | -21 |  0.008 %  | 
+| [Slovakia](./perCountry/SVK_stat.md) (SVK) | 1381 | 18 | 403 | 960 | 1.30 % | 2 | 0 | -7 |  0.018 %  | 
+| [Monaco](./perCountry/MCO_stat.md) (MCO) | 95 | 4 | 42 | 49 | 4.21 % | 1 | 0 | 1 |  0.127 %  | 
+| [Ethiopia](./perCountry/ETH_stat.md) (ETH) | 124 | 3 | 50 | 71 | 2.42 % | 1 | 0 | -8 |  0.000 %  | 
+| [Trinidadand Tobago](./perCountry/TTO_stat.md) (TTO) | 116 | 8 | 59 | 49 | 6.90 % | 1 | 0 | -4 |  0.004 %  | 
+| [Angola](./perCountry/AGO_stat.md) (AGO) | 27 | 2 | 6 | 19 | 7.41 % | 1 | 0 | 1 |  0.000 %  | 
+| [Zimbabwe](./perCountry/ZWE_stat.md) (ZWE) | 32 | 4 | 5 | 23 | 12.50 % | 1 | 0 | -2 |  0.000 %  | 
+| [Barbados](./perCountry/BRB_stat.md) (BRB) | 80 | 6 | 39 | 35 | 7.50 % | 1 | 0 | 1 |  0.012 %  | 
+| [SaintVincent and the Grenadines](./perCountry/VCT_stat.md) (VCT) | 15 | 0 | 8 | 7 | 0.00 % | 1 | 0 | -2 |  0.006 %  | 
+| [PapuaNew Guinea](./perCountry/PNG_stat.md) (PNG) | 8 | 0 | 0 | 8 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
+| [Paraguay](./perCountry/PRY_stat.md) (PRY) | 228 | 9 | 93 | 126 | 3.95 % | 0 | 0 | -8 |  0.002 %  | 
+| [Dominica](./perCountry/DMA_stat.md) (DMA) | 16 | 0 | 13 | 3 | 0.00 % | 0 | 0 | 0 |  0.004 %  | 
+| [Montenegro](./perCountry/MNE_stat.md) (MNE) | 321 | 7 | 189 | 125 | 2.18 % | 0 | 0 | -36 |  0.020 %  | 
+| [DiamondPrincess](./perCountry/None_stat.md) (None) | 712 | 13 | 645 | 54 | 1.83 % | 0 | 0 | 0 |  n/a  | 
+| [Mongolia](./perCountry/MNG_stat.md) (MNG) | 38 | 0 | 10 | 28 | 0.00 % | 0 | 0 | -1 |  0.001 %  | 
+| [Zambia](./perCountry/ZMB_stat.md) (ZMB) | 88 | 3 | 42 | 43 | 3.41 % | 0 | 0 | 0 |  0.000 %  | 
+| [Congo(Brazzaville)](./perCountry/COG_stat.md) (COG) | 200 | 6 | 19 | 175 | 3.00 % | 0 | 0 | 0 |  0.003 %  | 
+| [Ghana](./perCountry/GHA_stat.md) (GHA) | 1550 | 11 | 155 | 1384 | 0.71 % | 0 | 0 | 0 |  0.005 %  | 
 | [SaintKitts and Nevis](./perCountry/KNA_stat.md) (KNA) | 15 | 0 | 2 | 13 | 0.00 % | 0 | 0 | 0 |  0.025 %  | 
 | [SaintLucia](./perCountry/LCA_stat.md) (LCA) | 15 | 0 | 15 | 0 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [SaintVincent and the Grenadines](./perCountry/VCT_stat.md) (VCT) | 14 | 0 | 5 | 9 | 0.00 % | 0 | 0 | 0 |  0.008 %  | 
-| [Mauritania](./perCountry/MRT_stat.md) (MRT) | 7 | 1 | 6 | 0 | 14.29 % | 0 | 0 | 0 |  n/a  | 
+| [SanMarino](./perCountry/SMR_stat.md) (SMR) | 538 | 41 | 64 | 433 | 7.62 % | 0 | 0 | 0 |  1.282 %  | 
 | [SaoTome and Principe](./perCountry/STP_stat.md) (STP) | 4 | 0 | 0 | 4 | 0.00 % | 0 | 0 | 0 |  0.002 %  | 
-| [Cambodia](./perCountry/KHM_stat.md) (KHM) | 122 | 0 | 117 | 5 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
-| [Malta](./perCountry/MLT_stat.md) (MLT) | 448 | 4 | 282 | 162 | 0.89 % | 0 | 0 | -33 |  0.034 %  | 
-| [Burundi](./perCountry/BDI_stat.md) (BDI) | 11 | 1 | 4 | 6 | 9.09 % | 0 | 0 | 0 |  0.000 %  | 
+| [Chad](./perCountry/TCD_stat.md) (TCD) | 46 | 0 | 15 | 31 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
+| [CentralAfrican Republic](./perCountry/CAF_stat.md) (CAF) | 19 | 0 | 10 | 9 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
+| [Cambodia](./perCountry/KHM_stat.md) (KHM) | 122 | 0 | 119 | 3 | 0.00 % | 0 | 0 | -2 |  0.000 %  | 
 | [Serbia](./perCountry/SRB_stat.md) (SRB) | 6630 | 125 | 870 | 5635 | 1.89 % | 0 | 0 | 0 |  0.081 %  | 
 | [Seychelles](./perCountry/SYC_stat.md) (SYC) | 11 | 0 | 6 | 5 | 0.00 % | 0 | 0 | 0 |  0.005 %  | 
-| [Gambia](./perCountry/GMB_stat.md) (GMB) | 10 | 1 | 8 | 1 | 10.00 % | 0 | 0 | 0 |  0.000 %  | 
-| [Burma](./perCountry/MMR_stat.md) (MMR) | 146 | 5 | 10 | 131 | 3.42 % | 0 | 0 | 0 |  0.000 %  | 
+| [SierraLeone](./perCountry/SLE_stat.md) (SLE) | 93 | 4 | 10 | 79 | 4.30 % | 0 | 0 | 0 |  0.001 %  | 
+| [Mauritania](./perCountry/MRT_stat.md) (MRT) | 7 | 1 | 6 | 0 | 14.29 % | 0 | 0 | 0 |  n/a  | 
+| [Kosovo](./perCountry/None_stat.md) (None) | 510 | 12 | 93 | 405 | 2.35 % | 0 | 0 | 0 |  n/a  | 
 | [Grenada](./perCountry/GRD_stat.md) (GRD) | 18 | 0 | 7 | 11 | 0.00 % | 0 | 0 | 0 |  0.010 %  | 
-| [Congo(Brazzaville)](./perCountry/COG_stat.md) (COG) | 200 | 6 | 19 | 175 | 3.00 % | 0 | 0 | 0 |  0.003 %  | 
-| [VaticanCity](./perCountry/VAT_stat.md) (VAT) | 9 | 0 | 2 | 7 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Brunei](./perCountry/BRN_stat.md) (BRN) | 138 | 1 | 123 | 14 | 0.72 % | 0 | 0 | -2 |  0.003 %  | 
-| [Zimbabwe](./perCountry/ZWE_stat.md) (ZWE) | 31 | 4 | 2 | 25 | 12.90 % | 0 | 0 | 0 |  0.000 %  | 
+| [Burundi](./perCountry/BDI_stat.md) (BDI) | 11 | 1 | 4 | 6 | 9.09 % | 0 | 0 | 0 |  0.000 %  | 
+| [Burma](./perCountry/MMR_stat.md) (MMR) | 146 | 5 | 16 | 125 | 3.42 % | 0 | 0 | -6 |  0.000 %  | 
+| [SouthSudan](./perCountry/SSD_stat.md) (SSD) | 6 | 0 | 0 | 6 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
+| [Guyana](./perCountry/GUY_stat.md) (GUY) | 74 | 8 | 15 | 51 | 10.81 % | 0 | 0 | -3 |  0.007 %  | 
+| [Brunei](./perCountry/BRN_stat.md) (BRN) | 138 | 1 | 124 | 13 | 0.72 % | 0 | 0 | -1 |  0.003 %  | 
 | [Botswana](./perCountry/BWA_stat.md) (BWA) | 22 | 1 | 0 | 21 | 4.55 % | 0 | 0 | 0 |  0.001 %  | 
-| [Bhutan](./perCountry/BTN_stat.md) (BTN) | 7 | 0 | 4 | 3 | 0.00 % | 0 | 0 | -1 |  0.000 %  | 
-| [Vietnam](./perCountry/VNM_stat.md) (VNM) | 270 | 0 | 225 | 45 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
 | [Suriname](./perCountry/SUR_stat.md) (SUR) | 10 | 1 | 7 | 2 | 10.00 % | 0 | 0 | 0 |  0.000 %  | 
-| [Belize](./perCountry/BLZ_stat.md) (BLZ) | 18 | 2 | 5 | 11 | 11.11 % | 0 | 0 | 0 |  0.003 %  | 
-| [Barbados](./perCountry/BRB_stat.md) (BRB) | 79 | 6 | 39 | 34 | 7.59 % | 0 | 0 | -8 |  0.012 %  | 
-| [WestBank and Gaza](./perCountry/None_stat.md) (None) | 342 | 2 | 83 | 257 | 0.58 % | 0 | 0 | 9 |  n/a  | 
-| [Taiwan](./perCountry/TWN_stat.md) (TWN) | 429 | 6 | 281 | 142 | 1.40 % | 0 | 0 | -6 |  n/a  | 
+| [Bhutan](./perCountry/BTN_stat.md) (BTN) | 7 | 0 | 4 | 3 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
+| [Benin](./perCountry/BEN_stat.md) (BEN) | 64 | 1 | 33 | 30 | 1.56 % | 0 | 0 | 0 |  0.000 %  | 
+| [Syria](./perCountry/SYR_stat.md) (SYR) | 43 | 3 | 19 | 21 | 6.98 % | 0 | 0 | -5 |  0.000 %  | 
+| [Taiwan](./perCountry/TWN_stat.md) (TWN) | 429 | 6 | 290 | 133 | 1.40 % | 0 | 0 | -9 |  n/a  | 
 | [Tanzania](./perCountry/TZA_stat.md) (TZA) | 299 | 10 | 48 | 241 | 3.34 % | 0 | 0 | 0 |  0.000 %  | 
-| [Libya](./perCountry/LBY_stat.md) (LBY) | 61 | 2 | 18 | 41 | 3.28 % | 0 | 0 | 0 |  0.001 %  | 
+| [Liechtenstein](./perCountry/LIE_stat.md) (LIE) | 82 | 1 | 55 | 26 | 1.22 % | 0 | 0 | 0 |  0.069 %  | 
 | [Timor-Leste](./perCountry/TLS_stat.md) (TLS) | 24 | 0 | 2 | 22 | 0.00 % | 0 | 0 | 0 |  0.002 %  | 
-| [Yemen](./perCountry/YEM_stat.md) (YEM) | 1 | 0 | 1 | 0 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [Trinidadand Tobago](./perCountry/TTO_stat.md) (TTO) | 115 | 8 | 54 | 53 | 6.96 % | 0 | 0 | -1 |  0.004 %  | 
-| [Laos](./perCountry/LAO_stat.md) (LAO) | 19 | 0 | 7 | 12 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
-| [Honduras](./perCountry/HND_stat.md) (HND) | 627 | 59 | 65 | 503 | 9.41 % | 0 | 0 | 0 |  0.005 %  | 
-| [Guinea](./perCountry/GIN_stat.md) (GIN) | 996 | 7 | 208 | 781 | 0.70 % | 0 | 0 | 0 |  0.006 %  | 
+| [Togo](./perCountry/TGO_stat.md) (TGO) | 98 | 6 | 62 | 30 | 6.12 % | 0 | 0 | 0 |  0.000 %  | 
+| [Belize](./perCountry/BLZ_stat.md) (BLZ) | 18 | 2 | 6 | 10 | 11.11 % | 0 | 0 | -1 |  0.003 %  | 
+| [Uganda](./perCountry/UGA_stat.md) (UGA) | 79 | 0 | 47 | 32 | 0.00 % | 0 | 0 | -1 |  0.000 %  | 
+| [Bahamas](./perCountry/BHS_stat.md) (BHS) | 80 | 11 | 22 | 47 | 13.75 % | 0 | 0 | 0 |  0.012 %  | 
+| [Libya](./perCountry/LBY_stat.md) (LBY) | 61 | 2 | 18 | 41 | 3.28 % | 0 | 0 | 0 |  0.001 %  | 
 | [Antiguaand Barbuda](./perCountry/ATG_stat.md) (ATG) | 24 | 3 | 11 | 10 | 12.50 % | 0 | 0 | 0 |  0.010 %  | 
-| [Namibia](./perCountry/NAM_stat.md) (NAM) | 16 | 0 | 8 | 8 | 0.00 % | 0 | 0 | -1 |  0.000 %  | 
-| [Andorra](./perCountry/AND_stat.md) (AND) | 738 | 40 | 344 | 354 | 5.42 % | 0 | 0 | 0 |  0.460 %  | 
-| [Eritrea](./perCountry/ERI_stat.md) (ERI) | 39 | 0 | 13 | 26 | 0.00 % | 0 | 0 | 0 |  n/a  | 
-| [EquatorialGuinea](./perCountry/GNQ_stat.md) (GNQ) | 258 | 1 | 8 | 249 | 0.39 % | 0 | 0 | -1 |  0.019 %  | 
-| [Ecuador](./perCountry/ECU_stat.md) (ECU) | 22719 | 576 | 1366 | 20777 | 2.54 % | 0 | 0 | 0 |  0.122 %  | 
-| [Dominica](./perCountry/DMA_stat.md) (DMA) | 16 | 0 | 13 | 3 | 0.00 % | 0 | 0 | 0 |  0.004 %  | 
+| [Liberia](./perCountry/LBR_stat.md) (LBR) | 124 | 12 | 25 | 87 | 9.68 % | 0 | 0 | 0 |  0.002 %  | 
+| [Laos](./perCountry/LAO_stat.md) (LAO) | 19 | 0 | 7 | 12 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
+| [VaticanCity](./perCountry/VAT_stat.md) (VAT) | 9 | 0 | 2 | 7 | 0.00 % | 0 | 0 | 0 |  n/a  | 
+| [Iceland](./perCountry/ISL_stat.md) (ISL) | 1792 | 10 | 1624 | 158 | 0.56 % | 0 | 0 | -16 |  0.045 %  | 
+| [Vietnam](./perCountry/VNM_stat.md) (VNM) | 270 | 0 | 225 | 45 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
+| [WestBank and Gaza](./perCountry/None_stat.md) (None) | 342 | 2 | 83 | 257 | 0.58 % | 0 | 0 | 0 |  n/a  | 
+| [WesternSahara](./perCountry/ESH_stat.md) (ESH) | 6 | 0 | 5 | 1 | 0.00 % | 0 | 0 | 0 |  n/a  | 
+| [Yemen](./perCountry/YEM_stat.md) (YEM) | 1 | 0 | 1 | 0 | 0.00 % | 0 | 0 | 0 |  n/a  | 
+| [Nepal](./perCountry/NPL_stat.md) (NPL) | 52 | 0 | 16 | 36 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
+| [Namibia](./perCountry/NAM_stat.md) (NAM) | 16 | 0 | 8 | 8 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
+| [Fiji](./perCountry/FJI_stat.md) (FJI) | 18 | 0 | 12 | 6 | 0.00 % | 0 | 0 | 0 |  0.001 %  | 
+| [Nicaragua](./perCountry/NIC_stat.md) (NIC) | 13 | 3 | 7 | 3 | 23.08 % | 0 | 0 | 0 |  0.000 %  | 
 | [MSZaandam](./perCountry/None_stat.md) (None) | 9 | 2 | 0 | 7 | 22.22 % | 0 | 0 | 0 |  n/a  | 
-| [PapuaNew Guinea](./perCountry/PNG_stat.md) (PNG) | 8 | 0 | 0 | 8 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
-| [Paraguay](./perCountry/PRY_stat.md) (PRY) | 228 | 9 | 85 | 134 | 3.95 % | 0 | 0 | 0 |  0.002 %  | 
-| [DiamondPrincess](./perCountry/None_stat.md) (None) | 712 | 13 | 645 | 54 | 1.83 % | 0 | 0 | 0 |  n/a  | 
-| [Monaco](./perCountry/MCO_stat.md) (MCO) | 94 | 4 | 42 | 48 | 4.26 % | 0 | 0 | 0 |  0.124 %  | 
-| [Fiji](./perCountry/FJI_stat.md) (FJI) | 18 | 0 | 12 | 6 | 0.00 % | 0 | 0 | -2 |  0.001 %  | 
-| [NewZealand](./perCountry/NZL_stat.md) (NZL) | 1469 | 19 | 1180 | 270 | 1.29 % | -1 | 1 | -40 |  0.006 %  | 
+| [Mozambique](./perCountry/MOZ_stat.md) (MOZ) | 76 | 0 | 12 | 64 | 0.00 % | 0 | 0 | 0 |  0.000 %  | 
+| [Gambia](./perCountry/GMB_stat.md) (GMB) | 10 | 1 | 8 | 1 | 10.00 % | 0 | 0 | 0 |  0.000 %  | 
+| [Eritrea](./perCountry/ERI_stat.md) (ERI) | 39 | 0 | 13 | 26 | 0.00 % | 0 | 0 | 0 |  n/a  | 
+| [EquatorialGuinea](./perCountry/GNQ_stat.md) (GNQ) | 258 | 1 | 9 | 248 | 0.39 % | 0 | 0 | -1 |  0.019 %  | 
 
 
