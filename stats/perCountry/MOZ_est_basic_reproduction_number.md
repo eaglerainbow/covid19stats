@@ -5,6 +5,7 @@
 
 | Reported On | &Delta; Confirmed | Total &Delta; Confirmed First Interval | Total &Delta; Confirmed Second Interval | Estimated Basic Reproduction Number R<sub>0</sub> | 
 |-------------|-------------------|----------------------------------------|-----------------------------------------|---------------------------------------------------|
+| 2020-05-01 | 3 |  None  |  35  |  None  | 
 | 2020-04-30 | 0 |  6  |  31  |  0.19  | 
 | 2020-04-29 | 0 |  11  |  26  |  0.42  | 
 | 2020-04-28 | 0 |  30  |  7  |  4.29  | 
