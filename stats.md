@@ -20,3 +20,16 @@
 * [Estimated Time down to Zero Active Cases by Country, ordered by lowest first](./stats/all_countries_est_downtozero.md)
 * [Estimated Detection Rate by Country, ordered by highest first](./stats/all_countries_est_detectionrate.md)
 * [Estimated Basic Reproduction Number by Country, ordered by highest first](./stats/all_countries_est_basic_reproduction_number.md)
+
+## Comparisons Since Day of 100 Confirmed Cases
+
+These graphs are only available for assorted countries.
+
+* [Confirmed Cases Since Day of 100 Confirmed Cases](./stats/since100confirmed_confirmed.svg)
+* [Deaths Since Day of 100 Confirmed Cases](./stats/since100confirmed_deaths.svg)
+* [Recovered Cases Since Day of 100 Confirmed Cases](./stats/since100confirmed_recovered.svg)
+* [Active Cases Since Day of 100 Confirmed Cases](./stats/since100confirmed_active.svg)
+* [Mortality Since Day of 100 Confirmed Cases](./stats/since100confirmed_mortality.svg)
+* [Percentage Active of Population Since Day of 100 Confirmed Cases](./stats/since100confirmed_activepercentage.svg)
+* [Perecntage Confirmed of Population Since Day of 100 Confirmed Cases](./stats/since100confirmed_activeconfirmed.svg)
+
