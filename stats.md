@@ -31,5 +31,5 @@ These graphs are only available for assorted countries.
 * [Active Cases Since Day of 100 Confirmed Cases](./stats/since100confirmed_active.svg)
 * [Mortality Since Day of 100 Confirmed Cases](./stats/since100confirmed_mortality.svg)
 * [Percentage Active of Population Since Day of 100 Confirmed Cases](./stats/since100confirmed_activepercentage.svg)
-* [Perecntage Confirmed of Population Since Day of 100 Confirmed Cases](./stats/since100confirmed_activeconfirmed.svg)
+* [Percentage Confirmed of Population Since Day of 100 Confirmed Cases](./stats/since100confirmed_confirmedpercentage.svg)
 
