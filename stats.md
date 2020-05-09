@@ -14,6 +14,7 @@
 * [Growth Rate by Country, ordered by highest current growth rate (in 24h)](./stats/all_countries_current_growthrates.md)
 * [Doubling Time by Country, ordered by lowest time first](./stats/all_countries_current_doublingtime.md)
 * [Growth Rate by Country, estimated based on Linear Regression (last 7 days) ordered by highest rate first](./stats/all_countries_current_linregr.md)
+* [New Infections for the last 7 Days per 100,000 Population, order by highest country first](./stats/all_countries_current_confirmed7daysper100kpop.md)
 
 ## Estimations
 * [Estimated Number of Infections by Country, ordered by highest first](./stats/all_countries_est_infected.md)
