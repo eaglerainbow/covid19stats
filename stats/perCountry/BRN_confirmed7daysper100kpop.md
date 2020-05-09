@@ -55,10 +55,10 @@
 | 2020-03-22 |  5  |  38  |  <span style="color: green">8.859</span>  |
 | 2020-03-21 |  5  |  43  |  <span style="color: green">10.024</span>  |
 | 2020-03-20 |  3  |  41  |  <span style="color: green">9.558</span>  |
-| 2020-03-19 |  7  |  64  |  <span style="color: red">14.920</span>  |
-| 2020-03-18 |  12  |  57  |  <span style="color: red">13.288</span>  |
-| 2020-03-17 |  2  |  55  |  <span style="color: red">12.822</span>  |
-| 2020-03-16 |  4  |  53  |  <span style="color: red">12.355</span>  |
+| 2020-03-19 |  7  |  64  |  <span style="color: green">14.920</span>  |
+| 2020-03-18 |  12  |  57  |  <span style="color: green">13.288</span>  |
+| 2020-03-17 |  2  |  55  |  <span style="color: green">12.822</span>  |
+| 2020-03-16 |  4  |  53  |  <span style="color: green">12.355</span>  |
 | 2020-03-15 |  10  |  49  |  <span style="color: green">11.423</span>  |
 | 2020-03-14 |  3  |  39  |  <span style="color: green">9.092</span>  |
 | 2020-03-13 |  26  |  36  |  <span style="color: green">8.392</span>  |

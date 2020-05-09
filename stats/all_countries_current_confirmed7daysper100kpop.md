@@ -1,5 +1,6 @@
-# Most Recent Figures: Highest Rate of Confirmed Cases over Last 7 Days per 100,000 Population
+# Most Recent Figures: Highest Rate of New Confirmed Cases over Last 7 Days per 100,000 Inhabitants
 
+![Scatter Diagram Population Denseity vs. New Cases over last 7 Days per 100,000 Inhabitants)](./all_countries_scatter_density_vs_confirmed7days.svg)
 
 | Country | Confirmed Cases in Last 7 days | Confirmed Cases in last 7 Days per 100,000 Population |
 |---------|--------------------------------|-------------------------------------------------------|

@@ -5,8 +5,8 @@
 
 | Reported On | &Delta; Confirmed (on the day) | &Delta; Confirmed (last 7 days) | New Cases in Previous 7 Days per 100,000 Population |
 |-------------|--------------------------------|---------------------------------|-----------------------------------------------------|
-| 2020-05-08 |  96  |  253  |  <span style="color: red">49.060</span>  |
-| 2020-05-07 |  31  |  180  |  <span style="color: red">34.904</span>  |
+| 2020-05-08 |  96  |  253  |  <span style="color: green">49.060</span>  |
+| 2020-05-07 |  31  |  180  |  <span style="color: green">34.904</span>  |
 | 2020-05-06 |  44  |  339  |  <span style="color: red">65.736</span>  |
 | 2020-05-05 |  32  |  323  |  <span style="color: red">62.634</span>  |
 | 2020-05-04 |  14  |  315  |  <span style="color: red">61.082</span>  |
@@ -14,15 +14,15 @@
 | 2020-05-02 |  28  |  342  |  <span style="color: red">66.318</span>  |
 | 2020-05-01 |  23  |  362  |  <span style="color: red">70.196</span>  |
 | 2020-04-30 |  190  |  360  |  <span style="color: red">69.809</span>  |
-| 2020-04-29 |  28  |  192  |  <span style="color: red">37.231</span>  |
-| 2020-04-28 |  24  |  167  |  <span style="color: red">32.383</span>  |
-| 2020-04-27 |  12  |  157  |  <span style="color: red">30.444</span>  |
-| 2020-04-26 |  37  |  162  |  <span style="color: red">31.414</span>  |
-| 2020-04-25 |  48  |  142  |  <span style="color: red">27.536</span>  |
-| 2020-04-24 |  21  |  101  |  <span style="color: red">19.585</span>  |
-| 2020-04-23 |  22  |  83  |  <span style="color: red">16.095</span>  |
-| 2020-04-22 |  3  |  64  |  <span style="color: red">12.410</span>  |
-| 2020-04-21 |  14  |  63  |  <span style="color: red">12.216</span>  |
+| 2020-04-29 |  28  |  192  |  <span style="color: green">37.231</span>  |
+| 2020-04-28 |  24  |  167  |  <span style="color: green">32.383</span>  |
+| 2020-04-27 |  12  |  157  |  <span style="color: green">30.444</span>  |
+| 2020-04-26 |  37  |  162  |  <span style="color: green">31.414</span>  |
+| 2020-04-25 |  48  |  142  |  <span style="color: green">27.536</span>  |
+| 2020-04-24 |  21  |  101  |  <span style="color: green">19.585</span>  |
+| 2020-04-23 |  22  |  83  |  <span style="color: green">16.095</span>  |
+| 2020-04-22 |  3  |  64  |  <span style="color: green">12.410</span>  |
+| 2020-04-21 |  14  |  63  |  <span style="color: green">12.216</span>  |
 | 2020-04-20 |  17  |  49  |  <span style="color: green">9.502</span>  |
 | 2020-04-19 |  17  |  32  |  <span style="color: green">6.205</span>  |
 | 2020-04-18 |  7  |  16  |  <span style="color: green">3.103</span>  |

@@ -48,11 +48,11 @@
 | 2020-03-29 |  4  |  19  |  <span style="color: green">0.117</span>  |
 | 2020-03-28 |  None  |  46  |  <span style="color: green">0.283</span>  |
 | 2020-03-27 |  3  |  48  |  <span style="color: green">0.295</span>  |
-| 2020-03-26 |  None  |  59  |  <span style="color: red">0.363</span>  |
-| 2020-03-25 |  5  |  61  |  <span style="color: red">0.375</span>  |
-| 2020-03-24 |  4  |  58  |  <span style="color: red">0.357</span>  |
-| 2020-03-23 |  3  |  80  |  <span style="color: red">0.492</span>  |
-| 2020-03-22 |  31  |  77  |  <span style="color: red">0.474</span>  |
+| 2020-03-26 |  None  |  59  |  <span style="color: green">0.363</span>  |
+| 2020-03-25 |  5  |  61  |  <span style="color: green">0.375</span>  |
+| 2020-03-24 |  4  |  58  |  <span style="color: green">0.357</span>  |
+| 2020-03-23 |  3  |  80  |  <span style="color: green">0.492</span>  |
+| 2020-03-22 |  31  |  77  |  <span style="color: green">0.474</span>  |
 | 2020-03-21 |  2  |  46  |  <span style="color: green">0.283</span>  |
 | 2020-03-20 |  14  |  46  |  <span style="color: green">0.283</span>  |
 | 2020-03-19 |  2  |  34  |  <span style="color: green">0.209</span>  |

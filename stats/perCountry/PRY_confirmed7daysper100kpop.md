@@ -5,15 +5,15 @@
 
 | Reported On | &Delta; Confirmed (on the day) | &Delta; Confirmed (last 7 days) | New Cases in Previous 7 Days per 100,000 Population |
 |-------------|--------------------------------|---------------------------------|-----------------------------------------------------|
-| 2020-05-08 |  101  |  230  |  <span style="color: red">3.306</span>  |
-| 2020-05-07 |  22  |  196  |  <span style="color: red">2.818</span>  |
-| 2020-05-06 |  9  |  201  |  <span style="color: red">2.890</span>  |
-| 2020-05-05 |  16  |  192  |  <span style="color: red">2.760</span>  |
-| 2020-05-04 |  19  |  187  |  <span style="color: red">2.688</span>  |
-| 2020-05-03 |  26  |  168  |  <span style="color: red">2.415</span>  |
-| 2020-05-02 |  37  |  142  |  <span style="color: red">2.041</span>  |
-| 2020-05-01 |  67  |  110  |  <span style="color: red">1.581</span>  |
-| 2020-04-30 |  27  |  53  |  <span style="color: red">0.762</span>  |
+| 2020-05-08 |  101  |  230  |  <span style="color: green">3.306</span>  |
+| 2020-05-07 |  22  |  196  |  <span style="color: green">2.818</span>  |
+| 2020-05-06 |  9  |  201  |  <span style="color: green">2.890</span>  |
+| 2020-05-05 |  16  |  192  |  <span style="color: green">2.760</span>  |
+| 2020-05-04 |  19  |  187  |  <span style="color: green">2.688</span>  |
+| 2020-05-03 |  26  |  168  |  <span style="color: green">2.415</span>  |
+| 2020-05-02 |  37  |  142  |  <span style="color: green">2.041</span>  |
+| 2020-05-01 |  67  |  110  |  <span style="color: green">1.581</span>  |
+| 2020-04-30 |  27  |  53  |  <span style="color: green">0.762</span>  |
 | 2020-04-29 |  None  |  26  |  <span style="color: green">0.374</span>  |
 | 2020-04-28 |  11  |  31  |  <span style="color: green">0.446</span>  |
 | 2020-04-27 |  None  |  20  |  <span style="color: green">0.288</span>  |
@@ -21,12 +21,12 @@
 | 2020-04-25 |  5  |  26  |  <span style="color: green">0.374</span>  |
 | 2020-04-24 |  10  |  24  |  <span style="color: green">0.345</span>  |
 | 2020-04-23 |  None  |  39  |  <span style="color: green">0.561</span>  |
-| 2020-04-22 |  5  |  52  |  <span style="color: red">0.748</span>  |
+| 2020-04-22 |  5  |  52  |  <span style="color: green">0.748</span>  |
 | 2020-04-21 |  None  |  49  |  <span style="color: green">0.704</span>  |
-| 2020-04-20 |  2  |  61  |  <span style="color: red">0.877</span>  |
-| 2020-04-19 |  4  |  72  |  <span style="color: red">1.035</span>  |
-| 2020-04-18 |  3  |  69  |  <span style="color: red">0.992</span>  |
-| 2020-04-17 |  25  |  70  |  <span style="color: red">1.006</span>  |
+| 2020-04-20 |  2  |  61  |  <span style="color: green">0.877</span>  |
+| 2020-04-19 |  4  |  72  |  <span style="color: green">1.035</span>  |
+| 2020-04-18 |  3  |  69  |  <span style="color: green">0.992</span>  |
+| 2020-04-17 |  25  |  70  |  <span style="color: green">1.006</span>  |
 | 2020-04-16 |  13  |  50  |  <span style="color: green">0.719</span>  |
 | 2020-04-15 |  2  |  42  |  <span style="color: green">0.604</span>  |
 | 2020-04-14 |  12  |  44  |  <span style="color: green">0.633</span>  |

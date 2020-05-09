@@ -20,8 +20,8 @@
 | 2020-04-26 |  None  |  25  |  <span style="color: green">32.465</span>  |
 | 2020-04-25 |  7  |  34  |  <span style="color: green">44.152</span>  |
 | 2020-04-24 |  8  |  35  |  <span style="color: green">45.451</span>  |
-| 2020-04-23 |  None  |  50  |  <span style="color: green">64.930</span>  |
-| 2020-04-22 |  6  |  50  |  <span style="color: green">64.930</span>  |
+| 2020-04-23 |  None  |  50  |  <span style="color: red">64.930</span>  |
+| 2020-04-22 |  6  |  50  |  <span style="color: red">64.930</span>  |
 | 2020-04-21 |  None  |  58  |  <span style="color: red">75.319</span>  |
 | 2020-04-20 |  4  |  71  |  <span style="color: red">92.201</span>  |
 | 2020-04-19 |  9  |  75  |  <span style="color: red">97.395</span>  |
