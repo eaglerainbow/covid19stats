@@ -44,9 +44,9 @@ infection rate then is assumed to be in expontential growth.
 | [Haiti](./perCountry/HTI_est_basic_reproduction_number.md) (HTI) | 2.71 
 | [Kenya](./perCountry/KEN_est_basic_reproduction_number.md) (KEN) | 2.29 
 | [BurkinaFaso](./perCountry/BFA_est_basic_reproduction_number.md) (BFA) | 2.08 
-| [Burma](./perCountry/MMR_est_basic_reproduction_number.md) (MMR) | 2.00 
 | [Jordan](./perCountry/JOR_est_basic_reproduction_number.md) (JOR) | 2.00 
 | [Bahamas](./perCountry/BHS_est_basic_reproduction_number.md) (BHS) | 2.00 
+| [Burma](./perCountry/MMR_est_basic_reproduction_number.md) (MMR) | 2.00 
 | [Morocco](./perCountry/MAR_est_basic_reproduction_number.md) (MAR) | 1.76 
 | [SierraLeone](./perCountry/SLE_est_basic_reproduction_number.md) (SLE) | 1.74 
 | [Zambia](./perCountry/ZMB_est_basic_reproduction_number.md) (ZMB) | 1.72 
@@ -103,9 +103,9 @@ infection rate then is assumed to be in expontential growth.
 | [Canada](./perCountry/CAN_est_basic_reproduction_number.md) (CAN) | 1.03 
 | [Singapore](./perCountry/SGP_est_basic_reproduction_number.md) (SGP) | 1.03 
 | [Georgia](./perCountry/GEO_est_basic_reproduction_number.md) (GEO) | 1.02 
-| [Nicaragua](./perCountry/NIC_est_basic_reproduction_number.md) (NIC) | 1.00 
-| [Slovakia](./perCountry/SVK_est_basic_reproduction_number.md) (SVK) | 1.00 
 | [Montenegro](./perCountry/MNE_est_basic_reproduction_number.md) (MNE) | 1.00 
+| [Slovakia](./perCountry/SVK_est_basic_reproduction_number.md) (SVK) | 1.00 
+| [Nicaragua](./perCountry/NIC_est_basic_reproduction_number.md) (NIC) | 1.00 
 | [Netherlands](./perCountry/NLD_est_basic_reproduction_number.md) (NLD) | 0.99 
 | [Iraq](./perCountry/IRQ_est_basic_reproduction_number.md) (IRQ) | 0.98 
 | [Belarus](./perCountry/BLR_est_basic_reproduction_number.md) (BLR) | 0.97 
@@ -121,14 +121,14 @@ infection rate then is assumed to be in expontential growth.
 | [Mali](./perCountry/MLI_est_basic_reproduction_number.md) (MLI) | 0.89 
 | [Brazil](./perCountry/BRA_est_basic_reproduction_number.md) (BRA) | 0.89 
 | [Panama](./perCountry/PAN_est_basic_reproduction_number.md) (PAN) | 0.88 
-| [Uzbekistan](./perCountry/UZB_est_basic_reproduction_number.md) (UZB) | 0.88 
 | [Malta](./perCountry/MLT_est_basic_reproduction_number.md) (MLT) | 0.88 
+| [Uzbekistan](./perCountry/UZB_est_basic_reproduction_number.md) (UZB) | 0.88 
 | [Denmark](./perCountry/DNK_est_basic_reproduction_number.md) (DNK) | 0.88 
 | [Ireland](./perCountry/IRL_est_basic_reproduction_number.md) (IRL) | 0.86 
 | [Argentina](./perCountry/ARG_est_basic_reproduction_number.md) (ARG) | 0.86 
 | [Congo(Kinshasa)](./perCountry/COD_est_basic_reproduction_number.md) (COD) | 0.85 
-| [Korea,South](./perCountry/KOR_est_basic_reproduction_number.md) (KOR) | 0.83 
 | [Lebanon](./perCountry/LBN_est_basic_reproduction_number.md) (LBN) | 0.83 
+| [Korea,South](./perCountry/KOR_est_basic_reproduction_number.md) (KOR) | 0.83 
 | [Italy](./perCountry/ITA_est_basic_reproduction_number.md) (ITA) | 0.83 
 | [Latvia](./perCountry/LVA_est_basic_reproduction_number.md) (LVA) | 0.83 
 | [Oman](./perCountry/OMN_est_basic_reproduction_number.md) (OMN) | 0.83 
@@ -157,9 +157,9 @@ infection rate then is assumed to be in expontential growth.
 | [Greece](./perCountry/GRC_est_basic_reproduction_number.md) (GRC) | 0.55 
 | [Croatia](./perCountry/HRV_est_basic_reproduction_number.md) (HRV) | 0.54 
 | [Tunisia](./perCountry/TUN_est_basic_reproduction_number.md) (TUN) | 0.53 
-| [Barbados](./perCountry/BRB_est_basic_reproduction_number.md) (BRB) | 0.50 
-| [SaintLucia](./perCountry/LCA_est_basic_reproduction_number.md) (LCA) | 0.50 
 | [Grenada](./perCountry/GRD_est_basic_reproduction_number.md) (GRD) | 0.50 
+| [SaintLucia](./perCountry/LCA_est_basic_reproduction_number.md) (LCA) | 0.50 
+| [Barbados](./perCountry/BRB_est_basic_reproduction_number.md) (BRB) | 0.50 
 | [SaintVincent and the Grenadines](./perCountry/VCT_est_basic_reproduction_number.md) (VCT) | 0.50 
 | [Czechia](./perCountry/CZE_est_basic_reproduction_number.md) (CZE) | 0.49 
 | [France](./perCountry/FRA_est_basic_reproduction_number.md) (FRA) | 0.45 
@@ -178,13 +178,13 @@ infection rate then is assumed to be in expontential growth.
 | [Serbia](./perCountry/SRB_est_basic_reproduction_number.md) (SRB) | 0.23 
 | [China](./perCountry/CHN_est_basic_reproduction_number.md) (CHN) | 0.23 
 | [Kosovo](./perCountry/None_est_basic_reproduction_number.md) (None) | 0.19 
-| [Mauritania](./perCountry/MRT_est_basic_reproduction_number.md) (MRT) | 0.00 
 | [Botswana](./perCountry/BWA_est_basic_reproduction_number.md) (BWA) | 0.00 
 | [Trinidadand Tobago](./perCountry/TTO_est_basic_reproduction_number.md) (TTO) | 0.00 
-| [EquatorialGuinea](./perCountry/GNQ_est_basic_reproduction_number.md) (GNQ) | 0.00 
 | [Tanzania](./perCountry/TZA_est_basic_reproduction_number.md) (TZA) | 0.00 
-| [VaticanCity](./perCountry/VAT_est_basic_reproduction_number.md) (VAT) | 0.00 
+| [EquatorialGuinea](./perCountry/GNQ_est_basic_reproduction_number.md) (GNQ) | 0.00 
 | [Monaco](./perCountry/MCO_est_basic_reproduction_number.md) (MCO) | 0.00 
+| [Mauritania](./perCountry/MRT_est_basic_reproduction_number.md) (MRT) | 0.00 
+| [VaticanCity](./perCountry/VAT_est_basic_reproduction_number.md) (VAT) | 0.00 
 | [Spain](./perCountry/ESP_est_basic_reproduction_number.md) (ESP) | -0.35 
 | [Lithuania](./perCountry/LTU_est_basic_reproduction_number.md) (LTU) | -0.64 
 | [Zimbabwe](./perCountry/ZWE_est_basic_reproduction_number.md) (ZWE) | -0.67 
