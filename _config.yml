@@ -4,7 +4,11 @@ name: Covid-19 Statistics
 
 url: https://eaglerainbow.github.io/covid19stats/
 markdown: kramdown
-theme: jekyll-theme-minima
+#theme: jekyll-theme-minima
+theme: minima
+
+minima:
+  date_format: "%Y-%m-%d"
 
 # see also https://nicolas-van.github.io/easy-markdown-to-github-pages/
 
