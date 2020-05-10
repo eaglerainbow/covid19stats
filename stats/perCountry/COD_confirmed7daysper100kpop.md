@@ -5,6 +5,7 @@
 
 | Reported On | &Delta; Confirmed (on the day) | &Delta; Confirmed (last 7 days) | New Cases in Previous 7 Days per 100,000 Population |
 |-------------|--------------------------------|---------------------------------|-----------------------------------------------------|
+| 2020-05-09 |  None  |  263  |  <span style="color: green">0.313</span>  |
 | 2020-05-08 |  74  |  333  |  <span style="color: green">0.396</span>  |
 | 2020-05-07 |  66  |  291  |  <span style="color: green">0.346</span>  |
 | 2020-05-06 |  92  |  306  |  <span style="color: green">0.364</span>  |
@@ -49,14 +50,14 @@
 | 2020-03-28 |  14  |  42  |  <span style="color: green">0.050</span>  |
 | 2020-03-27 |  None  |  28  |  <span style="color: green">0.033</span>  |
 | 2020-03-26 |  3  |  33  |  <span style="color: green">0.039</span>  |
-| 2020-03-25 |  3  |  30  |  <span style="color: green">0.036</span>  |
+| 2020-03-25 |  3  |  34  |  <span style="color: green">0.040</span>  |
 | 2020-03-24 |  9  |  31  |  <span style="color: green">0.037</span>  |
 | 2020-03-23 |  6  |  32  |  <span style="color: green">0.038</span>  |
 | 2020-03-22 |  7  |  26  |  <span style="color: green">0.031</span>  |
 | 2020-03-21 |  5  |  20  |  <span style="color: green">0.024</span>  |
 | 2020-03-21 |  None  |  20  |  <span style="color: green">0.024</span>  |
-| 2020-03-20 |  None  |  14  |  <span style="color: green">0.017</span>  |
-| 2020-03-20 |  4  |  15  |  <span style="color: green">0.018</span>  |
+| 2020-03-20 |  4  |  14  |  <span style="color: green">0.017</span>  |
+| 2020-03-20 |  None  |  11  |  <span style="color: green">0.013</span>  |
 | 2020-03-19 |  10  |  11  |  <span style="color: green">0.013</span>  |
 | 2020-03-19 |  None  |  1  |  <span style="color: green">0.001</span>  |
 | 2020-03-18 |  1  |  1  |  <span style="color: green">0.001</span>  |
