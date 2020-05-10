@@ -1,0 +1,80 @@
+# Country Figures: Doubling Time of Infections for Eswatini 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first doubling time indicates the increase of confirmed (infected)
+cases. There, the *higher* the number is, the better is to take control
+of the disease.
+
+The second doubling time indicates the increase of recovered (healed)
+cases. There, the *lower* the number is, the better it is to take
+control of the disease.
+
+![Diagram Absolute Values Confirmed/Recovered](./SWZ_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./SWZ_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-05-09 | 163 |  12.1 days  | 14 |  31.8 days  | 
+| 2020-05-08 | 159 |  12.3 days  | 12 |  None  | 
+| 2020-05-07 | 153 |  11.8 days  | 12 |  None  | 
+| 2020-05-06 | 123 |  16.4 days  | 12 |  27.0 days  | 
+| 2020-05-05 | 119 |  9.7 days  | 12 |  27.0 days  | 
+| 2020-05-04 | 116 |  8.7 days  | 12 |  27.0 days  | 
+| 2020-05-03 | 112 |  7.9 days  | 12 |  27.0 days  | 
+| 2020-05-02 | 108 |  7.7 days  | 12 |  27.0 days  | 
+| 2020-05-01 | 106 |  4.8 days  | 12 |  27.0 days  | 
+| 2020-04-30 | 100 |  4.5 days  | 12 |  12.3 days  | 
+| 2020-04-29 | 91 |  4.8 days  | 10 |  22.1 days  | 
+| 2020-04-28 | 71 |  6.2 days  | 10 |  22.1 days  | 
+| 2020-04-27 | 65 |  5.2 days  | 10 |  22.1 days  | 
+| 2020-04-26 | 59 |  5.3 days  | 10 |  22.1 days  | 
+| 2020-04-25 | 56 |  5.5 days  | 10 |  22.1 days  | 
+| 2020-04-24 | 36 |  6.3 days  | 10 |  22.1 days  | 
+| 2020-04-23 | 31 |  7.7 days  | 8 |  None  | 
+| 2020-04-22 | 31 |  7.0 days  | 8 |  None  | 
+| 2020-04-21 | 31 |  7.0 days  | 8 |  None  | 
+| 2020-04-20 | 24 |  10.7 days  | 8 |  36.7 days  | 
+| 2020-04-19 | 22 |  11.1 days  | 8 |  36.7 days  | 
+| 2020-04-18 | 22 |  8.3 days  | 8 |  36.7 days  | 
+| 2020-04-17 | 16 |  17.2 days  | 8 |  36.7 days  | 
+| 2020-04-16 | 16 |  17.2 days  | 8 |  36.7 days  | 
+| 2020-04-15 | 15 |  22.1 days  | 8 |  36.7 days  | 
+| 2020-04-14 | 15 |  12.3 days  | 8 |  7.3 days  | 
+| 2020-04-13 | 15 |  12.3 days  | 7 |  9.0 days  | 
+| 2020-04-12 | 14 |  11.3 days  | 7 |  None  | 
+| 2020-04-11 | 12 |  17.2 days  | 7 |  None  | 
+| 2020-04-10 | 12 |  17.2 days  | 7 |  None  | 
+| 2020-04-09 | 12 |  17.2 days  | 7 |  None  | 
+| 2020-04-08 | 12 |  17.2 days  | 7 |  None  | 
+| 2020-04-07 | 10 |  46.4 days  | 4 |  None  | 
+| 2020-04-06 | 10 |  46.4 days  | 4 |  None  | 
+| 2020-04-05 | 9 |  None  | 0 |  None  | 
+| 2020-04-04 | 9 |  None  | 0 |  None  | 
+| 2020-04-03 | 9 |  None  | 0 |  None  | 
+| 2020-04-02 | 9 |  12.3 days  | 0 |  None  | 
+| 2020-04-01 | 9 |  6.3 days  | 0 |  None  | 
+| 2020-03-31 | 9 |  6.3 days  | 0 |  None  | 
+| 2020-03-30 | 9 |  6.3 days  | 0 |  None  | 
+| 2020-03-29 | 9 |  6.3 days  | 0 |  None  | 
+| 2020-03-28 | 9 |  2.5 days  | 0 |  None  | 
+| 2020-03-27 | 9 |  2.5 days  | 0 |  None  | 
+| 2020-03-26 | 6 |  3.0 days  | 0 |  None  | 
+| 2020-03-25 | 4 |  3.8 days  | 0 |  None  | 
+| 2020-03-24 | 4 |  3.8 days  | 0 |  None  | 
+| 2020-03-23 | 4 |  3.8 days  | 0 |  None  | 
+| 2020-03-22 | 4 |  3.8 days  | 0 |  None  | 
+| 2020-03-21 | 1 |  None  | 0 |  None  | 
+| 2020-03-20 | 1 |  None  | 0 |  None  | 
+| 2020-03-19 | 1 |  None  | 0 |  None  | 
+| 2020-03-18 | 1 |  None  | 0 |  None  | 
+| 2020-03-17 | 1 |  None  | 0 |  None  | 
+| 2020-03-16 | 1 |  None  | 0 |  None  | 
+| 2020-03-15 | 1 |  None  | 0 |  None  | 
+| 2020-03-14 | 1 |  None  | 0 |  None  | 
+

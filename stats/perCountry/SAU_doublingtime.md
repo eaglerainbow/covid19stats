@@ -1,0 +1,92 @@
+# Country Figures: Doubling Time of Infections for SaudiArabia 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first doubling time indicates the increase of confirmed (infected)
+cases. There, the *higher* the number is, the better is to take control
+of the disease.
+
+The second doubling time indicates the increase of recovered (healed)
+cases. There, the *lower* the number is, the better it is to take
+control of the disease.
+
+![Diagram Absolute Values Confirmed/Recovered](./SAU_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./SAU_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-05-09 | 37136 |  13.2 days  | 10144 |  5.2 days  | 
+| 2020-05-08 | 35432 |  12.9 days  | 9120 |  5.5 days  | 
+| 2020-05-07 | 33731 |  12.7 days  | 7798 |  5.7 days  | 
+| 2020-05-06 | 31938 |  12.5 days  | 6783 |  6.2 days  | 
+| 2020-05-05 | 30251 |  12.2 days  | 5431 |  7.6 days  | 
+| 2020-05-04 | 28656 |  11.9 days  | 4476 |  8.9 days  | 
+| 2020-05-03 | 27011 |  11.6 days  | 4134 |  9.0 days  | 
+| 2020-05-02 | 25459 |  11.2 days  | 3765 |  9.5 days  | 
+| 2020-05-01 | 24097 |  10.7 days  | 3555 |  9.1 days  | 
+| 2020-04-30 | 22753 |  10.2 days  | 3163 |  10.1 days  | 
+| 2020-04-29 | 21402 |  9.7 days  | 2953 |  10.3 days  | 
+| 2020-04-28 | 20077 |  9.2 days  | 2784 |  9.5 days  | 
+| 2020-04-27 | 18811 |  8.6 days  | 2531 |  9.5 days  | 
+| 2020-04-26 | 17522 |  8.1 days  | 2357 |  9.6 days  | 
+| 2020-04-25 | 16299 |  7.5 days  | 2215 |  9.8 days  | 
+| 2020-04-24 | 15102 |  6.8 days  | 2049 |  7.6 days  | 
+| 2020-04-23 | 13930 |  6.6 days  | 1925 |  7.6 days  | 
+| 2020-04-22 | 12772 |  6.6 days  | 1812 |  7.6 days  | 
+| 2020-04-21 | 11631 |  6.6 days  | 1640 |  8.3 days  | 
+| 2020-04-20 | 10484 |  6.8 days  | 1490 |  8.2 days  | 
+| 2020-04-19 | 9362 |  6.9 days  | 1398 |  8.3 days  | 
+| 2020-04-18 | 8274 |  7.1 days  | 1329 |  8.3 days  | 
+| 2020-04-17 | 7142 |  7.6 days  | 1049 |  11.7 days  | 
+| 2020-04-16 | 6380 |  7.7 days  | 990 |  12.6 days  | 
+| 2020-04-15 | 5862 |  7.3 days  | 931 |  12.8 days  | 
+| 2020-04-14 | 5369 |  7.8 days  | 889 |  13.5 days  | 
+| 2020-04-13 | 4934 |  7.9 days  | 805 |  13.1 days  | 
+| 2020-04-12 | 4462 |  8.2 days  | 761 |  11.3 days  | 
+| 2020-04-11 | 4033 |  8.2 days  | 720 |  9.3 days  | 
+| 2020-04-10 | 3651 |  8.7 days  | 685 |  7.6 days  | 
+| 2020-04-09 | 3287 |  9.1 days  | 666 |  7.2 days  | 
+| 2020-04-08 | 2932 |  9.4 days  | 631 |  5.9 days  | 
+| 2020-04-07 | 2795 |  8.7 days  | 615 |  4.0 days  | 
+| 2020-04-06 | 2605 |  8.7 days  | 551 |  3.4 days  | 
+| 2020-04-05 | 2402 |  8.2 days  | 488 |  2.8 days  | 
+| 2020-04-04 | 2179 |  8.5 days  | 420 |  2.3 days  | 
+| 2020-04-03 | 2039 |  8.3 days  | 351 |  2.4 days  | 
+| 2020-04-02 | 1885 |  8.1 days  | 328 |  2.4 days  | 
+| 2020-04-01 | 1720 |  7.8 days  | 264 |  2.5 days  | 
+| 2020-03-31 | 1563 |  7.2 days  | 165 |  3.1 days  | 
+| 2020-03-30 | 1453 |  5.4 days  | 115 |  3.0 days  | 
+| 2020-03-29 | 1299 |  5.5 days  | 66 |  3.9 days  | 
+| 2020-03-28 | 1203 |  4.7 days  | 37 |  6.1 days  | 
+| 2020-03-27 | 1104 |  4.5 days  | 35 |  3.6 days  | 
+| 2020-03-26 | 1012 |  4.1 days  | 33 |  3.2 days  | 
+| 2020-03-25 | 900 |  3.3 days  | 29 |  3.4 days  | 
+| 2020-03-24 | 767 |  3.6 days  | 28 |  3.5 days  | 
+| 2020-03-23 | 562 |  3.4 days  | 19 |  2.5 days  | 
+| 2020-03-22 | 511 |  3.4 days  | 17 |  2.0 days  | 
+| 2020-03-21 | 392 |  4.0 days  | 16 |  2.1 days  | 
+| 2020-03-20 | 344 |  3.8 days  | 8 |  2.7 days  | 
+| 2020-03-19 | 274 |  3.0 days  | 6 |  3.0 days  | 
+| 2020-03-18 | 171 |  2.6 days  | 6 |  3.0 days  | 
+| 2020-03-17 | 171 |  2.6 days  | 6 |  3.0 days  | 
+| 2020-03-16 | 118 |  2.7 days  | 2 |  None  | 
+| 2020-03-15 | 103 |  2.5 days  | 1 |  None  | 
+| 2020-03-14 | 103 |  1.9 days  | 1 |  None  | 
+| 2020-03-13 | 86 |  2.0 days  | 1 |  None  | 
+| 2020-03-12 | 45 |  2.5 days  | 1 |  None  | 
+| 2020-03-11 | 21 |  1.9 days  | 1 |  None  | 
+| 2020-03-10 | 20 |  1.9 days  | 1 |  None  | 
+| 2020-03-09 | 15 |  2.1 days  | 0 |  None  | 
+| 2020-03-08 | 11 |  None  | 0 |  None  | 
+| 2020-03-07 | 5 |  None  | 0 |  None  | 
+| 2020-03-06 | 5 |  None  | 0 |  None  | 
+| 2020-03-05 | 5 |  None  | 0 |  None  | 
+| 2020-03-04 | 1 |  None  | 0 |  None  | 
+| 2020-03-03 | 1 |  None  | 0 |  None  | 
+| 2020-03-02 | 1 |  None  | 0 |  None  | 
+
