@@ -1,0 +1,86 @@
+# Country Figures: Doubling Time of Infections for Albania 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first doubling time indicates the increase of confirmed (infected)
+cases. There, the *higher* the number is, the better is to take control
+of the disease.
+
+The second doubling time indicates the increase of recovered (healed)
+cases. There, the *lower* the number is, the better it is to take
+control of the disease.
+
+![Diagram Absolute Values Confirmed/Recovered](./ALB_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./ALB_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-05-10 | 868 |  55.6 days  | 650 |  24.3 days  | 
+| 2020-05-09 | 856 |  59.9 days  | 627 |  26.0 days  | 
+| 2020-05-08 | 850 |  58.5 days  | 620 |  20.6 days  | 
+| 2020-05-07 | 842 |  57.1 days  | 605 |  19.6 days  | 
+| 2020-05-06 | 832 |  59.1 days  | 595 |  18.4 days  | 
+| 2020-05-05 | 820 |  54.7 days  | 570 |  17.7 days  | 
+| 2020-05-04 | 803 |  56.0 days  | 543 |  19.6 days  | 
+| 2020-05-03 | 795 |  53.8 days  | 531 |  19.1 days  | 
+| 2020-05-02 | 789 |  47.6 days  | 519 |  19.5 days  | 
+| 2020-05-01 | 782 |  34.3 days  | 488 |  23.0 days  | 
+| 2020-04-30 | 773 |  32.0 days  | 470 |  24.7 days  | 
+| 2020-04-29 | 766 |  26.0 days  | 455 |  20.1 days  | 
+| 2020-04-28 | 750 |  23.6 days  | 431 |  22.1 days  | 
+| 2020-04-27 | 736 |  21.3 days  | 422 |  19.4 days  | 
+| 2020-04-26 | 726 |  19.3 days  | 410 |  18.5 days  | 
+| 2020-04-25 | 712 |  18.9 days  | 403 |  17.2 days  | 
+| 2020-04-24 | 678 |  21.5 days  | 394 |  15.0 days  | 
+| 2020-04-23 | 663 |  20.0 days  | 385 |  15.1 days  | 
+| 2020-04-22 | 634 |  19.8 days  | 356 |  14.2 days  | 
+| 2020-04-21 | 609 |  19.9 days  | 345 |  15.0 days  | 
+| 2020-04-20 | 584 |  22.0 days  | 327 |  14.5 days  | 
+| 2020-04-19 | 562 |  21.3 days  | 314 |  13.5 days  | 
+| 2020-04-18 | 548 |  20.9 days  | 302 |  11.7 days  | 
+| 2020-04-17 | 539 |  19.1 days  | 283 |  11.3 days  | 
+| 2020-04-16 | 518 |  20.9 days  | 277 |  9.7 days  | 
+| 2020-04-15 | 494 |  23.3 days  | 251 |  10.3 days  | 
+| 2020-04-14 | 475 |  22.9 days  | 248 |  7.9 days  | 
+| 2020-04-13 | 467 |  23.0 days  | 232 |  7.3 days  | 
+| 2020-04-12 | 446 |  23.3 days  | 217 |  6.9 days  | 
+| 2020-04-11 | 433 |  18.8 days  | 197 |  7.4 days  | 
+| 2020-04-10 | 416 |  15.8 days  | 182 |  7.1 days  | 
+| 2020-04-09 | 409 |  12.8 days  | 165 |  6.6 days  | 
+| 2020-04-08 | 400 |  11.5 days  | 154 |  6.2 days  | 
+| 2020-04-07 | 383 |  11.0 days  | 131 |  5.6 days  | 
+| 2020-04-06 | 377 |  9.6 days  | 116 |  5.3 days  | 
+| 2020-04-05 | 361 |  9.5 days  | 104 |  4.6 days  | 
+| 2020-04-04 | 333 |  9.6 days  | 99 |  4.5 days  | 
+| 2020-04-03 | 304 |  10.2 days  | 89 |  4.9 days  | 
+| 2020-04-02 | 277 |  10.8 days  | 76 |  3.6 days  | 
+| 2020-04-01 | 259 |  8.8 days  | 67 |  3.9 days  | 
+| 2020-03-31 | 243 |  7.5 days  | 52 |  3.3 days  | 
+| 2020-03-30 | 223 |  6.7 days  | 44 |  1.9 days  | 
+| 2020-03-29 | 212 |  5.9 days  | 33 |  2.1 days  | 
+| 2020-03-28 | 197 |  5.4 days  | 31 |  2.1 days  | 
+| 2020-03-27 | 186 |  5.3 days  | 31 |  None  | 
+| 2020-03-26 | 174 |  5.2 days  | 17 |  None  | 
+| 2020-03-25 | 146 |  5.7 days  | 17 |  None  | 
+| 2020-03-24 | 123 |  6.4 days  | 10 |  None  | 
+| 2020-03-23 | 104 |  7.2 days  | 2 |  None  | 
+| 2020-03-22 | 89 |  6.8 days  | 2 |  None  | 
+| 2020-03-21 | 76 |  7.3 days  | 2 |  None  | 
+| 2020-03-20 | 70 |  6.8 days  | 0 |  None  | 
+| 2020-03-19 | 64 |  5.1 days  | 0 |  None  | 
+| 2020-03-18 | 59 |  3.4 days  | 0 |  None  | 
+| 2020-03-17 | 55 |  3.2 days  | 0 |  None  | 
+| 2020-03-16 | 51 |  1.8 days  | 0 |  None  | 
+| 2020-03-15 | 42 |  None  | 0 |  None  | 
+| 2020-03-14 | 38 |  None  | 0 |  None  | 
+| 2020-03-13 | 33 |  None  | 0 |  None  | 
+| 2020-03-12 | 23 |  None  | 0 |  None  | 
+| 2020-03-11 | 12 |  None  | 0 |  None  | 
+| 2020-03-10 | 10 |  None  | 0 |  None  | 
+| 2020-03-09 | 2 |  None  | 0 |  None  | 
+
