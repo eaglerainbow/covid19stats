@@ -5,6 +5,7 @@
 
 | Reported On | &Delta; Confirmed (on the day) | &Delta; Confirmed (last 7 days) | New Cases in Previous 7 Days per 100,000 Population |
 |-------------|--------------------------------|---------------------------------|-----------------------------------------------------|
+| 2020-05-10 |  3  |  18  |  <span style="color: green">0.871</span>  |
 | 2020-05-09 |  4  |  15  |  <span style="color: green">0.726</span>  |
 | 2020-05-08 |  1  |  16  |  <span style="color: green">0.774</span>  |
 | 2020-05-07 |  1  |  20  |  <span style="color: green">0.967</span>  |

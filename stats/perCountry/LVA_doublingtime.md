@@ -20,6 +20,7 @@ control of the disease.
 
 | Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
 |-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-05-10 | 939 |  73.8 days  | 464 |  17.2 days  | 
 | 2020-05-09 | 930 |  74.4 days  | 464 |  17.2 days  | 
 | 2020-05-08 | 928 |  75.5 days  | 464 |  17.2 days  | 
 | 2020-05-07 | 909 |  84.4 days  | 464 |  17.2 days  | 
