@@ -1,0 +1,84 @@
+# Country Figures: Doubling Time of Infections for Coted&#39;Ivoire 
+
+The doubling time below are calculated based on
+* an exponential growth assumption
+* for time difference of past seven (7) days.
+The doubling time's unit is "days".
+
+The first doubling time indicates the increase of confirmed (infected)
+cases. There, the *higher* the number is, the better is to take control
+of the disease.
+
+The second doubling time indicates the increase of recovered (healed)
+cases. There, the *lower* the number is, the better it is to take
+control of the disease.
+
+![Diagram Absolute Values Confirmed/Recovered](./CIV_doublingtime_absolute.svg)
+
+![Diagram Doubling Time of Confirmed/Recovered Cases](./CIV_doublingtime_rate.svg)
+
+
+| Reported On | Confirmed | Doubling Time (Confirmed) | Recovered | Doubling Time (Recovered) |
+|-------------|-----------|---------------------------|-----------|---------------------------|
+| 2020-05-10 | 1700 |  25.2 days  | 794 |  25.2 days  | 
+| 2020-05-09 | 1667 |  24.4 days  | 769 |  23.2 days  | 
+| 2020-05-08 | 1602 |  26.7 days  | 754 |  21.1 days  | 
+| 2020-05-07 | 1571 |  23.6 days  | 742 |  19.2 days  | 
+| 2020-05-06 | 1516 |  24.3 days  | 721 |  19.1 days  | 
+| 2020-05-05 | 1464 |  23.1 days  | 701 |  17.1 days  | 
+| 2020-05-04 | 1432 |  23.8 days  | 693 |  15.1 days  | 
+| 2020-05-03 | 1398 |  25.2 days  | 653 |  14.9 days  | 
+| 2020-05-02 | 1362 |  21.0 days  | 622 |  12.6 days  | 
+| 2020-05-01 | 1333 |  23.1 days  | 597 |  14.0 days  | 
+| 2020-04-30 | 1275 |  20.6 days  | 574 |  10.7 days  | 
+| 2020-04-29 | 1238 |  18.8 days  | 557 |  8.6 days  | 
+| 2020-04-28 | 1183 |  19.3 days  | 525 |  9.2 days  | 
+| 2020-04-27 | 1164 |  15.6 days  | 499 |  7.8 days  | 
+| 2020-04-26 | 1150 |  16.2 days  | 468 |  8.6 days  | 
+| 2020-04-25 | 1077 |  16.7 days  | 419 |  9.0 days  | 
+| 2020-04-24 | 1077 |  11.2 days  | 419 |  6.6 days  | 
+| 2020-04-23 | 1004 |  11.7 days  | 359 |  5.7 days  | 
+| 2020-04-22 | 952 |  12.5 days  | 310 |  5.2 days  | 
+| 2020-04-21 | 916 |  13.8 days  | 303 |  5.3 days  | 
+| 2020-04-20 | 847 |  16.4 days  | 260 |  4.9 days  | 
+| 2020-04-19 | 847 |  12.8 days  | 260 |  4.7 days  | 
+| 2020-04-18 | 801 |  12.3 days  | 239 |  3.8 days  | 
+| 2020-04-17 | 688 |  11.4 days  | 193 |  4.0 days  | 
+| 2020-04-16 | 654 |  12.9 days  | 146 |  5.0 days  | 
+| 2020-04-15 | 638 |  9.9 days  | 114 |  5.9 days  | 
+| 2020-04-14 | 638 |  8.4 days  | 114 |  5.1 days  | 
+| 2020-04-13 | 626 |  7.7 days  | 89 |  6.6 days  | 
+| 2020-04-12 | 574 |  6.5 days  | 85 |  6.2 days  | 
+| 2020-04-11 | 533 |  6.6 days  | 58 |  6.1 days  | 
+| 2020-04-10 | 444 |  7.2 days  | 52 |  5.2 days  | 
+| 2020-04-09 | 444 |  6.2 days  | 52 |  4.2 days  | 
+| 2020-04-08 | 384 |  7.2 days  | 48 |  3.2 days  | 
+| 2020-04-07 | 349 |  7.6 days  | 41 |  3.1 days  | 
+| 2020-04-06 | 323 |  7.8 days  | 41 |  2.9 days  | 
+| 2020-04-05 | 261 |  10.9 days  | 37 |  2.5 days  | 
+| 2020-04-04 | 245 |  5.8 days  | 25 |  2.6 days  | 
+| 2020-04-03 | 218 |  6.6 days  | 19 |  3.0 days  | 
+| 2020-04-02 | 194 |  7.2 days  | 15 |  3.3 days  | 
+| 2020-04-01 | 190 |  5.9 days  | 9 |  4.8 days  | 
+| 2020-03-31 | 179 |  5.7 days  | 7 |  4.2 days  | 
+| 2020-03-30 | 168 |  2.9 days  | 6 |  4.8 days  | 
+| 2020-03-29 | 165 |  2.3 days  | 4 |  3.8 days  | 
+| 2020-03-28 | 101 |  2.8 days  | 3 |  4.8 days  | 
+| 2020-03-27 | 101 |  2.3 days  | 3 |  4.8 days  | 
+| 2020-03-26 | 96 |  2.4 days  | 3 |  4.8 days  | 
+| 2020-03-25 | 80 |  2.2 days  | 3 |  4.8 days  | 
+| 2020-03-24 | 73 |  2.1 days  | 2 |  7.3 days  | 
+| 2020-03-23 | 25 |  1.8 days  | 2 |  None  | 
+| 2020-03-22 | 14 |  2.2 days  | 1 |  None  | 
+| 2020-03-21 | 14 |  2.2 days  | 1 |  None  | 
+| 2020-03-20 | 9 |  2.5 days  | 1 |  None  | 
+| 2020-03-19 | 9 |  2.5 days  | 1 |  None  | 
+| 2020-03-18 | 6 |  3.0 days  | 1 |  None  | 
+| 2020-03-17 | 5 |  None  | 1 |  None  | 
+| 2020-03-16 | 1 |  None  | 0 |  None  | 
+| 2020-03-15 | 1 |  None  | 0 |  None  | 
+| 2020-03-14 | 1 |  None  | 0 |  None  | 
+| 2020-03-13 | 1 |  None  | 0 |  None  | 
+| 2020-03-12 | 1 |  None  | 0 |  None  | 
+| 2020-03-11 | 1 |  None  | 0 |  None  | 
+
