@@ -109,10 +109,8 @@
  {"country":"ElSalvador","countryiso":"SLV","confirmedgrowthrate7days":0.00147333079759953161}, 
  {"country":"Croatia","countryiso":"HRV","confirmedgrowthrate7days":0.00145864921241722806}, 
  {"country":"Somalia","countryiso":"SOM","confirmedgrowthrate7days":0.00143260647363289454}, 
- {"country":"Schengen Area","countryiso":"XXS","confirmedgrowthrate7days":0.00140051240569236494}, 
  {"country":"Congo(Kinshasa)","countryiso":"COD","confirmedgrowthrate7days":0.00140009260686406047}, 
  {"country":"Slovenia","countryiso":"SVN","confirmedgrowthrate7days":0.00135729563934232086}, 
- {"country":"European Union 27","countryiso":"EUE","confirmedgrowthrate7days":0.00133941843570025427}, 
  {"country":"Niger","countryiso":"NER","confirmedgrowthrate7days":0.00133312970862215464}, 
  {"country":"Luxembourg","countryiso":"LUX","confirmedgrowthrate7days":0.00128551352396733215}, 
  {"country":"Spain","countryiso":"ESP","confirmedgrowthrate7days":0.00124896324652878629}, 
@@ -123,7 +121,6 @@
  {"country":"Azerbaijan","countryiso":"AZE","confirmedgrowthrate7days":0.00112638871205005153}, 
  {"country":"Barbados","countryiso":"BRB","confirmedgrowthrate7days":0.00107681773306095987}, 
  {"country":"Togo","countryiso":"TGO","confirmedgrowthrate7days":0.00106142235768346778}, 
- {"country":"France","countryiso":"FRA","confirmedgrowthrate7days":0.00099013515592126931}, 
  {"country":"Austria","countryiso":"AUT","confirmedgrowthrate7days":0.00095716924408844460}, 
  {"country":"NewZealand","countryiso":"NZL","confirmedgrowthrate7days":0.00091317153521268624}, 
  {"country":"Mexico","countryiso":"MEX","confirmedgrowthrate7days":0.00087779866600755233}, 
@@ -174,8 +171,11 @@
  {"country":"Malta","countryiso":"MLT","confirmedgrowthrate7days":0.000112441676688156104286}, 
  {"country":"SanMarino","countryiso":"SMR","confirmedgrowthrate7days":0.000112375339408927090000}, 
  {"country":"Israel","countryiso":"ISR","confirmedgrowthrate7days":0.000034045259588563338571}, 
- {"country":"SouthSudan","countryiso":"SSD","confirmedgrowthrate7days":0.00000000000000000000}, 
  {"country":"Ireland","countryiso":"IRL","confirmedgrowthrate7days":0.00000000000000000000}, 
  {"country":"Sudan","countryiso":"SDN","confirmedgrowthrate7days":0.00000000000000000000}, 
- {"country":"Tanzania","countryiso":"TZA","confirmedgrowthrate7days":0.00000000000000000000}]
+ {"country":"Tanzania","countryiso":"TZA","confirmedgrowthrate7days":0.00000000000000000000}, 
+ {"country":"SouthSudan","countryiso":"SSD","confirmedgrowthrate7days":0.00000000000000000000}, 
+ {"country":"European Union 27","countryiso":"EUE","confirmedgrowthrate7days":-0.000064277280067768177143}, 
+ {"country":"Schengen Area","countryiso":"XXS","confirmedgrowthrate7days":-0.000065020867122891625714}, 
+ {"country":"France","countryiso":"FRA","confirmedgrowthrate7days":-0.00674560644659733532}]
 }
